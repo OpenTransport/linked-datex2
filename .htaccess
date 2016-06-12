@@ -12,3 +12,6 @@ RewriteRule ^terms$  vocabulary.ttl [L]
 
 # Choose the default response
 RewriteRule ^terms$ index.html [L]
+
+Redirect 302 / terms
+
