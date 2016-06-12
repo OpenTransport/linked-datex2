@@ -13,4 +13,4 @@ RewriteRule ^terms$  vocabulary.ttl [L]
 # Choose the default response
 RewriteRule ^terms$ index.html [L]
 
-RewriteRule ^/$ terms [R 303]
+RewriteRule ^/$ terms [R=303]
