@@ -1,0 +1,46 @@
+<html>
+<head>
+    <title>Linked Datex 2 - vocabulary</title>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
+
+    <!-- Latest compiled and minified bootstrap CSS -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+    <!-- Optional bootstrap theme -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css">
+
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+    <script src="js/rdf2html.js"></script>
+</head>
+<body>
+    <div class='container'>
+        <div class='row'>
+            <div class='col-sm-7'>
+              <h1>Linked Datex 2</h1>
+              <p>Fork me on <a href="https://github.com/opentransport/linked-datex2/">github</a>!</p>
+                <hr/>
+                <div data-rdftohtml-plugin='triples'>Loading... (this can take a while: Linked Datex 2 is a big ontology)</div>
+            </div>
+            
+        </div>
+    </div>
+
+    <!-- You can now set the turtle over here: -->
+    <script id="turtle" type="text/turtle" src="vocabulary.ttl"></script>
+    <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+    <!-- Run RDF2HTML -->
+    <script type="text/javascript">
+      $.get($("#turtle").attr('src'), function (triples) {
+        var config = {
+            // Plugins to be called, add your own plugin to the plugin definition in rdf2hml.js and compile
+            plugins: ['triples'],
+            // Output information to the console, errors are always logged to the console
+            verbose: false
+        };
+        rdf2html(triples, config);
+  
+      });
+    </script>
+</body>
+</html>

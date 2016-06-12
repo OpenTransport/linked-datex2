@@ -31,8 +31,7 @@
                                         
                                         rdfs:seeAlso <http://datex2.eu/schema/2/2_0> ;
                                         
-                                        dct:creator <http://pieter.pm/#me> ,
-                                                    [ ] .
+                                        dct:creator <http://pieter.pm/#me> .
 
 
 #################################################################
@@ -33138,7 +33137,7 @@ foaf:Document rdf:type owl:Class .
                                
                                cc:license <http://creativecommons.org/licenses/by/3.0/> ;
                                
-                               foaf:primaryTopic <http://w3id.org/datex2#Ontology> ;
+                               foaf:primaryTopic <http://vocab.datex.org/terms#Ontology> ;
                                
                                dct:hasFormat <https://raw.githubusercontent.com/OpenTransport/linked-datex2/master/vocabulary.ttl> .
 

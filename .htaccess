@@ -1,0 +1,14 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+RewriteBase /
+
+# Rewrite engine setup<br/> 
+RewriteEngine On
+
+AddType text/turtle .ttl
+
+# Rewrite rule to serve RDF/XML content if requested
+RewriteCond %{HTTP_ACCEPT} text/turtle
+RewriteRule ^terms$  vocabulary.ttl [L]
+
+# Choose the default response
+RewriteRule ^terms$ index.html [L]
