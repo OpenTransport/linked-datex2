@@ -37,6 +37,10 @@ datex:Ontology
 <https://people.epfl.ch/prodromos.kolyvakis>
     foaf:name "Prodromos Kolyvakis" .
 
+<http://pieter.pm/#me>
+    foaf:name "Pieter Colpaert" ;
+    owl:sameAs <http://google.com/+PieterColpaert> .
+
 datex:AbnormalTraffic
     rdfs:label "AbnormalTraffic"@en;
     a owl:Class ;
