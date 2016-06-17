@@ -1,0 +1,6460 @@
+45c45
+<     rdfs:label "AbnormalTraffic"@en;
+---
+>     rdfs:label "abnormal traffic"@en;
+52c52
+<     rdfs:label "AcceptedPaymentCards"@en;
+---
+>     rdfs:label "accepted payment cards"@en;
+57c57
+<     rdfs:label "Accident"@en;
+---
+>     rdfs:label "accident"@en;
+64c64
+<     rdfs:label "Activity"@en;
+---
+>     rdfs:label "activity"@en;
+71c71
+<     rdfs:label "AffectedCarriagewayAndLanes"@en;
+---
+>     rdfs:label "affected carriageway and lanes"@en;
+77c77
+<     rdfs:label "AlertCArea"@en;
+---
+>     rdfs:label "alert c area"@en;
+83c83
+<     rdfs:label "AlertCDirection"@en;
+---
+>     rdfs:label "alert c direction"@en;
+89c89
+<     rdfs:label "AlertCLinear"@en;
+---
+>     rdfs:label "alert c linear"@en;
+95c95
+<     rdfs:label "AlertCLinearByCode"@en;
+---
+>     rdfs:label "alert c linear by code"@en;
+101c101
+<     rdfs:label "AlertCLocation"@en;
+---
+>     rdfs:label "alert c location"@en;
+106c106
+<     rdfs:label "AlertCMethod2Linear"@en;
+---
+>     rdfs:label "alert c method to linear"@en;
+112c112
+<     rdfs:label "AlertCMethod2Point"@en;
+---
+>     rdfs:label "alert c method to point"@en;
+118c118
+<     rdfs:label "AlertCMethod2PrimaryPointLocation"@en;
+---
+>     rdfs:label "alert c method to primary point location"@en;
+124c124
+<     rdfs:label "AlertCMethod2SecondaryPointLocation"@en;
+---
+>     rdfs:label "alert c method to secondary point location"@en;
+130c130
+<     rdfs:label "AlertCMethod4Linear"@en;
+---
+>     rdfs:label "alert c method for linear"@en;
+136c136
+<     rdfs:label "AlertCMethod4Point"@en;
+---
+>     rdfs:label "alert c method for point"@en;
+142c142
+<     rdfs:label "AlertCMethod4PrimaryPointLocation"@en;
+---
+>     rdfs:label "alert c method for primary point location"@en;
+147c147
+<     rdfs:label "AlertCMethod4SecondaryPointLocation"@en;
+---
+>     rdfs:label "alert c method for secondary point location"@en;
+153c153
+<     rdfs:label "AlertCPoint"@en;
+---
+>     rdfs:label "alert c point"@en;
+159c159
+<     rdfs:label "AnimalPresenceObstruction"@en;
+---
+>     rdfs:label "animal presence obstruction"@en;
+166c166
+<     rdfs:label "ApplicationRateValue"@en;
+---
+>     rdfs:label "application rate value"@en;
+172c172
+<     rdfs:label "Area"@en;
+---
+>     rdfs:label "area"@en;
+178c178
+<     rdfs:label "AreaDestination"@en;
+---
+>     rdfs:label "area destination"@en;
+184c184
+<     rdfs:label "AreaExtended"@en;
+---
+>     rdfs:label "area extended"@en;
+189c189
+<     rdfs:label "AuthorityOperation"@en;
+---
+>     rdfs:label "authority operation"@en;
+196c196
+<     rdfs:label "AxleFlowValue"@en;
+---
+>     rdfs:label "axle flow value"@en;
+202c202
+<     rdfs:label "AxleSpacing"@en;
+---
+>     rdfs:label "axle spacing"@en;
+207c207
+<     rdfs:label "AxleWeight"@en;
+---
+>     rdfs:label "axle weight"@en;
+212c212
+<     rdfs:label "BasicData"@en;
+---
+>     rdfs:label "basic data"@en;
+217c217
+<     rdfs:label "CarParks"@en;
+---
+>     rdfs:label "car parks"@en;
+223c223
+<     rdfs:label "CatalogueReference"@en;
+---
+>     rdfs:label "catalogue reference"@en;
+228c228
+<     rdfs:label "Cause"@en;
+---
+>     rdfs:label "cause"@en;
+234c234
+<     rdfs:label "Charge"@en;
+---
+>     rdfs:label "charge"@en;
+240c240
+<     rdfs:label "ChargeBand"@en;
+---
+>     rdfs:label "charge band"@en;
+246c246
+<     rdfs:label "ChargeBandByReference"@en;
+---
+>     rdfs:label "charge band by reference"@en;
+252c252
+<     rdfs:label "Comment"@en;
+---
+>     rdfs:label "comment"@en;
+258c258
+<     rdfs:label "ConcentrationOfVehiclesValue"@en;
+---
+>     rdfs:label "concentration of vehicles value"@en;
+264c264
+<     rdfs:label "Conditions"@en;
+---
+>     rdfs:label "conditions"@en;
+270c270
+<     rdfs:label "Contact"@en;
+---
+>     rdfs:label "contact"@en;
+276c276
+<     rdfs:label "ContactByReference"@en;
+---
+>     rdfs:label "contact by reference"@en;
+282c282
+<     rdfs:label "ContactDetails"@en;
+---
+>     rdfs:label "contact details"@en;
+288c288
+<     rdfs:label "D2LogicalModel"@en;
+---
+>     rdfs:label "D2 logical model"@en;
+294c294
+<     rdfs:label "DataValue"@en;
+---
+>     rdfs:label "data value"@en;
+300c300
+<     rdfs:label "DateTimeValue"@en;
+---
+>     rdfs:label "date time value"@en;
+306c306
+<     rdfs:label "DayWeekMonth"@en;
+---
+>     rdfs:label "day week month"@en;
+312c312
+<     rdfs:label "DedicatedAccess"@en;
+---
+>     rdfs:label "dedicated access"@en;
+318c318
+<     rdfs:label "Delays"@en;
+---
+>     rdfs:label "delays"@en;
+324c324
+<     rdfs:label "Destination"@en;
+---
+>     rdfs:label "destination"@en;
+330c330
+<     rdfs:label "Dimension"@en;
+---
+>     rdfs:label "dimension"@en;
+336c336
+<     rdfs:label "DirectionBearingValue"@en;
+---
+>     rdfs:label "direction bearing value"@en;
+342c342
+<     rdfs:label "DirectionCompassValue"@en;
+---
+>     rdfs:label "direction compass value"@en;
+348c348
+<     rdfs:label "DistanceAlongLinearElement"@en;
+---
+>     rdfs:label "distance along linear element"@en;
+354c354
+<     rdfs:label "DistanceFromLinearElementReferent"@en;
+---
+>     rdfs:label "distance from linear element referent"@en;
+360c360
+<     rdfs:label "DistanceFromLinearElementStart"@en;
+---
+>     rdfs:label "distance from linear element start"@en;
+366c366
+<     rdfs:label "DisturbanceActivity"@en;
+---
+>     rdfs:label "disturbance activity"@en;
+372c372
+<     rdfs:label "ElaboratedData"@en;
+---
+>     rdfs:label "elaborated data"@en;
+378c378
+<     rdfs:label "ElaboratedDataFault"@en;
+---
+>     rdfs:label "elaborated data fault"@en;
+384c384
+<     rdfs:label "ElaboratedDataPublication"@en;
+---
+>     rdfs:label "elaborated data publication"@en;
+390c390
+<     rdfs:label "ElectricCharging"@en;
+---
+>     rdfs:label "electric charging"@en;
+396c396
+<     rdfs:label "EnvironmentalObstruction"@en;
+---
+>     rdfs:label "environmental obstruction"@en;
+402c402
+<     rdfs:label "EquipmentOrSystemFault"@en;
+---
+>     rdfs:label "equipment or system fault"@en;
+408c408
+<     rdfs:label "Exchange"@en;
+---
+>     rdfs:label "exchange"@en;
+414c414
+<     rdfs:label "ExternalReferencing"@en;
+---
+>     rdfs:label "external referencing"@en;
+420c420
+<     rdfs:label "Fault"@en;
+---
+>     rdfs:label "fault"@en;
+426c426
+<     rdfs:label "FilterExitManagement"@en;
+---
+>     rdfs:label "filter exit management"@en;
+432c432
+<     rdfs:label "FilterReference"@en;
+---
+>     rdfs:label "filter reference"@en;
+438c438
+<     rdfs:label "FloatingPointMetreDistanceValue"@en;
+---
+>     rdfs:label "floating point metre distance value"@en;
+444c444
+<     rdfs:label "GeneralInstructionOrMessageToRoadUsers"@en;
+---
+>     rdfs:label "general instruction or message to road users"@en;
+450c450
+<     rdfs:label "GeneralNetworkManagement"@en;
+---
+>     rdfs:label "general network management"@en;
+456c456
+<     rdfs:label "GenericSituationRecord"@en;
+---
+>     rdfs:label "generic situation record"@en;
+462c462
+<     rdfs:label "GrossWeightCharacteristic"@en;
+---
+>     rdfs:label "gross weight characteristic"@en;
+468c468
+<     rdfs:label "GroupOfLocations"@en;
+---
+>     rdfs:label "group of locations"@en;
+474c474
+<     rdfs:label "GroupOfParkingSites"@en;
+---
+>     rdfs:label "group of parking sites"@en;
+480c480
+<     rdfs:label "GroupOfParkingSitesStatus"@en;
+---
+>     rdfs:label "group of parking sites status"@en;
+486c486
+<     rdfs:label "GroupOfParkingSpaces"@en;
+---
+>     rdfs:label "group of parking spaces"@en;
+492c492
+<     rdfs:label "GroupOfParkingSpacesStatus"@en;
+---
+>     rdfs:label "group of parking spaces status"@en;
+498c498
+<     rdfs:label "GroupOfPeopleInvolved"@en;
+---
+>     rdfs:label "group of people involved"@en;
+504c504
+<     rdfs:label "GroupOfVehiclesInvolved"@en;
+---
+>     rdfs:label "group of vehicles involved"@en;
+510c510
+<     rdfs:label "HazardousMaterials"@en;
+---
+>     rdfs:label "hazardous materials"@en;
+516c516
+<     rdfs:label "HeaderInformation"@en;
+---
+>     rdfs:label "header information"@en;
+522c522
+<     rdfs:label "HeaviestAxleWeightCharacteristic"@en;
+---
+>     rdfs:label "heaviest axle weight characteristic"@en;
+528c528
+<     rdfs:label "HeightCharacteristic"@en;
+---
+>     rdfs:label "height characteristic"@en;
+534c534
+<     rdfs:label "Humidity"@en;
+---
+>     rdfs:label "humidity"@en;
+540c540
+<     rdfs:label "HumidityInformation"@en;
+---
+>     rdfs:label "humidity information"@en;
+546c546
+<     rdfs:label "Impact"@en;
+---
+>     rdfs:label "impact"@en;
+552c552
+<     rdfs:label "IndividualCharge"@en;
+---
+>     rdfs:label "individual charge"@en;
+558c558
+<     rdfs:label "IndividualVehicleDataValues"@en;
+---
+>     rdfs:label "individual vehicle data values"@en;
+564c564
+<     rdfs:label "InfrastructureDamageObstruction"@en;
+---
+>     rdfs:label "infrastructure damage obstruction"@en;
+570c570
+<     rdfs:label "InterUrbanParkingSite"@en;
+---
+>     rdfs:label "inter urban parking site"@en;
+576c576
+<     rdfs:label "InternationalIdentifier"@en;
+---
+>     rdfs:label "international identifier"@en;
+582c582
+<     rdfs:label "Itinerary"@en;
+---
+>     rdfs:label "itinerary"@en;
+588c588
+<     rdfs:label "ItineraryByIndexedLocations"@en;
+---
+>     rdfs:label "itinerary by indexed locations"@en;
+594c594
+<     rdfs:label "ItineraryByReference"@en;
+---
+>     rdfs:label "itinerary by reference"@en;
+600c600
+<     rdfs:label "Junction"@en;
+---
+>     rdfs:label "junction"@en;
+606c606
+<     rdfs:label "KilogramsConcentrationValue"@en;
+---
+>     rdfs:label "kilograms concentration value"@en;
+612c612
+<     rdfs:label "LengthCharacteristic"@en;
+---
+>     rdfs:label "length characteristic"@en;
+618c618
+<     rdfs:label "LifeCycleManagement"@en;
+---
+>     rdfs:label "life cycle management"@en;
+624c624
+<     rdfs:label "Linear"@en;
+---
+>     rdfs:label "linear"@en;
+630c630
+<     rdfs:label "LinearElement"@en;
+---
+>     rdfs:label "linear element"@en;
+636c636
+<     rdfs:label "LinearElementByCode"@en;
+---
+>     rdfs:label "linear element by code"@en;
+642c642
+<     rdfs:label "LinearElementByPoints"@en;
+---
+>     rdfs:label "linear element by points"@en;
+648c648
+<     rdfs:label "LinearTrafficView"@en;
+---
+>     rdfs:label "linear traffic view"@en;
+654c654
+<     rdfs:label "LinearWithinLinearElement"@en;
+---
+>     rdfs:label "linear within linear element"@en;
+660c660
+<     rdfs:label "Location"@en;
+---
+>     rdfs:label "location"@en;
+666c666
+<     rdfs:label "LocationByReference"@en;
+---
+>     rdfs:label "location by reference"@en;
+672c672
+<     rdfs:label "LocationCharacteristicsOverride"@en;
+---
+>     rdfs:label "location characteristics override"@en;
+678c678
+<     rdfs:label "MaintenanceVehicles"@en;
+---
+>     rdfs:label "maintenance vehicles"@en;
+684c684
+<     rdfs:label "MaintenanceWorks"@en;
+---
+>     rdfs:label "maintenance works"@en;
+692c692
+<     rdfs:label "ManagedCause"@en;
+---
+>     rdfs:label "managed cause"@en;
+698c698
+<     rdfs:label "Management"@en;
+---
+>     rdfs:label "management"@en;
+704c704
+<     rdfs:label "MeasuredDataPublication"@en;
+---
+>     rdfs:label "measured data publication"@en;
+710c710
+<     rdfs:label "MeasuredValue"@en;
+---
+>     rdfs:label "measured value"@en;
+716c716
+<     rdfs:label "MeasurementEquipmentFault"@en;
+---
+>     rdfs:label "measurement equipment fault"@en;
+722c722
+<     rdfs:label "MeasurementSiteRecord"@en;
+---
+>     rdfs:label "measurement site record"@en;
+728c728
+<     rdfs:label "MeasurementSiteTable"@en;
+---
+>     rdfs:label "measurement site table"@en;
+734c734
+<     rdfs:label "MeasurementSiteTablePublication"@en;
+---
+>     rdfs:label "measurement site table publication"@en;
+740c740
+<     rdfs:label "MeasurementSpecificCharacteristics"@en;
+---
+>     rdfs:label "measurement specific characteristics"@en;
+746c746
+<     rdfs:label "MicrogramsConcentrationValue"@en;
+---
+>     rdfs:label "micrograms concentration value"@en;
+752c752
+<     rdfs:label "MilitaryConvoy"@en;
+---
+>     rdfs:label "military convoy"@en;
+756c756
+<     rdfs:label "Mobility"@en;
+---
+>     rdfs:label "mobility"@en;
+762c762
+<     rdfs:label "MultilingualString"@en;
+---
+>     rdfs:label "multilingual string"@en;
+767c767
+<     rdfs:label "MultilingualStringValue"@en;
+---
+>     rdfs:label "multilingual string value"@en;
+772c772
+<     rdfs:label "MultipleVehicleCollision"@en;
+---
+>     rdfs:label "multiple vehicle collision"@en;
+777c777
+<     rdfs:label "NamedArea"@en;
+---
+>     rdfs:label "named area"@en;
+783c783
+<     rdfs:label "NetworkLocation"@en;
+---
+>     rdfs:label "network location"@en;
+789c789
+<     rdfs:label "NetworkManagement"@en;
+---
+>     rdfs:label "network management"@en;
+795c795
+<     rdfs:label "NonOrderedLocationGroupByList"@en;
+---
+>     rdfs:label "non ordered location group by list"@en;
+801c801
+<     rdfs:label "NonOrderedLocationGroupByReference"@en;
+---
+>     rdfs:label "non ordered location group by reference"@en;
+807c807
+<     rdfs:label "NonOrderedLocations"@en;
+---
+>     rdfs:label "non ordered locations"@en;
+813c813
+<     rdfs:label "NonRoadEventInformation"@en;
+---
+>     rdfs:label "non road event information"@en;
+819c819
+<     rdfs:label "NonWeatherRelatedRoadConditions"@en;
+---
+>     rdfs:label "non weather related road conditions"@en;
+825c825
+<     rdfs:label "NumberOfAxlesCharacteristic"@en;
+---
+>     rdfs:label "number of axles characteristic"@en;
+831c831
+<     rdfs:label "Obstruction"@en;
+---
+>     rdfs:label "obstruction"@en;
+837c837
+<     rdfs:label "OffsetDistance"@en;
+---
+>     rdfs:label "offset distance"@en;
+843c843
+<     rdfs:label "OpeningTimes"@en;
+---
+>     rdfs:label "opening times"@en;
+849c849
+<     rdfs:label "OpenlrAreaLocationReference"@en;
+---
+>     rdfs:label "openLR area location reference"@en;
+855c855
+<     rdfs:label "OpenlrBaseLocationReferencePoint"@en;
+---
+>     rdfs:label "openLR base location reference point"@en;
+861c861
+<     rdfs:label "OpenlrBasePointLocation"@en;
+---
+>     rdfs:label "openLR base point location"@en;
+867c867
+<     rdfs:label "OpenlrCircleLocationReference"@en;
+---
+>     rdfs:label "openLR circle location reference"@en;
+873c873
+<     rdfs:label "OpenlrClosedLineLocationReference"@en;
+---
+>     rdfs:label "openLR closed line location reference"@en;
+879c879
+<     rdfs:label "OpenlrExtendedArea"@en;
+---
+>     rdfs:label "openLR extended area"@en;
+885c885
+<     rdfs:label "OpenlrExtendedLinear"@en;
+---
+>     rdfs:label "openLR extended linear"@en;
+891c891
+<     rdfs:label "OpenlrExtendedPoint"@en;
+---
+>     rdfs:label "openLR extended point"@en;
+897c897
+<     rdfs:label "OpenlrGeoCoordinate"@en;
+---
+>     rdfs:label "openLR geo coordinate"@en;
+903c903
+<     rdfs:label "OpenlrGridAttributes"@en;
+---
+>     rdfs:label "openLR grid attributes"@en;
+909c909
+<     rdfs:label "OpenlrGridLocationReference"@en;
+---
+>     rdfs:label "openLR grid location reference"@en;
+915c915
+<     rdfs:label "OpenlrLastLocationReferencePoint"@en;
+---
+>     rdfs:label "openLR last location reference point"@en;
+921c921
+<     rdfs:label "OpenlrLineAttributes"@en;
+---
+>     rdfs:label "openLR line attributes"@en;
+927c927
+<     rdfs:label "OpenlrLineLocationReference"@en;
+---
+>     rdfs:label "openLR line location reference"@en;
+933c933
+<     rdfs:label "OpenlrLocationReferencePoint"@en;
+---
+>     rdfs:label "openLR location reference point"@en;
+939c939
+<     rdfs:label "OpenlrOffsets"@en;
+---
+>     rdfs:label "openLR offsets"@en;
+945c945
+<     rdfs:label "OpenlrPathAttributes"@en;
+---
+>     rdfs:label "openLR path attributes"@en;
+951c951
+<     rdfs:label "OpenlrPoiWithAccessPoint"@en;
+---
+>     rdfs:label "openLR poi with access point"@en;
+957c957
+<     rdfs:label "OpenlrPointAlongLine"@en;
+---
+>     rdfs:label "openLR point along line"@en;
+963c963
+<     rdfs:label "OpenlrPointLocationReference"@en;
+---
+>     rdfs:label "openLR point location reference"@en;
+969c969
+<     rdfs:label "OpenlrPolygonCorners"@en;
+---
+>     rdfs:label "openLR polygon corners"@en;
+975c975
+<     rdfs:label "OpenlrPolygonLocationReference"@en;
+---
+>     rdfs:label "openLR polygon location reference"@en;
+981c981
+<     rdfs:label "OpenlrRectangle"@en;
+---
+>     rdfs:label "openLR rectangle"@en;
+987c987
+<     rdfs:label "OpenlrRectangleLocationReference"@en;
+---
+>     rdfs:label "openLR rectangle location reference"@en;
+993c993
+<     rdfs:label "OperatorAction"@en;
+---
+>     rdfs:label "operator action"@en;
+999c999
+<     rdfs:label "ParkingRouteDetails"@en;
+---
+>     rdfs:label "parking route details"@en;
+1005c1005
+<     rdfs:label "ParkingRouteStatus"@en;
+---
+>     rdfs:label "parking route status"@en;
+1011c1011
+<     rdfs:label "ParkingSite"@en;
+---
+>     rdfs:label "parking site"@en;
+1017c1017
+<     rdfs:label "ParkingSiteStatus"@en;
+---
+>     rdfs:label "parking site status"@en;
+1023c1023
+<     rdfs:label "ParkingSpace"@en;
+---
+>     rdfs:label "parking space"@en;
+1029c1029
+<     rdfs:label "ParkingSpaceBasics"@en;
+---
+>     rdfs:label "parking space basics"@en;
+1035c1035
+<     rdfs:label "ParkingSpaceStatus"@en;
+---
+>     rdfs:label "parking space status"@en;
+1041c1041
+<     rdfs:label "ParkingStandardsAndSecurity"@en;
+---
+>     rdfs:label "parking standards and security"@en;
+1047c1047
+<     rdfs:label "ParkingStatusColourMapping"@en;
+---
+>     rdfs:label "parking status colour mapping"@en;
+1053c1053
+<     rdfs:label "ParkingStatusPublication"@en;
+---
+>     rdfs:label "parking status publication"@en;
+1059c1059
+<     rdfs:label "ParkingStatusValidity"@en;
+---
+>     rdfs:label "parking status validity"@en;
+1065c1065
+<     rdfs:label "ParkingTable"@en;
+---
+>     rdfs:label "parking table"@en;
+1071c1071
+<     rdfs:label "ParkingTablePublication"@en;
+---
+>     rdfs:label "parking table publication"@en;
+1077c1077
+<     rdfs:label "ParkingThresholds"@en;
+---
+>     rdfs:label "parking thresholds"@en;
+1083c1083
+<     rdfs:label "ParkingUsageScenario"@en;
+---
+>     rdfs:label "parking usage scenario"@en;
+1089c1089
+<     rdfs:label "ParkingUsageScenarioStatus"@en;
+---
+>     rdfs:label "parking usage scenario status"@en;
+1095c1095
+<     rdfs:label "ParkingVMS"@en;
+---
+>     rdfs:label "parking VMS"@en;
+1101c1101
+<     rdfs:label "ParkingVehicle"@en;
+---
+>     rdfs:label "parking vehicle"@en;
+1107c1107
+<     rdfs:label "ParkingVehiclesPublication"@en;
+---
+>     rdfs:label "parking vehicles publication"@en;
+1113c1113
+<     rdfs:label "PayloadPublication"@en;
+---
+>     rdfs:label "payload publication"@en;
+1119c1119
+<     rdfs:label "PcuFlowValue"@en;
+---
+>     rdfs:label "pcu flow value"@en;
+1125c1125
+<     rdfs:label "PercentageDistanceAlongLinearElement"@en;
+---
+>     rdfs:label "percentage distance along linear element"@en;
+1131c1131
+<     rdfs:label "PercentageValue"@en;
+---
+>     rdfs:label "percentage value"@en;
+1137c1137
+<     rdfs:label "Period"@en;
+---
+>     rdfs:label "period"@en;
+1143c1143
+<     rdfs:label "PeriodExtended"@en;
+---
+>     rdfs:label "period extended"@en;
+1149c1149
+<     rdfs:label "PermitsAndProhibitions"@en;
+---
+>     rdfs:label "permits and prohibitions"@en;
+1155c1155
+<     rdfs:label "PictogramDisplayAreaSettings"@en;
+---
+>     rdfs:label "pictogram display area settings"@en;
+1161c1161
+<     rdfs:label "Point"@en;
+---
+>     rdfs:label "point"@en;
+1167c1167
+<     rdfs:label "PointAlongLinearElement"@en;
+---
+>     rdfs:label "point along linear element"@en;
+1173c1173
+<     rdfs:label "PointByCoordinates"@en;
+---
+>     rdfs:label "point by coordinates"@en;
+1179c1179
+<     rdfs:label "PointCoordinates"@en;
+---
+>     rdfs:label "point coordinates"@en;
+1185c1185
+<     rdfs:label "PointDestination"@en;
+---
+>     rdfs:label "point destination"@en;
+1191c1191
+<     rdfs:label "PointExtended"@en;
+---
+>     rdfs:label "point extended"@en;
+1197c1197
+<     rdfs:label "Pollution"@en;
+---
+>     rdfs:label "pollution"@en;
+1203c1203
+<     rdfs:label "PolygonArea"@en;
+---
+>     rdfs:label "polygon area"@en;
+1209c1209
+<     rdfs:label "PoorEnvironmentConditions"@en;
+---
+>     rdfs:label "poor environment conditions"@en;
+1215c1215
+<     rdfs:label "PrecipitationDetail"@en;
+---
+>     rdfs:label "precipitation detail"@en;
+1221c1221
+<     rdfs:label "PrecipitationInformation"@en;
+---
+>     rdfs:label "precipitation information"@en;
+1227c1227
+<     rdfs:label "PrecipitationIntensityValue"@en;
+---
+>     rdfs:label "precipitation intensity value"@en;
+1233c1233
+<     rdfs:label "PredefinedItinerary"@en;
+---
+>     rdfs:label "predefined itinerary"@en;
+1239c1239
+<     rdfs:label "PredefinedLocation"@en;
+---
+>     rdfs:label "predefined location"@en;
+1245c1245
+<     rdfs:label "PredefinedLocationContainer"@en;
+---
+>     rdfs:label "predefined location container"@en;
+1251c1251
+<     rdfs:label "PredefinedLocationsPublication"@en;
+---
+>     rdfs:label "predefined locations publication"@en;
+1257c1257
+<     rdfs:label "PredefinedNonOrderedLocationGroup"@en;
+---
+>     rdfs:label "predefined non ordered location group"@en;
+1263c1263
+<     rdfs:label "PublicEvent"@en;
+---
+>     rdfs:label "public event"@en;
+1269c1269
+<     rdfs:label "Road"@en;
+---
+>     rdfs:label "road"@en;
+1275c1275
+<     rdfs:label "RoadConditions"@en;
+---
+>     rdfs:label "road conditions"@en;
+1281c1281
+<     rdfs:label "RoadNode"@en;
+---
+>     rdfs:label "road node"@en;
+1287c1287
+<     rdfs:label "RoadOperatorServiceDisruption"@en;
+---
+>     rdfs:label "road operator service disruption"@en;
+1293c1293
+<     rdfs:label "RoadOrCarriagewayOrLaneManagement"@en;
+---
+>     rdfs:label "road or carriageway or lane management"@en;
+1299c1299
+<     rdfs:label "RoadSurfaceConditionMeasurements"@en;
+---
+>     rdfs:label "road surface condition measurements"@en;
+1305c1305
+<     rdfs:label "RoadsideAssistance"@en;
+---
+>     rdfs:label "roadside assistance"@en;
+1311c1311
+<     rdfs:label "RoadsideServiceDisruption"@en;
+---
+>     rdfs:label "roadside service disruption"@en;
+1317c1317
+<     rdfs:label "Roadworks"@en;
+---
+>     rdfs:label "roadworks"@en;
+1323c1323
+<     rdfs:label "ServiceFacility"@en;
+---
+>     rdfs:label "service facility"@en;
+1329c1329
+<     rdfs:label "SignSetting"@en;
+---
+>     rdfs:label "sign setting"@en;
+1335c1335
+<     rdfs:label "SiteMeasurements"@en;
+---
+>     rdfs:label "site measurements"@en;
+1341c1341
+<     rdfs:label "Situation"@en;
+---
+>     rdfs:label "situation"@en;
+1347c1347
+<     rdfs:label "SituationPublication"@en;
+---
+>     rdfs:label "situation publication"@en;
+1353c1353
+<     rdfs:label "SituationRecord"@en;
+---
+>     rdfs:label "situation record"@en;
+1359c1359
+<     rdfs:label "SituationRecordExtendedApproved"@en;
+---
+>     rdfs:label "situation record extended approved"@en;
+1365c1365
+<     rdfs:label "Source"@en;
+---
+>     rdfs:label "source"@en;
+1371c1371
+<     rdfs:label "SpecialDay"@en;
+---
+>     rdfs:label "special day"@en;
+1377c1377
+<     rdfs:label "SpecialLocationParkingSite"@en;
+---
+>     rdfs:label "special location parking site"@en;
+1383c1383
+<     rdfs:label "SpeedManagement"@en;
+---
+>     rdfs:label "speed management"@en;
+1389c1389
+<     rdfs:label "Subjects"@en;
+---
+>     rdfs:label "subjects"@en;
+1395c1395
+<     rdfs:label "Subscription"@en;
+---
+>     rdfs:label "subscription"@en;
+1401c1401
+<     rdfs:label "SupplementaryPositionalDescription"@en;
+---
+>     rdfs:label "supplementary positional description"@en;
+1407c1407
+<     rdfs:label "Target"@en;
+---
+>     rdfs:label "target"@en;
+1413c1413
+<     rdfs:label "TariffsAndPayment"@en;
+---
+>     rdfs:label "tariffs and payment"@en;
+1419c1419
+<     rdfs:label "Temperature"@en;
+---
+>     rdfs:label "temperature"@en;
+1425c1425
+<     rdfs:label "TemperatureInformation"@en;
+---
+>     rdfs:label "temperature information"@en;
+1431c1431
+<     rdfs:label "TemperatureValue"@en;
+---
+>     rdfs:label "temperature value"@en;
+1437c1437
+<     rdfs:label "TextDisplayAreaSettings"@en;
+---
+>     rdfs:label "text display area settings"@en;
+1443c1443
+<     rdfs:label "TimePeriodByHour"@en;
+---
+>     rdfs:label "time period by hour"@en;
+1449c1449
+<     rdfs:label "TimePeriodOfDay"@en;
+---
+>     rdfs:label "time period of day"@en;
+1455c1455
+<     rdfs:label "TpegAreaDescriptor"@en;
+---
+>     rdfs:label "tpeg area descriptor"@en;
+1461c1461
+<     rdfs:label "TpegAreaLocation"@en;
+---
+>     rdfs:label "tpeg area location"@en;
+1467c1467
+<     rdfs:label "TpegDescriptor"@en;
+---
+>     rdfs:label "tpeg descriptor"@en;
+1473c1473
+<     rdfs:label "TpegFramedPoint"@en;
+---
+>     rdfs:label "tpeg framed point"@en;
+1479c1479
+<     rdfs:label "TpegGeometricArea"@en;
+---
+>     rdfs:label "tpeg geometric area"@en;
+1485c1485
+<     rdfs:label "TpegHeight"@en;
+---
+>     rdfs:label "tpeg height"@en;
+1491c1491
+<     rdfs:label "TpegIlcPointDescriptor"@en;
+---
+>     rdfs:label "tpeg ilc point descriptor"@en;
+1497c1497
+<     rdfs:label "TpegJunction"@en;
+---
+>     rdfs:label "tpeg junction"@en;
+1503c1503
+<     rdfs:label "TpegJunctionPointDescriptor"@en;
+---
+>     rdfs:label "tpeg junction point descriptor"@en;
+1509c1509
+<     rdfs:label "TpegLinearLocation"@en;
+---
+>     rdfs:label "tpeg linear location"@en;
+1515c1515
+<     rdfs:label "TpegNamedOnlyArea"@en;
+---
+>     rdfs:label "tpeg named only area"@en;
+1521c1521
+<     rdfs:label "TpegNonJunctionPoint"@en;
+---
+>     rdfs:label "tpeg non junction point"@en;
+1527c1527
+<     rdfs:label "TpegOtherPointDescriptor"@en;
+---
+>     rdfs:label "tpeg other point descriptor"@en;
+1533c1533
+<     rdfs:label "TpegPoint"@en;
+---
+>     rdfs:label "tpeg point"@en;
+1539c1539
+<     rdfs:label "TpegPointDescriptor"@en;
+---
+>     rdfs:label "tpeg point descriptor"@en;
+1545c1545
+<     rdfs:label "TpegPointLocation"@en;
+---
+>     rdfs:label "tpeg point location"@en;
+1551c1551
+<     rdfs:label "TpegSimplePoint"@en;
+---
+>     rdfs:label "tpeg simple point"@en;
+1557c1557
+<     rdfs:label "TrafficConcentration"@en;
+---
+>     rdfs:label "traffic concentration"@en;
+1563c1563
+<     rdfs:label "TrafficData"@en;
+---
+>     rdfs:label "traffic data"@en;
+1569c1569
+<     rdfs:label "TrafficElement"@en;
+---
+>     rdfs:label "traffic element"@en;
+1575c1575
+<     rdfs:label "TrafficFlow"@en;
+---
+>     rdfs:label "traffic flow"@en;
+1581c1581
+<     rdfs:label "TrafficHeadway"@en;
+---
+>     rdfs:label "traffic headway"@en;
+1587c1587
+<     rdfs:label "TrafficSpeed"@en;
+---
+>     rdfs:label "traffic speed"@en;
+1593c1593
+<     rdfs:label "TrafficStatus"@en;
+---
+>     rdfs:label "traffic status"@en;
+1599c1599
+<     rdfs:label "TrafficStatusValue"@en;
+---
+>     rdfs:label "traffic status value"@en;
+1605c1605
+<     rdfs:label "TrafficView"@en;
+---
+>     rdfs:label "traffic view"@en;
+1611c1611
+<     rdfs:label "TrafficViewPublication"@en;
+---
+>     rdfs:label "traffic view publication"@en;
+1617c1617
+<     rdfs:label "TrafficViewRecord"@en;
+---
+>     rdfs:label "traffic view record"@en;
+1623c1623
+<     rdfs:label "TransitInformation"@en;
+---
+>     rdfs:label "transit information"@en;
+1629c1629
+<     rdfs:label "TravelTimeData"@en;
+---
+>     rdfs:label "travel time data"@en;
+1635c1635
+<     rdfs:label "UrbanParkingSite"@en;
+---
+>     rdfs:label "urban parking site"@en;
+1641c1641
+<     rdfs:label "UrlLink"@en;
+---
+>     rdfs:label "url link"@en;
+1647c1647
+<     rdfs:label "UsedPaymentCard"@en;
+---
+>     rdfs:label "used payment card"@en;
+1653c1653
+<     rdfs:label "Validity"@en;
+---
+>     rdfs:label "validity"@en;
+1659c1659
+<     rdfs:label "Vehicle"@en;
+---
+>     rdfs:label "vehicle"@en;
+1665c1665
+<     rdfs:label "VehicleCharacteristics"@en;
+---
+>     rdfs:label "vehicle characteristics"@en;
+1671c1671
+<     rdfs:label "VehicleCharacteristicsExtended"@en;
+---
+>     rdfs:label "vehicle characteristics extended"@en;
+1677c1677
+<     rdfs:label "VehicleCountAndRate"@en;
+---
+>     rdfs:label "vehicle count and rate"@en;
+1683c1683
+<     rdfs:label "VehicleCountValue"@en;
+---
+>     rdfs:label "vehicle count value"@en;
+1689c1689
+<     rdfs:label "VehicleCountWithinInterval"@en;
+---
+>     rdfs:label "vehicle count within interval"@en;
+1695c1695
+<     rdfs:label "VehicleFlowValue"@en;
+---
+>     rdfs:label "vehicle flow value"@en;
+1701c1701
+<     rdfs:label "VehicleObstruction"@en;
+---
+>     rdfs:label "vehicle obstruction"@en;
+1707c1707
+<     rdfs:label "Vms"@en;
+---
+>     rdfs:label "VMS"@en;
+1713c1713
+<     rdfs:label "VmsDynamicCharacteristics"@en;
+---
+>     rdfs:label "VMS dynamic characteristics"@en;
+1719c1719
+<     rdfs:label "VmsFault"@en;
+---
+>     rdfs:label "VMS fault"@en;
+1725c1725
+<     rdfs:label "VmsManagedLogicalLocation"@en;
+---
+>     rdfs:label "VMS managed logical location"@en;
+1731c1731
+<     rdfs:label "VmsMessage"@en;
+---
+>     rdfs:label "VMS message"@en;
+1737c1737
+<     rdfs:label "VmsPictogram"@en;
+---
+>     rdfs:label "VMS pictogram"@en;
+1743c1743
+<     rdfs:label "VmsPictogramDisplayArea"@en;
+---
+>     rdfs:label "VMS pictogram display area"@en;
+1749c1749
+<     rdfs:label "VmsPictogramDisplayCharacteristics"@en;
+---
+>     rdfs:label "VMS pictogram display characteristics"@en;
+1755c1755
+<     rdfs:label "VmsPublication"@en;
+---
+>     rdfs:label "VMS publication"@en;
+1761c1761
+<     rdfs:label "VmsRecord"@en;
+---
+>     rdfs:label "VMS record"@en;
+1767c1767
+<     rdfs:label "VmsSetting"@en;
+---
+>     rdfs:label "VMS setting"@en;
+1773c1773
+<     rdfs:label "VmsSupplementaryPanel"@en;
+---
+>     rdfs:label "VMS supplementary panel"@en;
+1779c1779
+<     rdfs:label "VmsSupplementaryPanelCharacteristics"@en;
+---
+>     rdfs:label "VMS supplementary panel characteristics"@en;
+1785c1785
+<     rdfs:label "VmsSupplementaryPictogram"@en;
+---
+>     rdfs:label "VMS supplementary pictogram"@en;
+1791c1791
+<     rdfs:label "VmsTablePublication"@en;
+---
+>     rdfs:label "VMS table publication"@en;
+1797c1797
+<     rdfs:label "VmsText"@en;
+---
+>     rdfs:label "VMS text"@en;
+1803c1803
+<     rdfs:label "VmsTextDisplayCharacteristics"@en;
+---
+>     rdfs:label "VMS text display characteristics"@en;
+1809c1809
+<     rdfs:label "VmsTextLine"@en;
+---
+>     rdfs:label "VMS text line"@en;
+1815c1815
+<     rdfs:label "VmsUnit"@en;
+---
+>     rdfs:label "VMS unit"@en;
+1821c1821
+<     rdfs:label "VmsUnitFault"@en;
+---
+>     rdfs:label "VMS unit fault"@en;
+1827c1827
+<     rdfs:label "VmsUnitRecord"@en;
+---
+>     rdfs:label "VMS unit record"@en;
+1833c1833
+<     rdfs:label "VmsUnitTable"@en;
+---
+>     rdfs:label "VMS unit table"@en;
+1839c1839
+<     rdfs:label "WeatherData"@en;
+---
+>     rdfs:label "weather data"@en;
+1845c1845
+<     rdfs:label "WeatherRelatedRoadConditions"@en;
+---
+>     rdfs:label "weather related road conditions"@en;
+1851c1851
+<     rdfs:label "WidthCharacteristic"@en;
+---
+>     rdfs:label "width characteristic"@en;
+1857c1857
+<     rdfs:label "Wind"@en;
+---
+>     rdfs:label "wind"@en;
+1863c1863
+<     rdfs:label "WindInformation"@en;
+---
+>     rdfs:label "wind information"@en;
+1869c1869
+<     rdfs:label "WinterDrivingManagement"@en;
+---
+>     rdfs:label "winter driving management"@en;
+1875c1875
+<     rdfs:label "_AreaExtensionType"@en;
+---
+>     rdfs:label "area extension type"@en;
+1880c1880
+<     rdfs:label "_ChargeBandVersionedReference"@en;
+---
+>     rdfs:label "charge band versioned reference"@en;
+1885c1885
+<     rdfs:label "_ContactDetailsVersionedReference"@en;
+---
+>     rdfs:label "contact details versioned reference"@en;
+1890c1890
+<     rdfs:label "_ExtensionType"@en;
+---
+>     rdfs:label "extension type"@en;
+1895c1895
+<     rdfs:label "_GenericPublicationExtensionType"@en;
+---
+>     rdfs:label "generic publication extension type"@en;
+1900c1900
+<     rdfs:label "_GroupOfParkingSpaces"@en;
+---
+>     rdfs:label "group of parking spaces"@en;
+1905c1905
+<     rdfs:label "_GroupOfParkingSpacesParkingSpaceIndexParkingSpace"@en;
+---
+>     rdfs:label "group of parking spaces parking space index parking space"@en;
+1910c1910
+<     rdfs:label "_IntermediatePointOnLinearElement"@en;
+---
+>     rdfs:label "intermediate point on linear element"@en;
+1915c1915
+<     rdfs:label "_LinearExtensionType"@en;
+---
+>     rdfs:label "linear extension type"@en;
+1920c1920
+<     rdfs:label "_LocationContainedInItinerary"@en;
+---
+>     rdfs:label "location contained in itinerary"@en;
+1925c1925
+<     rdfs:label "_MeasurementSiteRecordIndexMeasurementSpecificCharacteristics"@en;
+---
+>     rdfs:label "measurement site record index measurement specific characteristics"@en;
+1930c1930
+<     rdfs:label "_MeasurementSiteRecordVersionedReference"@en;
+---
+>     rdfs:label "measurement site record versioned reference"@en;
+1935c1935
+<     rdfs:label "_MeasurementSiteTableVersionedReference"@en;
+---
+>     rdfs:label "measurement site table versioned reference"@en;
+1940c1940
+<     rdfs:label "_ParkingAccessReference"@en;
+---
+>     rdfs:label "parking access reference"@en;
+1945c1945
+<     rdfs:label "_ParkingRecordEquipmentOrServiceFacilityIndexParkingEquipmentOrServiceFacility"@en;
+---
+>     rdfs:label "parking record equipment or service facility index parking equipment or service facility"@en;
+1950c1950
+<     rdfs:label "_ParkingRecordStatusEquipmentOrServiceFacilityIndexParkingEquipmentOrServiceFacilityStatus"@en;
+---
+>     rdfs:label "parking record status equipment or service facility index parking equipment or service facility status"@en;
+1955c1955
+<     rdfs:label "_ParkingRecordStatusGroupIndexGroupOfParkingSpacesStatus"@en;
+---
+>     rdfs:label "parking record status group index group of parking spaces status"@en;
+1960c1960
+<     rdfs:label "_ParkingRecordStatusParkingSpaceIndexParkingSpaceStatus"@en;
+---
+>     rdfs:label "parking record status parking space index parking space status"@en;
+1965c1965
+<     rdfs:label "_ParkingRecordStatusScenarioIndexParkingUsageScenarioStatus"@en;
+---
+>     rdfs:label "parking record status scenario index parking usage scenario status"@en;
+1970c1970
+<     rdfs:label "_ParkingRecordVersionedReference"@en;
+---
+>     rdfs:label "parking record versioned reference"@en;
+1975c1975
+<     rdfs:label "_ParkingRouteDetailsVersionedReference"@en;
+---
+>     rdfs:label "parking route details versioned reference"@en;
+1980c1980
+<     rdfs:label "_ParkingSiteScenarioIndexParkingUsageScenario"@en;
+---
+>     rdfs:label "parking site scenario index parking usage scenario"@en;
+1985c1985
+<     rdfs:label "_ParkingSpace"@en;
+---
+>     rdfs:label "parking space"@en;
+1990c1990
+<     rdfs:label "_ParkingSpaceBasicsEquipmentOrServiceFacilityIndexParkingEquipmentOrServiceFacility"@en;
+---
+>     rdfs:label "parking space basics equipment or service facility index parking equipment or service facility"@en;
+1995c1995
+<     rdfs:label "_ParkingSpaceBasicsScenarioIndexParkingUsageScenario"@en;
+---
+>     rdfs:label "parking space basics scenario index parking usage scenario"@en;
+2000c2000
+<     rdfs:label "_ParkingTableVersionedReference"@en;
+---
+>     rdfs:label "parking table versioned reference"@en;
+2005c2005
+<     rdfs:label "_PeriodExtensionType"@en;
+---
+>     rdfs:label "period extension type"@en;
+2010c2010
+<     rdfs:label "_PointExtensionType"@en;
+---
+>     rdfs:label "point extension type"@en;
+2015c2015
+<     rdfs:label "_PolygonAreaIndexPointCoordinates"@en;
+---
+>     rdfs:label "polygon area index point coordinates"@en;
+2020c2020
+<     rdfs:label "_PredefinedItineraryIndexPredefinedLocation"@en;
+---
+>     rdfs:label "predefined itinerary index predefined location"@en;
+2025c2025
+<     rdfs:label "_PredefinedItineraryVersionedReference"@en;
+---
+>     rdfs:label "predefined itinerary versioned reference"@en;
+2030c2030
+<     rdfs:label "_PredefinedLocationVersionedReference"@en;
+---
+>     rdfs:label "predefined location versioned reference"@en;
+2035c2035
+<     rdfs:label "_PredefinedNonOrderedLocationGroupVersionedReference"@en;
+---
+>     rdfs:label "predefined non ordered location group versioned reference"@en;
+2040c2040
+<     rdfs:label "_SiteMeasurementsIndexMeasuredValue"@en;
+---
+>     rdfs:label "site measurements index measured value"@en;
+2045c2045
+<     rdfs:label "_SituationRecordExtensionType"@en;
+---
+>     rdfs:label "situation record extension type"@en;
+2050c2050
+<     rdfs:label "_SituationRecordVersionedReference"@en;
+---
+>     rdfs:label "situation record versioned reference"@en;
+2055c2055
+<     rdfs:label "_SituationVersionedReference"@en;
+---
+>     rdfs:label "situation versioned reference"@en;
+2060c2060
+<     rdfs:label "_TextPage"@en;
+---
+>     rdfs:label "text page"@en;
+2065c2065
+<     rdfs:label "_VehicleCharacteristicsExtensionType"@en;
+---
+>     rdfs:label "vehicle characteristics extension type"@en;
+2070c2070
+<     rdfs:label "_VmsDynamicCharacteristicsPictogramDisplayAreaIndexVmsPictogramDisplayCharacteristics"@en;
+---
+>     rdfs:label "VMS dynamic characteristics pictogram display area index VMS pictogram display characteristics"@en;
+2075c2075
+<     rdfs:label "_VmsMessageIndexVmsMessage"@en;
+---
+>     rdfs:label "VMS message index VMS message"@en;
+2080c2080
+<     rdfs:label "_VmsMessagePictogramDisplayAreaIndexVmsPictogramDisplayArea"@en;
+---
+>     rdfs:label "VMS message pictogram display area index VMS pictogram display area"@en;
+2085c2085
+<     rdfs:label "_VmsPictogramDisplayAreaIndexPictogramDisplayAreaSettings"@en;
+---
+>     rdfs:label "VMS pictogram display area index pictogram display area settings"@en;
+2090c2090
+<     rdfs:label "_VmsPictogramDisplayAreaPictogramSequencingIndexVmsPictogram"@en;
+---
+>     rdfs:label "VMS pictogram display area pictogram sequencing index VMS pictogram"@en;
+2095c2095
+<     rdfs:label "_VmsRecordPictogramDisplayAreaIndexVmsPictogramDisplayCharacteristics"@en;
+---
+>     rdfs:label "VMS record pictogram display area index VMS pictogram display characteristics"@en;
+2100c2100
+<     rdfs:label "_VmsTextLineIndexVmsTextLine"@en;
+---
+>     rdfs:label "VMS text line index VMS text line"@en;
+2105c2105
+<     rdfs:label "_VmsUnitRecordVersionedReference"@en;
+---
+>     rdfs:label "VMS unit record versioned reference"@en;
+2110c2110
+<     rdfs:label "_VmsUnitRecordVmsIndexVmsRecord"@en;
+---
+>     rdfs:label "VMS unit record VMS index VMS record"@en;
+2115c2115
+<     rdfs:label "_VmsUnitTableVersionedReference"@en;
+---
+>     rdfs:label "VMS unit table versioned reference"@en;
+2120c2120
+<     rdfs:label "_VmsUnitVmsIndexVms"@en;
+---
+>     rdfs:label "VMS unit VMS index VMS"@en;
+2125c2125
+<     rdfs:label "abnormalTrafficExtension"@en;
+---
+>     rdfs:label "abnormal traffic extension"@en;
+2129c2129
+<     rdfs:label "abnormalTrafficType"@en;
+---
+>     rdfs:label "abnormal traffic type"@en;
+2134c2134
+<     rdfs:label "acceptedMeansOfPayment"@en;
+---
+>     rdfs:label "accepted means of payment"@en;
+2138c2138
+<     rdfs:label "acceptedPaymentCards"@en;
+---
+>     rdfs:label "accepted payment cards"@en;
+2142c2142
+<     rdfs:label "acceptedPaymentCardsExtension"@en;
+---
+>     rdfs:label "accepted payment cards extension"@en;
+2146c2146
+<     rdfs:label "accessAssignedAmongOthers"@en;
+---
+>     rdfs:label "access assigned among others"@en;
+2150c2150
+<     rdfs:label "accessCategory"@en;
+---
+>     rdfs:label "access category"@en;
+2154c2154
+<     rdfs:label "accessEquipment"@en;
+---
+>     rdfs:label "access equipment"@en;
+2158c2158
+<     rdfs:label "accessFault"@en;
+---
+>     rdfs:label "access fault"@en;
+2162c2162
+<     rdfs:label "accessName"@en;
+---
+>     rdfs:label "access name"@en;
+2166c2166
+<     rdfs:label "accessOnlyAssignedFor"@en;
+---
+>     rdfs:label "access only assigned for"@en;
+2170c2170
+<     rdfs:label "accessOpeningStatus"@en;
+---
+>     rdfs:label "access opening status"@en;
+2174c2174
+<     rdfs:label "accessProhibitedFor"@en;
+---
+>     rdfs:label "access prohibited for"@en;
+2178c2178
+<     rdfs:label "accessReference"@en;
+---
+>     rdfs:label "access reference"@en;
+2186c2186
+<     rdfs:label "accidentCause"@en;
+---
+>     rdfs:label "accident cause"@en;
+2191c2191
+<     rdfs:label "accidentExtension"@en;
+---
+>     rdfs:label "accident extension"@en;
+2195c2195
+<     rdfs:label "accidentType"@en;
+---
+>     rdfs:label "accident type"@en;
+2204c2204
+<     rdfs:label "actionOrigin"@en;
+---
+>     rdfs:label "action origin"@en;
+2209c2209
+<     rdfs:label "actionPlanIdentifier"@en;
+---
+>     rdfs:label "action plan identifier"@en;
+2218c2218
+<     rdfs:label "activityExtension"@en;
+---
+>     rdfs:label "activity extension"@en;
+2222c2222
+<     rdfs:label "additionalDescription"@en;
+---
+>     rdfs:label "additional description"@en;
+2226c2226
+<     rdfs:label "additionalPictogramDescription"@en;
+---
+>     rdfs:label "additional pictogram description"@en;
+2230c2230
+<     rdfs:label "additionalSupplementaryPictogramDescription"@en;
+---
+>     rdfs:label "additional supplementary pictogram description"@en;
+2238c2238
+<     rdfs:label "administrativeAreaOfLinearSection"@en;
+---
+>     rdfs:label "administrative area of linear section"@en;
+2242c2242
+<     rdfs:label "administrativeAreaOfPoint"@en;
+---
+>     rdfs:label "administrative area of point"@en;
+2246c2246
+<     rdfs:label "affectedCarriagewayAndLanes"@en;
+---
+>     rdfs:label "affected carriageway and lanes"@en;
+2250c2250
+<     rdfs:label "affectedCarriagewayAndLanesExtension"@en;
+---
+>     rdfs:label "affected carriageway and lanes extension"@en;
+2254c2254
+<     rdfs:label "airTemperature"@en;
+---
+>     rdfs:label "air temperature"@en;
+2258c2258
+<     rdfs:label "alertCArea"@en;
+---
+>     rdfs:label "alert c area"@en;
+2262c2262
+<     rdfs:label "alertCAreaExtension"@en;
+---
+>     rdfs:label "alert c area extension"@en;
+2266c2266
+<     rdfs:label "alertCDirection"@en;
+---
+>     rdfs:label "alert c direction"@en;
+2270c2270
+<     rdfs:label "alertCDirectionCoded"@en;
+---
+>     rdfs:label "alert c direction coded"@en;
+2274c2274
+<     rdfs:label "alertCDirectionExtension"@en;
+---
+>     rdfs:label "alert c direction extension"@en;
+2278c2278
+<     rdfs:label "alertCDirectionNamed"@en;
+---
+>     rdfs:label "alert c direction named"@en;
+2282c2282
+<     rdfs:label "alertCDirectionSense"@en;
+---
+>     rdfs:label "alert c direction sense"@en;
+2286c2286
+<     rdfs:label "alertCLinear"@en;
+---
+>     rdfs:label "alert c linear"@en;
+2290c2290
+<     rdfs:label "alertCLinearByCodeExtension"@en;
+---
+>     rdfs:label "alert c linear by code extension"@en;
+2294c2294
+<     rdfs:label "alertCLinearExtension"@en;
+---
+>     rdfs:label "alert c linear extension"@en;
+2298c2298
+<     rdfs:label "alertCLocation"@en;
+---
+>     rdfs:label "alert c location"@en;
+2302c2302
+<     rdfs:label "alertCLocationCountryCode"@en;
+---
+>     rdfs:label "alert c location country code"@en;
+2306c2306
+<     rdfs:label "alertCLocationExtension"@en;
+---
+>     rdfs:label "alert c location extension"@en;
+2310c2310
+<     rdfs:label "alertCLocationName"@en;
+---
+>     rdfs:label "alert c location name"@en;
+2314c2314
+<     rdfs:label "alertCLocationTableNumber"@en;
+---
+>     rdfs:label "alert c location table number"@en;
+2318c2318
+<     rdfs:label "alertCLocationTableVersion"@en;
+---
+>     rdfs:label "alert c location table version"@en;
+2322c2322
+<     rdfs:label "alertCMethod2LinearExtension"@en;
+---
+>     rdfs:label "alert c method to linear extension"@en;
+2326c2326
+<     rdfs:label "alertCMethod2PointExtension"@en;
+---
+>     rdfs:label "alert c method to point extension"@en;
+2330c2330
+<     rdfs:label "alertCMethod2PrimaryPointLocation"@en;
+---
+>     rdfs:label "alert c method to primary point location"@en;
+2334c2334
+<     rdfs:label "alertCMethod2PrimaryPointLocationExtension"@en;
+---
+>     rdfs:label "alert c method to primary point location extension"@en;
+2338c2338
+<     rdfs:label "alertCMethod2SecondaryPointLocation"@en;
+---
+>     rdfs:label "alert c method to secondary point location"@en;
+2342c2342
+<     rdfs:label "alertCMethod2SecondaryPointLocationExtension"@en;
+---
+>     rdfs:label "alert c method to secondary point location extension"@en;
+2346c2346
+<     rdfs:label "alertCMethod4LinearExtension"@en;
+---
+>     rdfs:label "alert c method for linear extension"@en;
+2350c2350
+<     rdfs:label "alertCMethod4PointExtension"@en;
+---
+>     rdfs:label "alert c method for point extension"@en;
+2354c2354
+<     rdfs:label "alertCMethod4PrimaryPointLocation"@en;
+---
+>     rdfs:label "alert c method for primary point location"@en;
+2358c2358
+<     rdfs:label "alertCMethod4PrimaryPointLocationExtension"@en;
+---
+>     rdfs:label "alert c method for primary point location extension"@en;
+2362c2362
+<     rdfs:label "alertCMethod4SecondaryPointLocation"@en;
+---
+>     rdfs:label "alert c method for secondary point location"@en;
+2366c2366
+<     rdfs:label "alertCMethod4SecondaryPointLocationExtension"@en;
+---
+>     rdfs:label "alert c method for secondary point location extension"@en;
+2370c2370
+<     rdfs:label "alertCPoint"@en;
+---
+>     rdfs:label "alert c point"@en;
+2374c2374
+<     rdfs:label "alertCPointExtension"@en;
+---
+>     rdfs:label "alert c point extension"@en;
+2383c2383
+<     rdfs:label "almostFullDecreasing"@en;
+---
+>     rdfs:label "almost full decreasing"@en;
+2387c2387
+<     rdfs:label "almostFullIncreasing"@en;
+---
+>     rdfs:label "almost full increasing"@en;
+2391c2391
+<     rdfs:label "alternativeRoute"@en;
+---
+>     rdfs:label "alternative route"@en;
+2396c2396
+<     rdfs:label "animalPresenceObstructionExtension"@en;
+---
+>     rdfs:label "animal presence obstruction extension"@en;
+2400c2400
+<     rdfs:label "animalPresenceType"@en;
+---
+>     rdfs:label "animal presence type"@en;
+2409c2409
+<     rdfs:label "applicableDay"@en;
+---
+>     rdfs:label "applicable day"@en;
+2413c2413
+<     rdfs:label "applicableForPeriod"@en;
+---
+>     rdfs:label "applicable for period"@en;
+2417c2417
+<     rdfs:label "applicableForTrafficDirection"@en;
+---
+>     rdfs:label "applicable for traffic direction"@en;
+2422c2422
+<     rdfs:label "applicableForTrafficType"@en;
+---
+>     rdfs:label "applicable for traffic type"@en;
+2427c2427
+<     rdfs:label "applicableForUser"@en;
+---
+>     rdfs:label "applicable for user"@en;
+2431c2431
+<     rdfs:label "applicableForVehicles"@en;
+---
+>     rdfs:label "applicable for vehicles"@en;
+2435c2435
+<     rdfs:label "applicableMonth"@en;
+---
+>     rdfs:label "applicable month"@en;
+2439c2439
+<     rdfs:label "applicableWeek"@en;
+---
+>     rdfs:label "applicable week"@en;
+2443c2443
+<     rdfs:label "applicationRate"@en;
+---
+>     rdfs:label "application rate"@en;
+2448c2448
+<     rdfs:label "applicationRateValueExtension"@en;
+---
+>     rdfs:label "application rate value extension"@en;
+2456c2456
+<     rdfs:label "areaDestinationExtension"@en;
+---
+>     rdfs:label "area destination extension"@en;
+2460c2460
+<     rdfs:label "areaExtended"@en;
+---
+>     rdfs:label "area extended"@en;
+2464c2464
+<     rdfs:label "areaExtension"@en;
+---
+>     rdfs:label "area extension"@en;
+2468c2468
+<     rdfs:label "areaLocation"@en;
+---
+>     rdfs:label "area location"@en;
+2472c2472
+<     rdfs:label "areaName"@en;
+---
+>     rdfs:label "area name"@en;
+2476c2476
+<     rdfs:label "areaOfInterest"@en;
+---
+>     rdfs:label "area of interest"@en;
+2480c2480
+<     rdfs:label "arrivalTime"@en;
+---
+>     rdfs:label "arrival time"@en;
+2485c2485
+<     rdfs:label "assignedParkingAmongOthers"@en;
+---
+>     rdfs:label "assigned parking among others"@en;
+2489c2489
+<     rdfs:label "associatedManagementOrDiversionPlan"@en;
+---
+>     rdfs:label "associated management or diversion plan"@en;
+2493c2493
+<     rdfs:label "authorityOperationExtension"@en;
+---
+>     rdfs:label "authority operation extension"@en;
+2497c2497
+<     rdfs:label "authorityOperationType"@en;
+---
+>     rdfs:label "authority operation type"@en;
+2502c2502
+<     rdfs:label "automaticallyInitiated"@en;
+---
+>     rdfs:label "automatically initiated"@en;
+2511c2511
+<     rdfs:label "availabilityAndOpeningTimes"@en;
+---
+>     rdfs:label "availability and opening times"@en;
+2515c2515
+<     rdfs:label "available24hours"@en;
+---
+>     rdfs:label "available to forhours"@en;
+2520c2520
+<     rdfs:label "averageDistanceHeadway"@en;
+---
+>     rdfs:label "average distance headway"@en;
+2525c2525
+<     rdfs:label "averageTimeHeadway"@en;
+---
+>     rdfs:label "average time headway"@en;
+2530c2530
+<     rdfs:label "averageVehicleSpeed"@en;
+---
+>     rdfs:label "average vehicle speed"@en;
+2535c2535
+<     rdfs:label "axleFlow"@en;
+---
+>     rdfs:label "axle flow"@en;
+2540c2540
+<     rdfs:label "axleFlowRate"@en;
+---
+>     rdfs:label "axle flow rate"@en;
+2545c2545
+<     rdfs:label "axleFlowValueExtension"@en;
+---
+>     rdfs:label "axle flow value extension"@en;
+2549c2549
+<     rdfs:label "axlePositionIdentifier"@en;
+---
+>     rdfs:label "axle position identifier"@en;
+2553c2553
+<     rdfs:label "axleSpacing"@en;
+---
+>     rdfs:label "axle spacing"@en;
+2557c2557
+<     rdfs:label "axleSpacingExtension"@en;
+---
+>     rdfs:label "axle spacing extension"@en;
+2561c2561
+<     rdfs:label "axleSpacingOnVehicle"@en;
+---
+>     rdfs:label "axle spacing on vehicle"@en;
+2565c2565
+<     rdfs:label "axleSpacingSequenceIdentifier"@en;
+---
+>     rdfs:label "axle spacing sequence identifier"@en;
+2569c2569
+<     rdfs:label "axleWeight"@en;
+---
+>     rdfs:label "axle weight"@en;
+2573c2573
+<     rdfs:label "axleWeightExtension"@en;
+---
+>     rdfs:label "axle weight extension"@en;
+2577c2577
+<     rdfs:label "backgroundImageUrl"@en;
+---
+>     rdfs:label "background image url"@en;
+2581c2581
+<     rdfs:label "basicData"@en;
+---
+>     rdfs:label "basic data"@en;
+2585c2585
+<     rdfs:label "basicDataExtension"@en;
+---
+>     rdfs:label "basic data extension"@en;
+2593c2593
+<     rdfs:label "blurredAvailability"@en;
+---
+>     rdfs:label "blurred availability"@en;
+2601c2601
+<     rdfs:label "capacityRemaining"@en;
+---
+>     rdfs:label "capacity remaining"@en;
+2605c2605
+<     rdfs:label "carParkConfiguration"@en;
+---
+>     rdfs:label "car park configuration"@en;
+2610c2610
+<     rdfs:label "carParkIdentity"@en;
+---
+>     rdfs:label "car park identity"@en;
+2615c2615
+<     rdfs:label "carParkOccupancy"@en;
+---
+>     rdfs:label "car park occupancy"@en;
+2620c2620
+<     rdfs:label "carParkStatus"@en;
+---
+>     rdfs:label "car park status"@en;
+2625c2625
+<     rdfs:label "carParksExtension"@en;
+---
+>     rdfs:label "car parks extension"@en;
+2633c2633
+<     rdfs:label "catalogueReference"@en;
+---
+>     rdfs:label "catalogue reference"@en;
+2637c2637
+<     rdfs:label "catalogueReferenceExtension"@en;
+---
+>     rdfs:label "catalogue reference extension"@en;
+2641c2641
+<     rdfs:label "categoryOfPeopleInvolved"@en;
+---
+>     rdfs:label "category of people involved"@en;
+2649c2649
+<     rdfs:label "causeDescription"@en;
+---
+>     rdfs:label "cause description"@en;
+2654c2654
+<     rdfs:label "causeExtension"@en;
+---
+>     rdfs:label "cause extension"@en;
+2658c2658
+<     rdfs:label "causeType"@en;
+---
+>     rdfs:label "cause type"@en;
+2663c2663
+<     rdfs:label "centrePoint"@en;
+---
+>     rdfs:label "centre point"@en;
+2668c2668
+<     rdfs:label "certifiedSecureParking"@en;
+---
+>     rdfs:label "certified secure parking"@en;
+2672c2672
+<     rdfs:label "changeOfOccupiedSpaces"@en;
+---
+>     rdfs:label "change of occupied spaces"@en;
+2676c2676
+<     rdfs:label "changedFlag"@en;
+---
+>     rdfs:label "changed flag"@en;
+2684c2684
+<     rdfs:label "chargeBand"@en;
+---
+>     rdfs:label "charge band"@en;
+2688c2688
+<     rdfs:label "chargeBandByReference"@en;
+---
+>     rdfs:label "charge band by reference"@en;
+2692c2692
+<     rdfs:label "chargeBandByReferenceExtension"@en;
+---
+>     rdfs:label "charge band by reference extension"@en;
+2696c2696
+<     rdfs:label "chargeBandExtension"@en;
+---
+>     rdfs:label "charge band extension"@en;
+2700c2700
+<     rdfs:label "chargeBandName"@en;
+---
+>     rdfs:label "charge band name"@en;
+2704c2704
+<     rdfs:label "chargeBandReference"@en;
+---
+>     rdfs:label "charge band reference"@en;
+2708c2708
+<     rdfs:label "chargeCurrency"@en;
+---
+>     rdfs:label "charge currency"@en;
+2712c2712
+<     rdfs:label "chargeExtension"@en;
+---
+>     rdfs:label "charge extension"@en;
+2716c2716
+<     rdfs:label "chargeInterval"@en;
+---
+>     rdfs:label "charge interval"@en;
+2720c2720
+<     rdfs:label "chargeOrderIndex"@en;
+---
+>     rdfs:label "charge order index"@en;
+2724c2724
+<     rdfs:label "chargePaid"@en;
+---
+>     rdfs:label "charge paid"@en;
+2728c2728
+<     rdfs:label "chargeType"@en;
+---
+>     rdfs:label "charge type"@en;
+2732c2732
+<     rdfs:label "chargeTypeDescription"@en;
+---
+>     rdfs:label "charge type description"@en;
+2736c2736
+<     rdfs:label "chargingStationConnectorType"@en;
+---
+>     rdfs:label "charging station connector type"@en;
+2740c2740
+<     rdfs:label "chargingStationModelType"@en;
+---
+>     rdfs:label "charging station model type"@en;
+2744c2744
+<     rdfs:label "chargingStationUsageType"@en;
+---
+>     rdfs:label "charging station usage type"@en;
+2748c2748
+<     rdfs:label "chemicalName"@en;
+---
+>     rdfs:label "chemical name"@en;
+2752c2752
+<     rdfs:label "clientIdentification"@en;
+---
+>     rdfs:label "client identification"@en;
+2756c2756
+<     rdfs:label "codedReasonForSetting"@en;
+---
+>     rdfs:label "coded reason for setting"@en;
+2760c2760
+<     rdfs:label "colourName"@en;
+---
+>     rdfs:label "colour name"@en;
+2768c2768
+<     rdfs:label "commentDateTime"@en;
+---
+>     rdfs:label "comment date time"@en;
+2772c2772
+<     rdfs:label "commentExtension"@en;
+---
+>     rdfs:label "comment extension"@en;
+2776c2776
+<     rdfs:label "commentType"@en;
+---
+>     rdfs:label "comment type"@en;
+2780c2780
+<     rdfs:label "comparisonOperator"@en;
+---
+>     rdfs:label "comparison operator"@en;
+2784c2784
+<     rdfs:label "complianceOption"@en;
+---
+>     rdfs:label "compliance option"@en;
+2789c2789
+<     rdfs:label "computationMethod"@en;
+---
+>     rdfs:label "computation method"@en;
+2793c2793
+<     rdfs:label "computationalMethod"@en;
+---
+>     rdfs:label "computational method"@en;
+2802c2802
+<     rdfs:label "concentrationOfVehicles"@en;
+---
+>     rdfs:label "concentration of vehicles"@en;
+2807c2807
+<     rdfs:label "concentrationOfVehiclesValueExtension"@en;
+---
+>     rdfs:label "concentration of vehicles value extension"@en;
+2811c2811
+<     rdfs:label "conditionsExtension"@en;
+---
+>     rdfs:label "conditions extension"@en;
+2819c2819
+<     rdfs:label "confidentialityOverride"@en;
+---
+>     rdfs:label "confidentiality override"@en;
+2823c2823
+<     rdfs:label "constructionWorkType"@en;
+---
+>     rdfs:label "construction work type"@en;
+2828c2828
+<     rdfs:label "constructionWorksExtension"@en;
+---
+>     rdfs:label "construction works extension"@en;
+2832c2832
+<     rdfs:label "contactByReferenceExtension"@en;
+---
+>     rdfs:label "contact by reference extension"@en;
+2836c2836
+<     rdfs:label "contactDetailsAddress"@en;
+---
+>     rdfs:label "contact details address"@en;
+2841c2841
+<     rdfs:label "contactDetailsCity"@en;
+---
+>     rdfs:label "contact details city"@en;
+2846c2846
+<     rdfs:label "contactDetailsEMail"@en;
+---
+>     rdfs:label "contact details e mail"@en;
+2851c2851
+<     rdfs:label "contactDetailsExtension"@en;
+---
+>     rdfs:label "contact details extension"@en;
+2855c2855
+<     rdfs:label "contactDetailsFax"@en;
+---
+>     rdfs:label "contact details fax"@en;
+2860c2860
+<     rdfs:label "contactDetailsHouseNumber"@en;
+---
+>     rdfs:label "contact details house number"@en;
+2865c2865
+<     rdfs:label "contactDetailsLanguage"@en;
+---
+>     rdfs:label "contact details language"@en;
+2870c2870
+<     rdfs:label "contactDetailsLogoUrl"@en;
+---
+>     rdfs:label "contact details logo url"@en;
+2875c2875
+<     rdfs:label "contactDetailsMoreInfo"@en;
+---
+>     rdfs:label "contact details more info"@en;
+2880c2880
+<     rdfs:label "contactDetailsOwnership"@en;
+---
+>     rdfs:label "contact details ownership"@en;
+2885c2885
+<     rdfs:label "contactDetailsPostcode"@en;
+---
+>     rdfs:label "contact details postcode"@en;
+2890c2890
+<     rdfs:label "contactDetailsResponsibility"@en;
+---
+>     rdfs:label "contact details responsibility"@en;
+2895c2895
+<     rdfs:label "contactDetailsStreet"@en;
+---
+>     rdfs:label "contact details street"@en;
+2900c2900
+<     rdfs:label "contactDetailsTelephoneNumber"@en;
+---
+>     rdfs:label "contact details telephone number"@en;
+2905c2905
+<     rdfs:label "contactExtension"@en;
+---
+>     rdfs:label "contact extension"@en;
+2909c2909
+<     rdfs:label "contactNotDefined"@en;
+---
+>     rdfs:label "contact not defined"@en;
+2913c2913
+<     rdfs:label "contactOrganisationName"@en;
+---
+>     rdfs:label "contact organisation name"@en;
+2918c2918
+<     rdfs:label "contactPersonFirstName"@en;
+---
+>     rdfs:label "contact person first name"@en;
+2923c2923
+<     rdfs:label "contactPersonName"@en;
+---
+>     rdfs:label "contact person name"@en;
+2928c2928
+<     rdfs:label "contactPersonPosition"@en;
+---
+>     rdfs:label "contact person position"@en;
+2933c2933
+<     rdfs:label "contactReference"@en;
+---
+>     rdfs:label "contact reference"@en;
+2938c2938
+<     rdfs:label "contactUnknown"@en;
+---
+>     rdfs:label "contact unknown"@en;
+2942c2942
+<     rdfs:label "countedVehicles"@en;
+---
+>     rdfs:label "counted vehicles"@en;
+2951c2951
+<     rdfs:label "countrySubdivision"@en;
+---
+>     rdfs:label "country subdivision"@en;
+2959c2959
+<     rdfs:label "coveringPetrolStationArea"@en;
+---
+>     rdfs:label "covering petrol station area"@en;
+2963c2963
+<     rdfs:label "d2LogicalModel"@en;
+---
+>     rdfs:label "D2 logical model"@en;
+2968c2968
+<     rdfs:label "d2LogicalModelExtension"@en;
+---
+>     rdfs:label "D2 logical model extension"@en;
+2972c2972
+<     rdfs:label "dangerousGoodsFlashPoint"@en;
+---
+>     rdfs:label "dangerous goods flash point"@en;
+2976c2976
+<     rdfs:label "dangerousGoodsRegulations"@en;
+---
+>     rdfs:label "dangerous goods regulations"@en;
+2980c2980
+<     rdfs:label "dataError"@en;
+---
+>     rdfs:label "data error"@en;
+2984c2984
+<     rdfs:label "dataValueExtension"@en;
+---
+>     rdfs:label "data value extension"@en;
+2988c2988
+<     rdfs:label "dateOfCertification"@en;
+---
+>     rdfs:label "date of certification"@en;
+2992c2992
+<     rdfs:label "dateTime"@en;
+---
+>     rdfs:label "date time"@en;
+2997c2997
+<     rdfs:label "dateTimeValueExtension"@en;
+---
+>     rdfs:label "date time value extension"@en;
+3001c3001
+<     rdfs:label "dayWeekMonthExtension"@en;
+---
+>     rdfs:label "day week month extension"@en;
+3005c3005
+<     rdfs:label "deIcingApplicationRate"@en;
+---
+>     rdfs:label "de icing application rate"@en;
+3009c3009
+<     rdfs:label "deIcingConcentration"@en;
+---
+>     rdfs:label "de icing concentration"@en;
+3013c3013
+<     rdfs:label "dedicatedAccess"@en;
+---
+>     rdfs:label "dedicated access"@en;
+3017c3017
+<     rdfs:label "dedicatedAccessExtension"@en;
+---
+>     rdfs:label "dedicated access extension"@en;
+3021c3021
+<     rdfs:label "delayBand"@en;
+---
+>     rdfs:label "delay band"@en;
+3025c3025
+<     rdfs:label "delayTimeValue"@en;
+---
+>     rdfs:label "delay time value"@en;
+3033c3033
+<     rdfs:label "delaysExtension"@en;
+---
+>     rdfs:label "delays extension"@en;
+3037c3037
+<     rdfs:label "delaysType"@en;
+---
+>     rdfs:label "delays type"@en;
+3041c3041
+<     rdfs:label "deleteFilter"@en;
+---
+>     rdfs:label "delete filter"@en;
+3045c3045
+<     rdfs:label "deleteSubscription"@en;
+---
+>     rdfs:label "delete subscription"@en;
+3049c3049
+<     rdfs:label "deliveryBreak"@en;
+---
+>     rdfs:label "delivery break"@en;
+3053c3053
+<     rdfs:label "deliveryInterval"@en;
+---
+>     rdfs:label "delivery interval"@en;
+3057c3057
+<     rdfs:label "denyReason"@en;
+---
+>     rdfs:label "deny reason"@en;
+3061c3061
+<     rdfs:label "depositionDepth"@en;
+---
+>     rdfs:label "deposition depth"@en;
+3070c3070
+<     rdfs:label "depthOfSnow"@en;
+---
+>     rdfs:label "depth of snow"@en;
+3086c3086
+<     rdfs:label "destinationExtension"@en;
+---
+>     rdfs:label "destination extension"@en;
+3090c3090
+<     rdfs:label "destinationMotorway"@en;
+---
+>     rdfs:label "destination motorway"@en;
+3094c3094
+<     rdfs:label "dewPointTemperature"@en;
+---
+>     rdfs:label "dew point temperature"@en;
+3098c3098
+<     rdfs:label "dimensionExtension"@en;
+---
+>     rdfs:label "dimension extension"@en;
+3102c3102
+<     rdfs:label "dimensionHeight"@en;
+---
+>     rdfs:label "dimension height"@en;
+3106c3106
+<     rdfs:label "dimensionLength"@en;
+---
+>     rdfs:label "dimension length"@en;
+3110c3110
+<     rdfs:label "dimensionOfGroup"@en;
+---
+>     rdfs:label "dimension of group"@en;
+3115c3115
+<     rdfs:label "dimensionUsableArea"@en;
+---
+>     rdfs:label "dimension usable area"@en;
+3119c3119
+<     rdfs:label "dimensionWidth"@en;
+---
+>     rdfs:label "dimension width"@en;
+3123c3123
+<     rdfs:label "directionBearing"@en;
+---
+>     rdfs:label "direction bearing"@en;
+3128c3128
+<     rdfs:label "directionBearingValueExtension"@en;
+---
+>     rdfs:label "direction bearing value extension"@en;
+3132c3132
+<     rdfs:label "directionBoundAtPoint"@en;
+---
+>     rdfs:label "direction bound at point"@en;
+3136c3136
+<     rdfs:label "directionBoundOnLinearSection"@en;
+---
+>     rdfs:label "direction bound on linear section"@en;
+3140c3140
+<     rdfs:label "directionCompass"@en;
+---
+>     rdfs:label "direction compass"@en;
+3145c3145
+<     rdfs:label "directionCompassValueExtension"@en;
+---
+>     rdfs:label "direction compass value extension"@en;
+3149c3149
+<     rdfs:label "directionRelativeAtPoint"@en;
+---
+>     rdfs:label "direction relative at point"@en;
+3153c3153
+<     rdfs:label "directionRelativeOnLinearSection"@en;
+---
+>     rdfs:label "direction relative on linear section"@en;
+3157c3157
+<     rdfs:label "distanceAlong"@en;
+---
+>     rdfs:label "distance along"@en;
+3162c3162
+<     rdfs:label "distanceAlongLinearElement"@en;
+---
+>     rdfs:label "distance along linear element"@en;
+3166c3166
+<     rdfs:label "distanceAlongLinearElementExtension"@en;
+---
+>     rdfs:label "distance along linear element extension"@en;
+3170c3170
+<     rdfs:label "distanceAttribute"@en;
+---
+>     rdfs:label "distance attribute"@en;
+3174c3174
+<     rdfs:label "distanceFromLinearElementReferentExtension"@en;
+---
+>     rdfs:label "distance from linear element referent extension"@en;
+3178c3178
+<     rdfs:label "distanceFromLinearElementStartExtension"@en;
+---
+>     rdfs:label "distance from linear element start extension"@en;
+3182c3182
+<     rdfs:label "distanceFromLogicalLocation"@en;
+---
+>     rdfs:label "distance from logical location"@en;
+3186c3186
+<     rdfs:label "distanceFromParkingSite"@en;
+---
+>     rdfs:label "distance from parking site"@en;
+3191c3191
+<     rdfs:label "distanceFromParkingSpace"@en;
+---
+>     rdfs:label "distance from parking space"@en;
+3195c3195
+<     rdfs:label "distanceFromPrimaryRoad"@en;
+---
+>     rdfs:label "distance from primary road"@en;
+3199c3199
+<     rdfs:label "distanceFromSituationRecord"@en;
+---
+>     rdfs:label "distance from situation record"@en;
+3203c3203
+<     rdfs:label "distanceGap"@en;
+---
+>     rdfs:label "distance gap"@en;
+3208c3208
+<     rdfs:label "distanceHeadway"@en;
+---
+>     rdfs:label "distance headway"@en;
+3213c3213
+<     rdfs:label "distanceToThisRoad"@en;
+---
+>     rdfs:label "distance to this road"@en;
+3217c3217
+<     rdfs:label "disturbanceActivityExtension"@en;
+---
+>     rdfs:label "disturbance activity extension"@en;
+3221c3221
+<     rdfs:label "disturbanceActivityType"@en;
+---
+>     rdfs:label "disturbance activity type"@en;
+3226c3226
+<     rdfs:label "drivingConditionType"@en;
+---
+>     rdfs:label "driving condition type"@en;
+3236c3236
+<     rdfs:label "durationValueExtension"@en;
+---
+>     rdfs:label "duration value extension"@en;
+3240c3240
+<     rdfs:label "dynamicRouteManagement"@en;
+---
+>     rdfs:label "dynamic route management"@en;
+3245c3245
+<     rdfs:label "dynamicallyConfigurableDisplayAreas"@en;
+---
+>     rdfs:label "dynamically configurable display areas"@en;
+3249c3249
+<     rdfs:label "elaboratedData"@en;
+---
+>     rdfs:label "elaborated data"@en;
+3253c3253
+<     rdfs:label "elaboratedDataExtension"@en;
+---
+>     rdfs:label "elaborated data extension"@en;
+3257c3257
+<     rdfs:label "elaboratedDataFault"@en;
+---
+>     rdfs:label "elaborated data fault"@en;
+3262c3262
+<     rdfs:label "elaboratedDataFaultExtension"@en;
+---
+>     rdfs:label "elaborated data fault extension"@en;
+3266c3266
+<     rdfs:label "elaboratedDataPublicationExtension"@en;
+---
+>     rdfs:label "elaborated data publication extension"@en;
+3270c3270
+<     rdfs:label "electricCharging"@en;
+---
+>     rdfs:label "electric charging"@en;
+3274c3274
+<     rdfs:label "electricChargingExtension"@en;
+---
+>     rdfs:label "electric charging extension"@en;
+3278c3278
+<     rdfs:label "emergencyAssemblyPoint"@en;
+---
+>     rdfs:label "emergency assembly point"@en;
+3282c3282
+<     rdfs:label "emergencyContact"@en;
+---
+>     rdfs:label "emergency contact"@en;
+3286c3286
+<     rdfs:label "emissionClassification"@en;
+---
+>     rdfs:label "emission classification"@en;
+3294c3294
+<     rdfs:label "endOfPeriod"@en;
+---
+>     rdfs:label "end of period"@en;
+3298c3298
+<     rdfs:label "endPointOfLinearElement"@en;
+---
+>     rdfs:label "end point of linear element"@en;
+3303c3303
+<     rdfs:label "endTimeOfPeriod"@en;
+---
+>     rdfs:label "end time of period"@en;
+3308c3308
+<     rdfs:label "entireArea"@en;
+---
+>     rdfs:label "entire area"@en;
+3312c3312
+<     rdfs:label "entranceFull"@en;
+---
+>     rdfs:label "entrance full"@en;
+3321c3321
+<     rdfs:label "environmentalObstructionExtension"@en;
+---
+>     rdfs:label "environmental obstruction extension"@en;
+3325c3325
+<     rdfs:label "environmentalObstructionType"@en;
+---
+>     rdfs:label "environmental obstruction type"@en;
+3330c3330
+<     rdfs:label "equipmentExtension"@en;
+---
+>     rdfs:label "equipment extension"@en;
+3334c3334
+<     rdfs:label "equipmentOperationStatus"@en;
+---
+>     rdfs:label "equipment operation status"@en;
+3338c3338
+<     rdfs:label "equipmentOrServiceFacilityIdentifier"@en;
+---
+>     rdfs:label "equipment or service facility identifier"@en;
+3342c3342
+<     rdfs:label "equipmentOrServiceFacilityIndex"@en;
+---
+>     rdfs:label "equipment or service facility index"@en;
+3346c3346
+<     rdfs:label "equipmentOrSystemFaultExtension"@en;
+---
+>     rdfs:label "equipment or system fault extension"@en;
+3350c3350
+<     rdfs:label "equipmentOrSystemFaultType"@en;
+---
+>     rdfs:label "equipment or system fault type"@en;
+3355c3355
+<     rdfs:label "equipmentType"@en;
+---
+>     rdfs:label "equipment type"@en;
+3360c3360
+<     rdfs:label "eventParkingType"@en;
+---
+>     rdfs:label "event parking type"@en;
+3364c3364
+<     rdfs:label "eventParkingType2"@en;
+---
+>     rdfs:label "event parking type to"@en;
+3368c3368
+<     rdfs:label "exceptionPeriod"@en;
+---
+>     rdfs:label "exception period"@en;
+3376c3376
+<     rdfs:label "exchangeExtension"@en;
+---
+>     rdfs:label "exchange extension"@en;
+3385c3385
+<     rdfs:label "exitRate"@en;
+---
+>     rdfs:label "exit rate"@en;
+3390c3390
+<     rdfs:label "exitTime"@en;
+---
+>     rdfs:label "exit time"@en;
+3395c3395
+<     rdfs:label "externalLocationCode"@en;
+---
+>     rdfs:label "external location code"@en;
+3399c3399
+<     rdfs:label "externalReferencing"@en;
+---
+>     rdfs:label "external referencing"@en;
+3403c3403
+<     rdfs:label "externalReferencingExtension"@en;
+---
+>     rdfs:label "external referencing extension"@en;
+3407c3407
+<     rdfs:label "externalReferencingSystem"@en;
+---
+>     rdfs:label "external referencing system"@en;
+3411c3411
+<     rdfs:label "faultCreationTime"@en;
+---
+>     rdfs:label "fault creation time"@en;
+3415c3415
+<     rdfs:label "faultDescription"@en;
+---
+>     rdfs:label "fault description"@en;
+3419c3419
+<     rdfs:label "faultExtension"@en;
+---
+>     rdfs:label "fault extension"@en;
+3423c3423
+<     rdfs:label "faultIdentifier"@en;
+---
+>     rdfs:label "fault identifier"@en;
+3427c3427
+<     rdfs:label "faultLastUpdateTime"@en;
+---
+>     rdfs:label "fault last update time"@en;
+3431c3431
+<     rdfs:label "faultSeverity"@en;
+---
+>     rdfs:label "fault severity"@en;
+3435c3435
+<     rdfs:label "faultyEquipmentOrSystemType"@en;
+---
+>     rdfs:label "faulty equipment or system type"@en;
+3440c3440
+<     rdfs:label "feedDescription"@en;
+---
+>     rdfs:label "feed description"@en;
+3444c3444
+<     rdfs:label "feedType"@en;
+---
+>     rdfs:label "feed type"@en;
+3448c3448
+<     rdfs:label "fillRate"@en;
+---
+>     rdfs:label "fill rate"@en;
+3453c3453
+<     rdfs:label "filterEnd"@en;
+---
+>     rdfs:label "filter end"@en;
+3457c3457
+<     rdfs:label "filterExitManagement"@en;
+---
+>     rdfs:label "filter exit management"@en;
+3461c3461
+<     rdfs:label "filterExitManagementExtension"@en;
+---
+>     rdfs:label "filter exit management extension"@en;
+3465c3465
+<     rdfs:label "filterOperationApproved"@en;
+---
+>     rdfs:label "filter operation approved"@en;
+3469c3469
+<     rdfs:label "filterOutOfRange"@en;
+---
+>     rdfs:label "filter out of range"@en;
+3473c3473
+<     rdfs:label "filterReference"@en;
+---
+>     rdfs:label "filter reference"@en;
+3477c3477
+<     rdfs:label "filterReferenceExtension"@en;
+---
+>     rdfs:label "filter reference extension"@en;
+3481c3481
+<     rdfs:label "firstDirection"@en;
+---
+>     rdfs:label "first direction"@en;
+3485c3485
+<     rdfs:label "floatingPointMetreDistance"@en;
+---
+>     rdfs:label "floating point metre distance"@en;
+3490c3490
+<     rdfs:label "floatingPointMetreDistanceValueExtension"@en;
+---
+>     rdfs:label "floating point metre distance value extension"@en;
+3498c3498
+<     rdfs:label "forVehiclesWithCharacteristicsOf"@en;
+---
+>     rdfs:label "for vehicles with characteristics of"@en;
+3507c3507
+<     rdfs:label "forecastDefault"@en;
+---
+>     rdfs:label "forecast default"@en;
+3512c3512
+<     rdfs:label "framedPoint"@en;
+---
+>     rdfs:label "framed point"@en;
+3517c3517
+<     rdfs:label "freeFlowSpeed"@en;
+---
+>     rdfs:label "free flow speed"@en;
+3522c3522
+<     rdfs:label "freeFlowTravelTime"@en;
+---
+>     rdfs:label "free flow travel time"@en;
+3527c3527
+<     rdfs:label "freeOfCharge"@en;
+---
+>     rdfs:label "free of charge"@en;
+3536c3536
+<     rdfs:label "fromPoint"@en;
+---
+>     rdfs:label "from point"@en;
+3540c3540
+<     rdfs:label "fromReferent"@en;
+---
+>     rdfs:label "from referent"@en;
+3545c3545
+<     rdfs:label "fuelType"@en;
+---
+>     rdfs:label "fuel type"@en;
+3549c3549
+<     rdfs:label "fuelType2"@en;
+---
+>     rdfs:label "fuel type to"@en;
+3553c3553
+<     rdfs:label "fullDecreasing"@en;
+---
+>     rdfs:label "full decreasing"@en;
+3557c3557
+<     rdfs:label "fullIncreasing"@en;
+---
+>     rdfs:label "full increasing"@en;
+3561c3561
+<     rdfs:label "generalInstructionOrMessageToRoadUsersExtension"@en;
+---
+>     rdfs:label "general instruction or message to road users extension"@en;
+3565c3565
+<     rdfs:label "generalInstructionToRoadUsersType"@en;
+---
+>     rdfs:label "general instruction to road users type"@en;
+3570c3570
+<     rdfs:label "generalMessageToRoadUsers"@en;
+---
+>     rdfs:label "general message to road users"@en;
+3575c3575
+<     rdfs:label "generalNetworkManagementExtension"@en;
+---
+>     rdfs:label "general network management extension"@en;
+3579c3579
+<     rdfs:label "generalNetworkManagementType"@en;
+---
+>     rdfs:label "general network management type"@en;
+3584c3584
+<     rdfs:label "generalObstructionExtension"@en;
+---
+>     rdfs:label "general obstruction extension"@en;
+3588c3588
+<     rdfs:label "generalPublicComment"@en;
+---
+>     rdfs:label "general public comment"@en;
+3592c3592
+<     rdfs:label "genericPublicationExtension"@en;
+---
+>     rdfs:label "generic publication extension"@en;
+3596c3596
+<     rdfs:label "genericPublicationName"@en;
+---
+>     rdfs:label "generic publication name"@en;
+3601c3601
+<     rdfs:label "genericSituationRecordExtension"@en;
+---
+>     rdfs:label "generic situation record extension"@en;
+3605c3605
+<     rdfs:label "genericSituationRecordName"@en;
+---
+>     rdfs:label "generic situation record name"@en;
+3610c3610
+<     rdfs:label "grossVehicleWeight"@en;
+---
+>     rdfs:label "gross vehicle weight"@en;
+3614c3614
+<     rdfs:label "grossWeightCharacteristic"@en;
+---
+>     rdfs:label "gross weight characteristic"@en;
+3618c3618
+<     rdfs:label "grossWeightCharacteristicExtension"@en;
+---
+>     rdfs:label "gross weight characteristic extension"@en;
+3622c3622
+<     rdfs:label "groupDeclarationValidNow"@en;
+---
+>     rdfs:label "group declaration valid now"@en;
+3627c3627
+<     rdfs:label "groupIndex"@en;
+---
+>     rdfs:label "group index"@en;
+3631c3631
+<     rdfs:label "groupOfLocations"@en;
+---
+>     rdfs:label "group of locations"@en;
+3635c3635
+<     rdfs:label "groupOfLocationsExtension"@en;
+---
+>     rdfs:label "group of locations extension"@en;
+3639c3639
+<     rdfs:label "groupOfParkingSitesExtension"@en;
+---
+>     rdfs:label "group of parking sites extension"@en;
+3643c3643
+<     rdfs:label "groupOfParkingSitesStatus"@en;
+---
+>     rdfs:label "group of parking sites status"@en;
+3648c3648
+<     rdfs:label "groupOfParkingSitesStatusExtension"@en;
+---
+>     rdfs:label "group of parking sites status extension"@en;
+3652c3652
+<     rdfs:label "groupOfParkingSitesType"@en;
+---
+>     rdfs:label "group of parking sites type"@en;
+3657c3657
+<     rdfs:label "groupOfParkingSpaces"@en;
+---
+>     rdfs:label "group of parking spaces"@en;
+3661c3661
+<     rdfs:label "groupOfParkingSpacesClosed"@en;
+---
+>     rdfs:label "group of parking spaces closed"@en;
+3666c3666
+<     rdfs:label "groupOfParkingSpacesExtension"@en;
+---
+>     rdfs:label "group of parking spaces extension"@en;
+3670c3670
+<     rdfs:label "groupOfParkingSpacesReference"@en;
+---
+>     rdfs:label "group of parking spaces reference"@en;
+3674c3674
+<     rdfs:label "groupOfParkingSpacesStatus"@en;
+---
+>     rdfs:label "group of parking spaces status"@en;
+3678c3678
+<     rdfs:label "groupOfParkingSpacesStatusExtension"@en;
+---
+>     rdfs:label "group of parking spaces status extension"@en;
+3682c3682
+<     rdfs:label "groupOfPeopleInvolved"@en;
+---
+>     rdfs:label "group of people involved"@en;
+3686c3686
+<     rdfs:label "groupOfPeopleInvolvedExtension"@en;
+---
+>     rdfs:label "group of people involved extension"@en;
+3690c3690
+<     rdfs:label "groupOfVehiclesInvolved"@en;
+---
+>     rdfs:label "group of vehicles involved"@en;
+3694c3694
+<     rdfs:label "groupOfVehiclesInvolvedExtension"@en;
+---
+>     rdfs:label "group of vehicles involved extension"@en;
+3698c3698
+<     rdfs:label "hazardCodeIdentification"@en;
+---
+>     rdfs:label "hazard code identification"@en;
+3702c3702
+<     rdfs:label "hazardCodeVersionNumber"@en;
+---
+>     rdfs:label "hazard code version number"@en;
+3706c3706
+<     rdfs:label "hazardSubstanceItemPageNumber"@en;
+---
+>     rdfs:label "hazard substance item page number"@en;
+3710c3710
+<     rdfs:label "hazardousGoodsAssociatedWithVehicle"@en;
+---
+>     rdfs:label "hazardous goods associated with vehicle"@en;
+3714c3714
+<     rdfs:label "hazardousMaterials"@en;
+---
+>     rdfs:label "hazardous materials"@en;
+3718c3718
+<     rdfs:label "hazardousMaterialsExtension"@en;
+---
+>     rdfs:label "hazardous materials extension"@en;
+3722c3722
+<     rdfs:label "headerInformation"@en;
+---
+>     rdfs:label "header information"@en;
+3726c3726
+<     rdfs:label "headerInformationExtension"@en;
+---
+>     rdfs:label "header information extension"@en;
+3730c3730
+<     rdfs:label "heaviestAxleWeight"@en;
+---
+>     rdfs:label "heaviest axle weight"@en;
+3734c3734
+<     rdfs:label "heaviestAxleWeightCharacteristic"@en;
+---
+>     rdfs:label "heaviest axle weight characteristic"@en;
+3738c3738
+<     rdfs:label "heaviestAxleWeightCharacteristicExtension"@en;
+---
+>     rdfs:label "heaviest axle weight characteristic extension"@en;
+3746c3746
+<     rdfs:label "heightAttribute"@en;
+---
+>     rdfs:label "height attribute"@en;
+3750c3750
+<     rdfs:label "heightCharacteristic"@en;
+---
+>     rdfs:label "height characteristic"@en;
+3754c3754
+<     rdfs:label "heightCharacteristicExtension"@en;
+---
+>     rdfs:label "height characteristic extension"@en;
+3758c3758
+<     rdfs:label "heightGradeOfLinearSection"@en;
+---
+>     rdfs:label "height grade of linear section"@en;
+3762c3762
+<     rdfs:label "heightGradeOfPoint"@en;
+---
+>     rdfs:label "height grade of point"@en;
+3766c3766
+<     rdfs:label "heightType"@en;
+---
+>     rdfs:label "height type"@en;
+3770c3770
+<     rdfs:label "highestFloor"@en;
+---
+>     rdfs:label "highest floor"@en;
+3775c3775
+<     rdfs:label "historicalStartDate"@en;
+---
+>     rdfs:label "historical start date"@en;
+3779c3779
+<     rdfs:label "historicalStopDate"@en;
+---
+>     rdfs:label "historical stop date"@en;
+3787c3787
+<     rdfs:label "humidityExtension"@en;
+---
+>     rdfs:label "humidity extension"@en;
+3791c3791
+<     rdfs:label "humidityInformationExtension"@en;
+---
+>     rdfs:label "humidity information extension"@en;
+3799c3799
+<     rdfs:label "identicalToGroup"@en;
+---
+>     rdfs:label "identical to group"@en;
+3804c3804
+<     rdfs:label "identicalToParkingSpace"@en;
+---
+>     rdfs:label "identical to parking space"@en;
+3818c3818
+<     rdfs:label "impactExtension"@en;
+---
+>     rdfs:label "impact extension"@en;
+3826c3826
+<     rdfs:label "individualCharge"@en;
+---
+>     rdfs:label "individual charge"@en;
+3830c3830
+<     rdfs:label "individualChargeExtension"@en;
+---
+>     rdfs:label "individual charge extension"@en;
+3834c3834
+<     rdfs:label "individualVehicleDataValuesExtension"@en;
+---
+>     rdfs:label "individual vehicle data values extension"@en;
+3838c3838
+<     rdfs:label "individualVehicleSpeed"@en;
+---
+>     rdfs:label "individual vehicle speed"@en;
+3843c3843
+<     rdfs:label "informationStatus"@en;
+---
+>     rdfs:label "information status"@en;
+3847c3847
+<     rdfs:label "infrastructureDamageObstructionExtension"@en;
+---
+>     rdfs:label "infrastructure damage obstruction extension"@en;
+3851c3851
+<     rdfs:label "infrastructureDamageType"@en;
+---
+>     rdfs:label "infrastructure damage type"@en;
+3856c3856
+<     rdfs:label "injuryStatus"@en;
+---
+>     rdfs:label "injury status"@en;
+3860c3860
+<     rdfs:label "integerMetreDistance"@en;
+---
+>     rdfs:label "integer metre distance"@en;
+3865c3865
+<     rdfs:label "integerMetreDistanceValueExtension"@en;
+---
+>     rdfs:label "integer metre distance value extension"@en;
+3869c3869
+<     rdfs:label "interUrbanParkingSiteExtension"@en;
+---
+>     rdfs:label "inter urban parking site extension"@en;
+3873c3873
+<     rdfs:label "interUrbanParkingSiteLocation"@en;
+---
+>     rdfs:label "inter urban parking site location"@en;
+3878c3878
+<     rdfs:label "intermediatePointOnLinearElement"@en;
+---
+>     rdfs:label "intermediate point on linear element"@en;
+3883c3883
+<     rdfs:label "internationalIdentifierExtension"@en;
+---
+>     rdfs:label "international identifier extension"@en;
+3887c3887
+<     rdfs:label "intersectWithApplicableDays"@en;
+---
+>     rdfs:label "intersect with applicable days"@en;
+3891c3891
+<     rdfs:label "involvementRole"@en;
+---
+>     rdfs:label "involvement role"@en;
+3895c3895
+<     rdfs:label "itineraryByIndexedLocationsExtension"@en;
+---
+>     rdfs:label "itinerary by indexed locations extension"@en;
+3899c3899
+<     rdfs:label "itineraryByReferenceExtension"@en;
+---
+>     rdfs:label "itinerary by reference extension"@en;
+3903c3903
+<     rdfs:label "itineraryExtension"@en;
+---
+>     rdfs:label "itinerary extension"@en;
+3907c3907
+<     rdfs:label "journeyDestination"@en;
+---
+>     rdfs:label "journey destination"@en;
+3912c3912
+<     rdfs:label "journeyOrigin"@en;
+---
+>     rdfs:label "journey origin"@en;
+3917c3917
+<     rdfs:label "journeyReference"@en;
+---
+>     rdfs:label "journey reference"@en;
+3926c3926
+<     rdfs:label "junctionClassification"@en;
+---
+>     rdfs:label "junction classification"@en;
+3930c3930
+<     rdfs:label "junctionExtension"@en;
+---
+>     rdfs:label "junction extension"@en;
+3934c3934
+<     rdfs:label "junctionName"@en;
+---
+>     rdfs:label "junction name"@en;
+3939c3939
+<     rdfs:label "junctionNumber"@en;
+---
+>     rdfs:label "junction number"@en;
+3943c3943
+<     rdfs:label "keepAlive"@en;
+---
+>     rdfs:label "keep alive"@en;
+3947c3947
+<     rdfs:label "keyCatalogueReference"@en;
+---
+>     rdfs:label "key catalogue reference"@en;
+3951c3951
+<     rdfs:label "keyFilterReference"@en;
+---
+>     rdfs:label "key filter reference"@en;
+3955c3955
+<     rdfs:label "kilogramsConcentration"@en;
+---
+>     rdfs:label "kilograms concentration"@en;
+3960c3960
+<     rdfs:label "kilogramsConcentrationValueExtension"@en;
+---
+>     rdfs:label "kilograms concentration value extension"@en;
+3964c3964
+<     rdfs:label "labelSecurityLevel"@en;
+---
+>     rdfs:label "label security level"@en;
+3968c3968
+<     rdfs:label "labelSecurityLevelSelfAssessment"@en;
+---
+>     rdfs:label "label security level self assessment"@en;
+3972c3972
+<     rdfs:label "labelServiceLevel"@en;
+---
+>     rdfs:label "label service level"@en;
+3976c3976
+<     rdfs:label "labelServiceLevelSelfAssessment"@en;
+---
+>     rdfs:label "label service level self assessment"@en;
+3988c3988
+<     rdfs:label "lastCalibration"@en;
+---
+>     rdfs:label "last calibration"@en;
+3992c3992
+<     rdfs:label "lastUpdated"@en;
+---
+>     rdfs:label "last updated"@en;
+4000c4000
+<     rdfs:label "legendCodeListIdentifier"@en;
+---
+>     rdfs:label "legend code list identifier"@en;
+4004c4004
+<     rdfs:label "lengthAffected"@en;
+---
+>     rdfs:label "length affected"@en;
+4008c4008
+<     rdfs:label "lengthAttribute"@en;
+---
+>     rdfs:label "length attribute"@en;
+4012c4012
+<     rdfs:label "lengthCharacteristic"@en;
+---
+>     rdfs:label "length characteristic"@en;
+4016c4016
+<     rdfs:label "lengthCharacteristicExtension"@en;
+---
+>     rdfs:label "length characteristic extension"@en;
+4020c4020
+<     rdfs:label "lifeCycleManagement"@en;
+---
+>     rdfs:label "life cycle management"@en;
+4024c4024
+<     rdfs:label "lifeCycleManagementExtension"@en;
+---
+>     rdfs:label "life cycle management extension"@en;
+4028c4028
+<     rdfs:label "lineIndex"@en;
+---
+>     rdfs:label "line index"@en;
+4032c4032
+<     rdfs:label "linearElement"@en;
+---
+>     rdfs:label "linear element"@en;
+4036c4036
+<     rdfs:label "linearElementByCodeExtension"@en;
+---
+>     rdfs:label "linear element by code extension"@en;
+4040c4040
+<     rdfs:label "linearElementByPointsExtension"@en;
+---
+>     rdfs:label "linear element by points extension"@en;
+4044c4044
+<     rdfs:label "linearElementExtension"@en;
+---
+>     rdfs:label "linear element extension"@en;
+4048c4048
+<     rdfs:label "linearElementIdentifier"@en;
+---
+>     rdfs:label "linear element identifier"@en;
+4053c4053
+<     rdfs:label "linearElementNature"@en;
+---
+>     rdfs:label "linear element nature"@en;
+4057c4057
+<     rdfs:label "linearElementReferenceModel"@en;
+---
+>     rdfs:label "linear element reference model"@en;
+4061c4061
+<     rdfs:label "linearElementReferenceModelVersion"@en;
+---
+>     rdfs:label "linear element reference model version"@en;
+4065c4065
+<     rdfs:label "linearExtension"@en;
+---
+>     rdfs:label "linear extension"@en;
+4069c4069
+<     rdfs:label "linearPredefinedLocationReference"@en;
+---
+>     rdfs:label "linear predefined location reference"@en;
+4073c4073
+<     rdfs:label "linearTrafficView"@en;
+---
+>     rdfs:label "linear traffic view"@en;
+4077c4077
+<     rdfs:label "linearTrafficViewExtension"@en;
+---
+>     rdfs:label "linear traffic view extension"@en;
+4081c4081
+<     rdfs:label "linearWithinLinearElement"@en;
+---
+>     rdfs:label "linear within linear element"@en;
+4085c4085
+<     rdfs:label "linearWithinLinearElementExtension"@en;
+---
+>     rdfs:label "linear within linear element extension"@en;
+4089c4089
+<     rdfs:label "loadType"@en;
+---
+>     rdfs:label "load type"@en;
+4093c4093
+<     rdfs:label "loadType2"@en;
+---
+>     rdfs:label "load type to"@en;
+4101c4101
+<     rdfs:label "locationByReferenceExtension"@en;
+---
+>     rdfs:label "location by reference extension"@en;
+4105c4105
+<     rdfs:label "locationCharacteristicsOverride"@en;
+---
+>     rdfs:label "location characteristics override"@en;
+4109c4109
+<     rdfs:label "locationCharacteristicsOverrideExtension"@en;
+---
+>     rdfs:label "location characteristics override extension"@en;
+4113c4113
+<     rdfs:label "locationCodeForLinearLocation"@en;
+---
+>     rdfs:label "location code for linear location"@en;
+4118c4118
+<     rdfs:label "locationContainedInGroup"@en;
+---
+>     rdfs:label "location contained in group"@en;
+4123c4123
+<     rdfs:label "locationContainedInItinerary"@en;
+---
+>     rdfs:label "location contained in itinerary"@en;
+4128c4128
+<     rdfs:label "locationDescriptor"@en;
+---
+>     rdfs:label "location descriptor"@en;
+4132c4132
+<     rdfs:label "locationExtension"@en;
+---
+>     rdfs:label "location extension"@en;
+4136c4136
+<     rdfs:label "locationForDisplay"@en;
+---
+>     rdfs:label "location for display"@en;
+4141c4141
+<     rdfs:label "locationPrecision"@en;
+---
+>     rdfs:label "location precision"@en;
+4149c4149
+<     rdfs:label "lowestFloor"@en;
+---
+>     rdfs:label "lowest floor"@en;
+4154c4154
+<     rdfs:label "maintenanceVehicleActions"@en;
+---
+>     rdfs:label "maintenance vehicle actions"@en;
+4158c4158
+<     rdfs:label "maintenanceVehicles"@en;
+---
+>     rdfs:label "maintenance vehicles"@en;
+4162c4162
+<     rdfs:label "maintenanceVehiclesExtension"@en;
+---
+>     rdfs:label "maintenance vehicles extension"@en;
+4166c4166
+<     rdfs:label "maintenanceWorksExtension"@en;
+---
+>     rdfs:label "maintenance works extension"@en;
+4170c4170
+<     rdfs:label "managedCause"@en;
+---
+>     rdfs:label "managed cause"@en;
+4175c4175
+<     rdfs:label "managedCauseExtension"@en;
+---
+>     rdfs:label "managed cause extension"@en;
+4179c4179
+<     rdfs:label "managedLocation"@en;
+---
+>     rdfs:label "managed location"@en;
+4183c4183
+<     rdfs:label "managedLogicalLocation"@en;
+---
+>     rdfs:label "managed logical location"@en;
+4187c4187
+<     rdfs:label "managedLogicalLocationOverride"@en;
+---
+>     rdfs:label "managed logical location override"@en;
+4195c4195
+<     rdfs:label "managementExtension"@en;
+---
+>     rdfs:label "management extension"@en;
+4199c4199
+<     rdfs:label "mareNostrumCompliant"@en;
+---
+>     rdfs:label "mare nostrum compliant"@en;
+4203c4203
+<     rdfs:label "maxFontHeight"@en;
+---
+>     rdfs:label "max font height"@en;
+4207c4207
+<     rdfs:label "maxFontSpacing"@en;
+---
+>     rdfs:label "max font spacing"@en;
+4211c4211
+<     rdfs:label "maxFontWidth"@en;
+---
+>     rdfs:label "max font width"@en;
+4215c4215
+<     rdfs:label "maxIterationsOfCharge"@en;
+---
+>     rdfs:label "max iterations of charge"@en;
+4219c4219
+<     rdfs:label "maxNumberOfCharacters"@en;
+---
+>     rdfs:label "max number of characters"@en;
+4223c4223
+<     rdfs:label "maxNumberOfRows"@en;
+---
+>     rdfs:label "max number of rows"@en;
+4227c4227
+<     rdfs:label "maxNumberOfSequentialPages"@en;
+---
+>     rdfs:label "max number of sequential pages"@en;
+4231c4231
+<     rdfs:label "maxNumberOfSequentialPictograms"@en;
+---
+>     rdfs:label "max number of sequential pictograms"@en;
+4235c4235
+<     rdfs:label "maxPictogramLuminanceLevel"@en;
+---
+>     rdfs:label "max pictogram luminance level"@en;
+4239c4239
+<     rdfs:label "maxTextLuminanceLevel"@en;
+---
+>     rdfs:label "max text luminance level"@en;
+4243c4243
+<     rdfs:label "maximumCurrent"@en;
+---
+>     rdfs:label "maximum current"@en;
+4247c4247
+<     rdfs:label "maximumDuration"@en;
+---
+>     rdfs:label "maximum duration"@en;
+4251c4251
+<     rdfs:label "maximumParkingDuration"@en;
+---
+>     rdfs:label "maximum parking duration"@en;
+4255c4255
+<     rdfs:label "maximumParkingSpaceDimension"@en;
+---
+>     rdfs:label "maximum parking space dimension"@en;
+4260c4260
+<     rdfs:label "maximumPermittedAxleWeight"@en;
+---
+>     rdfs:label "maximum permitted axle weight"@en;
+4264c4264
+<     rdfs:label "maximumTemperature"@en;
+---
+>     rdfs:label "maximum temperature"@en;
+4268c4268
+<     rdfs:label "maximumWindSpeed"@en;
+---
+>     rdfs:label "maximum wind speed"@en;
+4272c4272
+<     rdfs:label "measuredDataPublicationExtension"@en;
+---
+>     rdfs:label "measured data publication extension"@en;
+4276c4276
+<     rdfs:label "measuredValue"@en;
+---
+>     rdfs:label "measured value"@en;
+4280c4280
+<     rdfs:label "measuredValueExtension"@en;
+---
+>     rdfs:label "measured value extension"@en;
+4284c4284
+<     rdfs:label "measuredValueIndex"@en;
+---
+>     rdfs:label "measured value index"@en;
+4288c4288
+<     rdfs:label "measuredVehicles"@en;
+---
+>     rdfs:label "measured vehicles"@en;
+4292c4292
+<     rdfs:label "measurementEquipmentFault"@en;
+---
+>     rdfs:label "measurement equipment fault"@en;
+4297c4297
+<     rdfs:label "measurementEquipmentFaultExtension"@en;
+---
+>     rdfs:label "measurement equipment fault extension"@en;
+4301c4301
+<     rdfs:label "measurementEquipmentReference"@en;
+---
+>     rdfs:label "measurement equipment reference"@en;
+4305c4305
+<     rdfs:label "measurementEquipmentTypeUsed"@en;
+---
+>     rdfs:label "measurement equipment type used"@en;
+4309c4309
+<     rdfs:label "measurementInterval"@en;
+---
+>     rdfs:label "measurement interval"@en;
+4313c4313
+<     rdfs:label "measurementLanesOverride"@en;
+---
+>     rdfs:label "measurement lanes override"@en;
+4317c4317
+<     rdfs:label "measurementOrCalcualtionTime"@en;
+---
+>     rdfs:label "measurement or calcualtion time"@en;
+4321c4321
+<     rdfs:label "measurementOrCalculatedTimePrecision"@en;
+---
+>     rdfs:label "measurement or calculated time precision"@en;
+4325c4325
+<     rdfs:label "measurementOrCalculationPeriod"@en;
+---
+>     rdfs:label "measurement or calculation period"@en;
+4329c4329
+<     rdfs:label "measurementOrCalculationTime"@en;
+---
+>     rdfs:label "measurement or calculation time"@en;
+4333c4333
+<     rdfs:label "measurementSide"@en;
+---
+>     rdfs:label "measurement side"@en;
+4337c4337
+<     rdfs:label "measurementSiteIdentification"@en;
+---
+>     rdfs:label "measurement site identification"@en;
+4341c4341
+<     rdfs:label "measurementSiteLocation"@en;
+---
+>     rdfs:label "measurement site location"@en;
+4345c4345
+<     rdfs:label "measurementSiteName"@en;
+---
+>     rdfs:label "measurement site name"@en;
+4349c4349
+<     rdfs:label "measurementSiteNumberOfLanes"@en;
+---
+>     rdfs:label "measurement site number of lanes"@en;
+4353c4353
+<     rdfs:label "measurementSiteRecord"@en;
+---
+>     rdfs:label "measurement site record"@en;
+4357c4357
+<     rdfs:label "measurementSiteRecordExtension"@en;
+---
+>     rdfs:label "measurement site record extension"@en;
+4361c4361
+<     rdfs:label "measurementSiteRecordVersionTime"@en;
+---
+>     rdfs:label "measurement site record version time"@en;
+4365c4365
+<     rdfs:label "measurementSiteReference"@en;
+---
+>     rdfs:label "measurement site reference"@en;
+4369c4369
+<     rdfs:label "measurementSiteTable"@en;
+---
+>     rdfs:label "measurement site table"@en;
+4373c4373
+<     rdfs:label "measurementSiteTableExtension"@en;
+---
+>     rdfs:label "measurement site table extension"@en;
+4377c4377
+<     rdfs:label "measurementSiteTableIdentification"@en;
+---
+>     rdfs:label "measurement site table identification"@en;
+4381c4381
+<     rdfs:label "measurementSiteTablePublicationExtension"@en;
+---
+>     rdfs:label "measurement site table publication extension"@en;
+4385c4385
+<     rdfs:label "measurementSiteTableReference"@en;
+---
+>     rdfs:label "measurement site table reference"@en;
+4390c4390
+<     rdfs:label "measurementSpecificCharacteristics"@en;
+---
+>     rdfs:label "measurement specific characteristics"@en;
+4394c4394
+<     rdfs:label "measurementSpecificCharacteristicsExtension"@en;
+---
+>     rdfs:label "measurement specific characteristics extension"@en;
+4398c4398
+<     rdfs:label "measurementTimeDefault"@en;
+---
+>     rdfs:label "measurement time default"@en;
+4402c4402
+<     rdfs:label "messageIndex"@en;
+---
+>     rdfs:label "message index"@en;
+4406c4406
+<     rdfs:label "messageSetBy"@en;
+---
+>     rdfs:label "message set by"@en;
+4410c4410
+<     rdfs:label "microgramsConcentration"@en;
+---
+>     rdfs:label "micrograms concentration"@en;
+4415c4415
+<     rdfs:label "microgramsConcentrationValueExtension"@en;
+---
+>     rdfs:label "micrograms concentration value extension"@en;
+4419c4419
+<     rdfs:label "millimetresPerHourIntensity"@en;
+---
+>     rdfs:label "millimetres per hour intensity"@en;
+4424c4424
+<     rdfs:label "minFontHeight"@en;
+---
+>     rdfs:label "min font height"@en;
+4428c4428
+<     rdfs:label "minFontSpacing"@en;
+---
+>     rdfs:label "min font spacing"@en;
+4432c4432
+<     rdfs:label "minFontWidth"@en;
+---
+>     rdfs:label "min font width"@en;
+4436c4436
+<     rdfs:label "minIterationsOfCharge"@en;
+---
+>     rdfs:label "min iterations of charge"@en;
+4440c4440
+<     rdfs:label "minimumCarOccupancy"@en;
+---
+>     rdfs:label "minimum car occupancy"@en;
+4445c4445
+<     rdfs:label "minimumParkingSpaceDimension"@en;
+---
+>     rdfs:label "minimum parking space dimension"@en;
+4450c4450
+<     rdfs:label "minimumTemperature"@en;
+---
+>     rdfs:label "minimum temperature"@en;
+4454c4454
+<     rdfs:label "minimumVisibilityDistance"@en;
+---
+>     rdfs:label "minimum visibility distance"@en;
+4462c4462
+<     rdfs:label "mobilityExtension"@en;
+---
+>     rdfs:label "mobility extension"@en;
+4466c4466
+<     rdfs:label "mobilityOfActivity"@en;
+---
+>     rdfs:label "mobility of activity"@en;
+4471c4471
+<     rdfs:label "mobilityOfObstruction"@en;
+---
+>     rdfs:label "mobility of obstruction"@en;
+4476c4476
+<     rdfs:label "mobilityType"@en;
+---
+>     rdfs:label "mobility type"@en;
+4480c4480
+<     rdfs:label "modelBaseVersion"@en;
+---
+>     rdfs:label "model base version"@en;
+4493c4493
+<     rdfs:label "nameOfRoad"@en;
+---
+>     rdfs:label "name of road"@en;
+4497c4497
+<     rdfs:label "nameOrBrand"@en;
+---
+>     rdfs:label "name or brand"@en;
+4501c4501
+<     rdfs:label "namedArea"@en;
+---
+>     rdfs:label "named area"@en;
+4505c4505
+<     rdfs:label "namedAreaExtension"@en;
+---
+>     rdfs:label "named area extension"@en;
+4513c4513
+<     rdfs:label "nationalIdentifier"@en;
+---
+>     rdfs:label "national identifier"@en;
+4517c4517
+<     rdfs:label "networkLocationExtension"@en;
+---
+>     rdfs:label "network location extension"@en;
+4521c4521
+<     rdfs:label "networkManagementExtension"@en;
+---
+>     rdfs:label "network management extension"@en;
+4525c4525
+<     rdfs:label "noPrecipitation"@en;
+---
+>     rdfs:label "no precipitation"@en;
+4530c4530
+<     rdfs:label "nonGeneralPublicComment"@en;
+---
+>     rdfs:label "non general public comment"@en;
+4534c4534
+<     rdfs:label "nonManagedCauseExtension"@en;
+---
+>     rdfs:label "non managed cause extension"@en;
+4538c4538
+<     rdfs:label "nonOrderedLocationGroupByListExtension"@en;
+---
+>     rdfs:label "non ordered location group by list extension"@en;
+4542c4542
+<     rdfs:label "nonOrderedLocationGroupByReferenceExtension"@en;
+---
+>     rdfs:label "non ordered location group by reference extension"@en;
+4546c4546
+<     rdfs:label "nonOrderedLocationsExtension"@en;
+---
+>     rdfs:label "non ordered locations extension"@en;
+4550c4550
+<     rdfs:label "nonRoadEventInformationExtension"@en;
+---
+>     rdfs:label "non road event information extension"@en;
+4554c4554
+<     rdfs:label "nonWeatherRelatedRoadConditionType"@en;
+---
+>     rdfs:label "non weather related road condition type"@en;
+4559c4559
+<     rdfs:label "nonWeatherRelatedRoadConditionsExtension"@en;
+---
+>     rdfs:label "non weather related road conditions extension"@en;
+4563c4563
+<     rdfs:label "normallyExpectedTravelTime"@en;
+---
+>     rdfs:label "normally expected travel time"@en;
+4568c4568
+<     rdfs:label "numberOfAxles"@en;
+---
+>     rdfs:label "number of axles"@en;
+4572c4572
+<     rdfs:label "numberOfAxlesCharacteristic"@en;
+---
+>     rdfs:label "number of axles characteristic"@en;
+4576c4576
+<     rdfs:label "numberOfAxlesCharacteristicExtension"@en;
+---
+>     rdfs:label "number of axles characteristic extension"@en;
+4580c4580
+<     rdfs:label "numberOfChargingPoints"@en;
+---
+>     rdfs:label "number of charging points"@en;
+4584c4584
+<     rdfs:label "numberOfEquipmentOrServiceFacility"@en;
+---
+>     rdfs:label "number of equipment or service facility"@en;
+4588c4588
+<     rdfs:label "numberOfEquipmentOrServiceFacilityOverride"@en;
+---
+>     rdfs:label "number of equipment or service facility override"@en;
+4592c4592
+<     rdfs:label "numberOfIncomingVehicles"@en;
+---
+>     rdfs:label "number of incoming vehicles"@en;
+4596c4596
+<     rdfs:label "numberOfIncompleteInputs"@en;
+---
+>     rdfs:label "number of incomplete inputs"@en;
+4600c4600
+<     rdfs:label "numberOfInputValuesUsed"@en;
+---
+>     rdfs:label "number of input values used"@en;
+4604c4604
+<     rdfs:label "numberOfLanesRestricted"@en;
+---
+>     rdfs:label "number of lanes restricted"@en;
+4608c4608
+<     rdfs:label "numberOfMaintenanceVehicles"@en;
+---
+>     rdfs:label "number of maintenance vehicles"@en;
+4612c4612
+<     rdfs:label "numberOfObstructions"@en;
+---
+>     rdfs:label "number of obstructions"@en;
+4617c4617
+<     rdfs:label "numberOfOperationalLanes"@en;
+---
+>     rdfs:label "number of operational lanes"@en;
+4621c4621
+<     rdfs:label "numberOfOutgoingVehicles"@en;
+---
+>     rdfs:label "number of outgoing vehicles"@en;
+4625c4625
+<     rdfs:label "numberOfPeople"@en;
+---
+>     rdfs:label "number of people"@en;
+4629c4629
+<     rdfs:label "numberOfPictogramDisplayAreas"@en;
+---
+>     rdfs:label "number of pictogram display areas"@en;
+4633c4633
+<     rdfs:label "numberOfSubitems"@en;
+---
+>     rdfs:label "number of subitems"@en;
+4638c4638
+<     rdfs:label "numberOfSubitemsOverride"@en;
+---
+>     rdfs:label "number of subitems override"@en;
+4642c4642
+<     rdfs:label "numberOfSubjects"@en;
+---
+>     rdfs:label "number of subjects"@en;
+4646c4646
+<     rdfs:label "numberOfVacantParkingSpaces"@en;
+---
+>     rdfs:label "number of vacant parking spaces"@en;
+4651c4651
+<     rdfs:label "numberOfVehicles"@en;
+---
+>     rdfs:label "number of vehicles"@en;
+4655c4655
+<     rdfs:label "numberOfVehiclesWaiting"@en;
+---
+>     rdfs:label "number of vehicles waiting"@en;
+4660c4660
+<     rdfs:label "numberOfVms"@en;
+---
+>     rdfs:label "number of VMS"@en;
+4664c4664
+<     rdfs:label "obstructingVehicle"@en;
+---
+>     rdfs:label "obstructing vehicle"@en;
+4669c4669
+<     rdfs:label "obstructionExtension"@en;
+---
+>     rdfs:label "obstruction extension"@en;
+4673c4673
+<     rdfs:label "obstructionType"@en;
+---
+>     rdfs:label "obstruction type"@en;
+4683c4683
+<     rdfs:label "occupancyChange"@en;
+---
+>     rdfs:label "occupancy change"@en;
+4688c4688
+<     rdfs:label "occupancyChangeValueExtension"@en;
+---
+>     rdfs:label "occupancy change value extension"@en;
+4692c4692
+<     rdfs:label "occupiedSpaces"@en;
+---
+>     rdfs:label "occupied spaces"@en;
+4697c4697
+<     rdfs:label "offsetDistance"@en;
+---
+>     rdfs:label "offset distance"@en;
+4701c4701
+<     rdfs:label "offsetDistanceExtension"@en;
+---
+>     rdfs:label "offset distance extension"@en;
+4705c4705
+<     rdfs:label "onlyAssignedParking"@en;
+---
+>     rdfs:label "only assigned parking"@en;
+4709c4709
+<     rdfs:label "openAllYear"@en;
+---
+>     rdfs:label "open all year"@en;
+4713c4713
+<     rdfs:label "openingTimes"@en;
+---
+>     rdfs:label "opening times"@en;
+4717c4717
+<     rdfs:label "openingTimesExtension"@en;
+---
+>     rdfs:label "opening times extension"@en;
+4721c4721
+<     rdfs:label "openingTimesNotSpecified"@en;
+---
+>     rdfs:label "opening times not specified"@en;
+4725c4725
+<     rdfs:label "openingTimesUnknown"@en;
+---
+>     rdfs:label "opening times unknown"@en;
+4729c4729
+<     rdfs:label "openlrAreaLocationReference"@en;
+---
+>     rdfs:label "openLR area location reference"@en;
+4733c4733
+<     rdfs:label "openlrAreaLocationReferenceExtension"@en;
+---
+>     rdfs:label "openLR area location reference extension"@en;
+4737c4737
+<     rdfs:label "openlrBaseLocationReferencePointExtension"@en;
+---
+>     rdfs:label "openLR base location reference point extension"@en;
+4741c4741
+<     rdfs:label "openlrBasePointLocationExtension"@en;
+---
+>     rdfs:label "openLR base point location extension"@en;
+4745c4745
+<     rdfs:label "openlrBearing"@en;
+---
+>     rdfs:label "openLR bearing"@en;
+4749c4749
+<     rdfs:label "openlrCircleLocationReferenceExtension"@en;
+---
+>     rdfs:label "openLR circle location reference extension"@en;
+4753c4753
+<     rdfs:label "openlrClosedLineLocationReferenceExtension"@en;
+---
+>     rdfs:label "openLR closed line location reference extension"@en;
+4757c4757
+<     rdfs:label "openlrCoordinate"@en;
+---
+>     rdfs:label "openLR coordinate"@en;
+4762c4762
+<     rdfs:label "openlrDistanceToNextLRPoint"@en;
+---
+>     rdfs:label "openLR distance to next lr point"@en;
+4766c4766
+<     rdfs:label "openlrExtendedArea"@en;
+---
+>     rdfs:label "openLR extended area"@en;
+4770c4770
+<     rdfs:label "openlrExtendedLinear"@en;
+---
+>     rdfs:label "openLR extended linear"@en;
+4774c4774
+<     rdfs:label "openlrExtendedPoint"@en;
+---
+>     rdfs:label "openLR extended point"@en;
+4778c4778
+<     rdfs:label "openlrFormOfWay"@en;
+---
+>     rdfs:label "openLR form of way"@en;
+4782c4782
+<     rdfs:label "openlrFunctionalRoadClass"@en;
+---
+>     rdfs:label "openLR functional road class"@en;
+4786c4786
+<     rdfs:label "openlrGeoCoordinate"@en;
+---
+>     rdfs:label "openLR geo coordinate"@en;
+4790c4790
+<     rdfs:label "openlrGeoCoordinateExtension"@en;
+---
+>     rdfs:label "openLR geo coordinate extension"@en;
+4794c4794
+<     rdfs:label "openlrGridAttributes"@en;
+---
+>     rdfs:label "openLR grid attributes"@en;
+4798c4798
+<     rdfs:label "openlrGridAttributesExtension"@en;
+---
+>     rdfs:label "openLR grid attributes extension"@en;
+4802c4802
+<     rdfs:label "openlrGridLocationReferenceExtension"@en;
+---
+>     rdfs:label "openLR grid location reference extension"@en;
+4806c4806
+<     rdfs:label "openlrLastLine"@en;
+---
+>     rdfs:label "openLR last line"@en;
+4810c4810
+<     rdfs:label "openlrLastLocationReferencePoint"@en;
+---
+>     rdfs:label "openLR last location reference point"@en;
+4814c4814
+<     rdfs:label "openlrLastLocationReferencePointExtension"@en;
+---
+>     rdfs:label "openLR last location reference point extension"@en;
+4818c4818
+<     rdfs:label "openlrLineAttributes"@en;
+---
+>     rdfs:label "openLR line attributes"@en;
+4822c4822
+<     rdfs:label "openlrLineAttributesExtension"@en;
+---
+>     rdfs:label "openLR line attributes extension"@en;
+4826c4826
+<     rdfs:label "openlrLineLocationReferenceExtension"@en;
+---
+>     rdfs:label "openLR line location reference extension"@en;
+4830c4830
+<     rdfs:label "openlrLocationReferencePoint"@en;
+---
+>     rdfs:label "openLR location reference point"@en;
+4834c4834
+<     rdfs:label "openlrLocationReferencePointExtension"@en;
+---
+>     rdfs:label "openLR location reference point extension"@en;
+4838c4838
+<     rdfs:label "openlrLowerLeft"@en;
+---
+>     rdfs:label "openLR lower left"@en;
+4842c4842
+<     rdfs:label "openlrLowestFRCToNextLRPoint"@en;
+---
+>     rdfs:label "openLR lowest frc to next lr point"@en;
+4846c4846
+<     rdfs:label "openlrNegativeOffset"@en;
+---
+>     rdfs:label "openLR negative offset"@en;
+4850c4850
+<     rdfs:label "openlrNumColumns"@en;
+---
+>     rdfs:label "openLR num columns"@en;
+4854c4854
+<     rdfs:label "openlrNumRows"@en;
+---
+>     rdfs:label "openLR num rows"@en;
+4858c4858
+<     rdfs:label "openlrOffsets"@en;
+---
+>     rdfs:label "openLR offsets"@en;
+4862c4862
+<     rdfs:label "openlrOffsetsExtension"@en;
+---
+>     rdfs:label "openLR offsets extension"@en;
+4866c4866
+<     rdfs:label "openlrOrientation"@en;
+---
+>     rdfs:label "openLR orientation"@en;
+4870c4870
+<     rdfs:label "openlrPathAttributes"@en;
+---
+>     rdfs:label "openLR path attributes"@en;
+4874c4874
+<     rdfs:label "openlrPathAttributesExtension"@en;
+---
+>     rdfs:label "openLR path attributes extension"@en;
+4878c4878
+<     rdfs:label "openlrPoiWithAccessPoint"@en;
+---
+>     rdfs:label "openLR poi with access point"@en;
+4882c4882
+<     rdfs:label "openlrPoiWithAccessPointExtension"@en;
+---
+>     rdfs:label "openLR poi with access point extension"@en;
+4886c4886
+<     rdfs:label "openlrPointAlongLine"@en;
+---
+>     rdfs:label "openLR point along line"@en;
+4890c4890
+<     rdfs:label "openlrPointAlongLineExtension"@en;
+---
+>     rdfs:label "openLR point along line extension"@en;
+4894c4894
+<     rdfs:label "openlrPointLocationReference"@en;
+---
+>     rdfs:label "openLR point location reference"@en;
+4898c4898
+<     rdfs:label "openlrPointLocationReferenceExtension"@en;
+---
+>     rdfs:label "openLR point location reference extension"@en;
+4902c4902
+<     rdfs:label "openlrPolygonCorners"@en;
+---
+>     rdfs:label "openLR polygon corners"@en;
+4906c4906
+<     rdfs:label "openlrPolygonCornersExtension"@en;
+---
+>     rdfs:label "openLR polygon corners extension"@en;
+4910c4910
+<     rdfs:label "openlrPolygonLocationReferenceExtension"@en;
+---
+>     rdfs:label "openLR polygon location reference extension"@en;
+4914c4914
+<     rdfs:label "openlrPositiveOffset"@en;
+---
+>     rdfs:label "openLR positive offset"@en;
+4918c4918
+<     rdfs:label "openlrRectangle"@en;
+---
+>     rdfs:label "openLR rectangle"@en;
+4922c4922
+<     rdfs:label "openlrRectangleExtension"@en;
+---
+>     rdfs:label "openLR rectangle extension"@en;
+4926c4926
+<     rdfs:label "openlrRectangleLocationReferenceExtension"@en;
+---
+>     rdfs:label "openLR rectangle location reference extension"@en;
+4930c4930
+<     rdfs:label "openlrSideOfRoad"@en;
+---
+>     rdfs:label "openLR side of road"@en;
+4934c4934
+<     rdfs:label "openlrUpperRight"@en;
+---
+>     rdfs:label "openLR upper right"@en;
+4938c4938
+<     rdfs:label "operatingMode"@en;
+---
+>     rdfs:label "operating mode"@en;
+4942c4942
+<     rdfs:label "operationFreeOfEmission"@en;
+---
+>     rdfs:label "operation free of emission"@en;
+4950c4950
+<     rdfs:label "operatorAction"@en;
+---
+>     rdfs:label "operator action"@en;
+4954c4954
+<     rdfs:label "operatorActionExtension"@en;
+---
+>     rdfs:label "operator action extension"@en;
+4958c4958
+<     rdfs:label "operatorActionStatus"@en;
+---
+>     rdfs:label "operator action status"@en;
+4963c4963
+<     rdfs:label "oppositeDirection"@en;
+---
+>     rdfs:label "opposite direction"@en;
+4967c4967
+<     rdfs:label "originalNumberOfLanes"@en;
+---
+>     rdfs:label "original number of lanes"@en;
+4971c4971
+<     rdfs:label "otherEquipmentOrServiceFacility"@en;
+---
+>     rdfs:label "other equipment or service facility"@en;
+4975c4975
+<     rdfs:label "otherName"@en;
+---
+>     rdfs:label "other name"@en;
+4980c4980
+<     rdfs:label "otherPaymentCard"@en;
+---
+>     rdfs:label "other payment card"@en;
+4984c4984
+<     rdfs:label "otherPaymentCardBrand"@en;
+---
+>     rdfs:label "other payment card brand"@en;
+4988c4988
+<     rdfs:label "otherPaymentCardBrands"@en;
+---
+>     rdfs:label "other payment card brands"@en;
+4992c4992
+<     rdfs:label "otherPaymentCards"@en;
+---
+>     rdfs:label "other payment cards"@en;
+4996c4996
+<     rdfs:label "overallEndTime"@en;
+---
+>     rdfs:label "overall end time"@en;
+5000c5000
+<     rdfs:label "overallPeriodExtension"@en;
+---
+>     rdfs:label "overall period extension"@en;
+5004c5004
+<     rdfs:label "overallSeverity"@en;
+---
+>     rdfs:label "overall severity"@en;
+5008c5008
+<     rdfs:label "overallStartTime"@en;
+---
+>     rdfs:label "overall start time"@en;
+5016c5016
+<     rdfs:label "overcrowdingLevel1"@en;
+---
+>     rdfs:label "overcrowding level1"@en;
+5020c5020
+<     rdfs:label "overcrowdingLevel2"@en;
+---
+>     rdfs:label "overcrowding level to"@en;
+5024c5024
+<     rdfs:label "overrideParkingThresholds"@en;
+---
+>     rdfs:label "override parking thresholds"@en;
+5036c5036
+<     rdfs:label "pageNumber"@en;
+---
+>     rdfs:label "page number"@en;
+5040c5040
+<     rdfs:label "parkingAccess"@en;
+---
+>     rdfs:label "parking access"@en;
+5045c5045
+<     rdfs:label "parkingAccessExtension"@en;
+---
+>     rdfs:label "parking access extension"@en;
+5049c5049
+<     rdfs:label "parkingAccessStatus"@en;
+---
+>     rdfs:label "parking access status"@en;
+5053c5053
+<     rdfs:label "parkingAccessStatusExtension"@en;
+---
+>     rdfs:label "parking access status extension"@en;
+5057c5057
+<     rdfs:label "parkingAdditionalSecurity"@en;
+---
+>     rdfs:label "parking additional security"@en;
+5061c5061
+<     rdfs:label "parkingAlias"@en;
+---
+>     rdfs:label "parking alias"@en;
+5065c5065
+<     rdfs:label "parkingAssignmentExtension"@en;
+---
+>     rdfs:label "parking assignment extension"@en;
+5069c5069
+<     rdfs:label "parkingColour"@en;
+---
+>     rdfs:label "parking colour"@en;
+5073c5073
+<     rdfs:label "parkingConditions"@en;
+---
+>     rdfs:label "parking conditions"@en;
+5077c5077
+<     rdfs:label "parkingDescription"@en;
+---
+>     rdfs:label "parking description"@en;
+5081c5081
+<     rdfs:label "parkingDuration"@en;
+---
+>     rdfs:label "parking duration"@en;
+5085c5085
+<     rdfs:label "parkingEquipmentOrServiceFacility"@en;
+---
+>     rdfs:label "parking equipment or service facility"@en;
+5089c5089
+<     rdfs:label "parkingEquipmentOrServiceFacilityExtension"@en;
+---
+>     rdfs:label "parking equipment or service facility extension"@en;
+5093c5093
+<     rdfs:label "parkingEquipmentOrServiceFacilityStatus"@en;
+---
+>     rdfs:label "parking equipment or service facility status"@en;
+5097c5097
+<     rdfs:label "parkingEquipmentOrServiceFacilityStatusExtension"@en;
+---
+>     rdfs:label "parking equipment or service facility status extension"@en;
+5101c5101
+<     rdfs:label "parkingFault"@en;
+---
+>     rdfs:label "parking fault"@en;
+5105c5105
+<     rdfs:label "parkingFloorOrLevel"@en;
+---
+>     rdfs:label "parking floor or level"@en;
+5109c5109
+<     rdfs:label "parkingLastMaximumOccupancy"@en;
+---
+>     rdfs:label "parking last maximum occupancy"@en;
+5113c5113
+<     rdfs:label "parkingLayout"@en;
+---
+>     rdfs:label "parking layout"@en;
+5118c5118
+<     rdfs:label "parkingLocation"@en;
+---
+>     rdfs:label "parking location"@en;
+5122c5122
+<     rdfs:label "parkingMode"@en;
+---
+>     rdfs:label "parking mode"@en;
+5126c5126
+<     rdfs:label "parkingName"@en;
+---
+>     rdfs:label "parking name"@en;
+5130c5130
+<     rdfs:label "parkingNotAllowed"@en;
+---
+>     rdfs:label "parking not allowed"@en;
+5134c5134
+<     rdfs:label "parkingNumberOfOccupiedSpaces"@en;
+---
+>     rdfs:label "parking number of occupied spaces"@en;
+5138c5138
+<     rdfs:label "parkingNumberOfSpaces"@en;
+---
+>     rdfs:label "parking number of spaces"@en;
+5143c5143
+<     rdfs:label "parkingNumberOfSpacesOverride"@en;
+---
+>     rdfs:label "parking number of spaces override"@en;
+5147c5147
+<     rdfs:label "parkingNumberOfVacantSpaces"@en;
+---
+>     rdfs:label "parking number of vacant spaces"@en;
+5151c5151
+<     rdfs:label "parkingNumberOfVacantSpacesGraded"@en;
+---
+>     rdfs:label "parking number of vacant spaces graded"@en;
+5155c5155
+<     rdfs:label "parkingNumberOfVacantSpacesHigherThan"@en;
+---
+>     rdfs:label "parking number of vacant spaces higher than"@en;
+5159c5159
+<     rdfs:label "parkingNumberOfVacantSpacesLowerThan"@en;
+---
+>     rdfs:label "parking number of vacant spaces lower than"@en;
+5163c5163
+<     rdfs:label "parkingNumberOfVehicles"@en;
+---
+>     rdfs:label "parking number of vehicles"@en;
+5167c5167
+<     rdfs:label "parkingOccupancy"@en;
+---
+>     rdfs:label "parking occupancy"@en;
+5171c5171
+<     rdfs:label "parkingOccupancyExtension"@en;
+---
+>     rdfs:label "parking occupancy extension"@en;
+5175c5175
+<     rdfs:label "parkingOccupancyGraded"@en;
+---
+>     rdfs:label "parking occupancy graded"@en;
+5179c5179
+<     rdfs:label "parkingOccupancyTrend"@en;
+---
+>     rdfs:label "parking occupancy trend"@en;
+5183c5183
+<     rdfs:label "parkingOccupanyDetectionType"@en;
+---
+>     rdfs:label "parking occupany detection type"@en;
+5187c5187
+<     rdfs:label "parkingOtherSpecialLocation"@en;
+---
+>     rdfs:label "parking other special location"@en;
+5192c5192
+<     rdfs:label "parkingPeriod"@en;
+---
+>     rdfs:label "parking period"@en;
+5196c5196
+<     rdfs:label "parkingPermit"@en;
+---
+>     rdfs:label "parking permit"@en;
+5200c5200
+<     rdfs:label "parkingPermitExtension"@en;
+---
+>     rdfs:label "parking permit extension"@en;
+5204c5204
+<     rdfs:label "parkingPermitIdentifier"@en;
+---
+>     rdfs:label "parking permit identifier"@en;
+5208c5208
+<     rdfs:label "parkingPermitScheme"@en;
+---
+>     rdfs:label "parking permit scheme"@en;
+5212c5212
+<     rdfs:label "parkingPermitType"@en;
+---
+>     rdfs:label "parking permit type"@en;
+5216c5216
+<     rdfs:label "parkingPrincipalNumberOfSpaces"@en;
+---
+>     rdfs:label "parking principal number of spaces"@en;
+5220c5220
+<     rdfs:label "parkingQueueingTime"@en;
+---
+>     rdfs:label "parking queueing time"@en;
+5224c5224
+<     rdfs:label "parkingRecord"@en;
+---
+>     rdfs:label "parking record"@en;
+5228c5228
+<     rdfs:label "parkingRecordDimension"@en;
+---
+>     rdfs:label "parking record dimension"@en;
+5232c5232
+<     rdfs:label "parkingRecordExtension"@en;
+---
+>     rdfs:label "parking record extension"@en;
+5236c5236
+<     rdfs:label "parkingRecordReference"@en;
+---
+>     rdfs:label "parking record reference"@en;
+5240c5240
+<     rdfs:label "parkingRecordStatus"@en;
+---
+>     rdfs:label "parking record status"@en;
+5244c5244
+<     rdfs:label "parkingRecordStatusExtension"@en;
+---
+>     rdfs:label "parking record status extension"@en;
+5248c5248
+<     rdfs:label "parkingRecordVersionTime"@en;
+---
+>     rdfs:label "parking record version time"@en;
+5252c5252
+<     rdfs:label "parkingReservation"@en;
+---
+>     rdfs:label "parking reservation"@en;
+5257c5257
+<     rdfs:label "parkingRoute"@en;
+---
+>     rdfs:label "parking route"@en;
+5261c5261
+<     rdfs:label "parkingRouteActive"@en;
+---
+>     rdfs:label "parking route active"@en;
+5265c5265
+<     rdfs:label "parkingRouteByReferenceExtension"@en;
+---
+>     rdfs:label "parking route by reference extension"@en;
+5269c5269
+<     rdfs:label "parkingRouteColour"@en;
+---
+>     rdfs:label "parking route colour"@en;
+5273c5273
+<     rdfs:label "parkingRouteDetailsExtension"@en;
+---
+>     rdfs:label "parking route details extension"@en;
+5277c5277
+<     rdfs:label "parkingRouteDirection"@en;
+---
+>     rdfs:label "parking route direction"@en;
+5282c5282
+<     rdfs:label "parkingRouteDirection2"@en;
+---
+>     rdfs:label "parking route direction to"@en;
+5287c5287
+<     rdfs:label "parkingRouteExtension"@en;
+---
+>     rdfs:label "parking route extension"@en;
+5291c5291
+<     rdfs:label "parkingRouteIconIndex"@en;
+---
+>     rdfs:label "parking route icon index"@en;
+5296c5296
+<     rdfs:label "parkingRouteName"@en;
+---
+>     rdfs:label "parking route name"@en;
+5301c5301
+<     rdfs:label "parkingRouteReference"@en;
+---
+>     rdfs:label "parking route reference"@en;
+5306c5306
+<     rdfs:label "parkingRouteStatus"@en;
+---
+>     rdfs:label "parking route status"@en;
+5310c5310
+<     rdfs:label "parkingRouteStatusExtension"@en;
+---
+>     rdfs:label "parking route status extension"@en;
+5314c5314
+<     rdfs:label "parkingRouteType"@en;
+---
+>     rdfs:label "parking route type"@en;
+5319c5319
+<     rdfs:label "parkingSecurity"@en;
+---
+>     rdfs:label "parking security"@en;
+5323c5323
+<     rdfs:label "parkingSecurityNationalClassification"@en;
+---
+>     rdfs:label "parking security national classification"@en;
+5327c5327
+<     rdfs:label "parkingSite"@en;
+---
+>     rdfs:label "parking site"@en;
+5331c5331
+<     rdfs:label "parkingSiteAddress"@en;
+---
+>     rdfs:label "parking site address"@en;
+5336c5336
+<     rdfs:label "parkingSiteByReference"@en;
+---
+>     rdfs:label "parking site by reference"@en;
+5341c5341
+<     rdfs:label "parkingSiteExtension"@en;
+---
+>     rdfs:label "parking site extension"@en;
+5345c5345
+<     rdfs:label "parkingSiteFullAtFloor"@en;
+---
+>     rdfs:label "parking site full at floor"@en;
+5350c5350
+<     rdfs:label "parkingSiteOpeningStatus"@en;
+---
+>     rdfs:label "parking site opening status"@en;
+5355c5355
+<     rdfs:label "parkingSiteOvercrowdingStatus"@en;
+---
+>     rdfs:label "parking site overcrowding status"@en;
+5360c5360
+<     rdfs:label "parkingSiteStatus"@en;
+---
+>     rdfs:label "parking site status"@en;
+5365c5365
+<     rdfs:label "parkingSiteStatusExtension"@en;
+---
+>     rdfs:label "parking site status extension"@en;
+5369c5369
+<     rdfs:label "parkingSpace"@en;
+---
+>     rdfs:label "parking space"@en;
+5373c5373
+<     rdfs:label "parkingSpaceAccessibility"@en;
+---
+>     rdfs:label "parking space accessibility"@en;
+5377c5377
+<     rdfs:label "parkingSpaceBasics"@en;
+---
+>     rdfs:label "parking space basics"@en;
+5381c5381
+<     rdfs:label "parkingSpaceBasicsExtension"@en;
+---
+>     rdfs:label "parking space basics extension"@en;
+5385c5385
+<     rdfs:label "parkingSpaceClosed"@en;
+---
+>     rdfs:label "parking space closed"@en;
+5389c5389
+<     rdfs:label "parkingSpaceDeclarationValidNow"@en;
+---
+>     rdfs:label "parking space declaration valid now"@en;
+5393c5393
+<     rdfs:label "parkingSpaceDimension"@en;
+---
+>     rdfs:label "parking space dimension"@en;
+5398c5398
+<     rdfs:label "parkingSpaceExtension"@en;
+---
+>     rdfs:label "parking space extension"@en;
+5402c5402
+<     rdfs:label "parkingSpaceIndex"@en;
+---
+>     rdfs:label "parking space index"@en;
+5406c5406
+<     rdfs:label "parkingSpaceOccupied"@en;
+---
+>     rdfs:label "parking space occupied"@en;
+5410c5410
+<     rdfs:label "parkingSpaceOrGroupIdentifier"@en;
+---
+>     rdfs:label "parking space or group identifier"@en;
+5414c5414
+<     rdfs:label "parkingSpacePhysics"@en;
+---
+>     rdfs:label "parking space physics"@en;
+5418c5418
+<     rdfs:label "parkingSpaceReference"@en;
+---
+>     rdfs:label "parking space reference"@en;
+5422c5422
+<     rdfs:label "parkingSpaceStatus"@en;
+---
+>     rdfs:label "parking space status"@en;
+5426c5426
+<     rdfs:label "parkingSpaceStatusExtension"@en;
+---
+>     rdfs:label "parking space status extension"@en;
+5430c5430
+<     rdfs:label "parkingSpecialLocation"@en;
+---
+>     rdfs:label "parking special location"@en;
+5435c5435
+<     rdfs:label "parkingStandardsAndSecurity"@en;
+---
+>     rdfs:label "parking standards and security"@en;
+5439c5439
+<     rdfs:label "parkingStandardsAndSecurityExtension"@en;
+---
+>     rdfs:label "parking standards and security extension"@en;
+5443c5443
+<     rdfs:label "parkingStatusColourMapping"@en;
+---
+>     rdfs:label "parking status colour mapping"@en;
+5447c5447
+<     rdfs:label "parkingStatusColourMappingExtension"@en;
+---
+>     rdfs:label "parking status colour mapping extension"@en;
+5451c5451
+<     rdfs:label "parkingStatusDescription"@en;
+---
+>     rdfs:label "parking status description"@en;
+5455c5455
+<     rdfs:label "parkingStatusOriginTime"@en;
+---
+>     rdfs:label "parking status origin time"@en;
+5459c5459
+<     rdfs:label "parkingStatusPublication"@en;
+---
+>     rdfs:label "parking status publication"@en;
+5463c5463
+<     rdfs:label "parkingStatusTime"@en;
+---
+>     rdfs:label "parking status time"@en;
+5467c5467
+<     rdfs:label "parkingStatusTimeOffsetToOrigin"@en;
+---
+>     rdfs:label "parking status time offset to origin"@en;
+5471c5471
+<     rdfs:label "parkingStatusValidity"@en;
+---
+>     rdfs:label "parking status validity"@en;
+5475c5475
+<     rdfs:label "parkingStatusValidityExtension"@en;
+---
+>     rdfs:label "parking status validity extension"@en;
+5479c5479
+<     rdfs:label "parkingSupervision"@en;
+---
+>     rdfs:label "parking supervision"@en;
+5483c5483
+<     rdfs:label "parkingTable"@en;
+---
+>     rdfs:label "parking table"@en;
+5487c5487
+<     rdfs:label "parkingTableExtension"@en;
+---
+>     rdfs:label "parking table extension"@en;
+5491c5491
+<     rdfs:label "parkingTableName"@en;
+---
+>     rdfs:label "parking table name"@en;
+5495c5495
+<     rdfs:label "parkingTablePublication"@en;
+---
+>     rdfs:label "parking table publication"@en;
+5499c5499
+<     rdfs:label "parkingTableReference"@en;
+---
+>     rdfs:label "parking table reference"@en;
+5503c5503
+<     rdfs:label "parkingTableVersionTime"@en;
+---
+>     rdfs:label "parking table version time"@en;
+5507c5507
+<     rdfs:label "parkingThresholds"@en;
+---
+>     rdfs:label "parking thresholds"@en;
+5511c5511
+<     rdfs:label "parkingThresholdsExtension"@en;
+---
+>     rdfs:label "parking thresholds extension"@en;
+5515c5515
+<     rdfs:label "parkingTypeOfGroup"@en;
+---
+>     rdfs:label "parking type of group"@en;
+5520c5520
+<     rdfs:label "parkingUsageScenario"@en;
+---
+>     rdfs:label "parking usage scenario"@en;
+5524c5524
+<     rdfs:label "parkingUsageScenarioExtension"@en;
+---
+>     rdfs:label "parking usage scenario extension"@en;
+5528c5528
+<     rdfs:label "parkingUsageScenarioStatus"@en;
+---
+>     rdfs:label "parking usage scenario status"@en;
+5532c5532
+<     rdfs:label "parkingUsageScenarioStatusExtension"@en;
+---
+>     rdfs:label "parking usage scenario status extension"@en;
+5536c5536
+<     rdfs:label "parkingVMS"@en;
+---
+>     rdfs:label "parking VMS"@en;
+5540c5540
+<     rdfs:label "parkingVMSExtension"@en;
+---
+>     rdfs:label "parking VMS extension"@en;
+5544c5544
+<     rdfs:label "parkingVehicle"@en;
+---
+>     rdfs:label "parking vehicle"@en;
+5548c5548
+<     rdfs:label "parkingVehicleExtension"@en;
+---
+>     rdfs:label "parking vehicle extension"@en;
+5552c5552
+<     rdfs:label "parkingVehiclesPublication"@en;
+---
+>     rdfs:label "parking vehicles publication"@en;
+5556c5556
+<     rdfs:label "parkingZone"@en;
+---
+>     rdfs:label "parking zone"@en;
+5561c5561
+<     rdfs:label "passageDurationTime"@en;
+---
+>     rdfs:label "passage duration time"@en;
+5566c5566
+<     rdfs:label "payloadPublication"@en;
+---
+>     rdfs:label "payload publication"@en;
+5570c5570
+<     rdfs:label "payloadPublicationExtension"@en;
+---
+>     rdfs:label "payload publication extension"@en;
+5574c5574
+<     rdfs:label "paymentAdditionalDescription"@en;
+---
+>     rdfs:label "payment additional description"@en;
+5578c5578
+<     rdfs:label "paymentCard"@en;
+---
+>     rdfs:label "payment card"@en;
+5582c5582
+<     rdfs:label "paymentCardBrand"@en;
+---
+>     rdfs:label "payment card brand"@en;
+5586c5586
+<     rdfs:label "paymentCardBrands"@en;
+---
+>     rdfs:label "payment card brands"@en;
+5590c5590
+<     rdfs:label "paymentCards"@en;
+---
+>     rdfs:label "payment cards"@en;
+5594c5594
+<     rdfs:label "paymentMode"@en;
+---
+>     rdfs:label "payment mode"@en;
+5598c5598
+<     rdfs:label "pcuFlow"@en;
+---
+>     rdfs:label "pcu flow"@en;
+5603c5603
+<     rdfs:label "pcuFlowRate"@en;
+---
+>     rdfs:label "pcu flow rate"@en;
+5608c5608
+<     rdfs:label "pcuFlowValueExtension"@en;
+---
+>     rdfs:label "pcu flow value extension"@en;
+5617c5617
+<     rdfs:label "percentageDistanceAlong"@en;
+---
+>     rdfs:label "percentage distance along"@en;
+5622c5622
+<     rdfs:label "percentageDistanceAlongLinearElementExtension"@en;
+---
+>     rdfs:label "percentage distance along linear element extension"@en;
+5626c5626
+<     rdfs:label "percentageLongVehicles"@en;
+---
+>     rdfs:label "percentage long vehicles"@en;
+5631c5631
+<     rdfs:label "percentageValueExtension"@en;
+---
+>     rdfs:label "percentage value extension"@en;
+5639c5639
+<     rdfs:label "periodDefault"@en;
+---
+>     rdfs:label "period default"@en;
+5644c5644
+<     rdfs:label "periodExtended"@en;
+---
+>     rdfs:label "period extended"@en;
+5648c5648
+<     rdfs:label "periodExtension"@en;
+---
+>     rdfs:label "period extension"@en;
+5652c5652
+<     rdfs:label "periodName"@en;
+---
+>     rdfs:label "period name"@en;
+5656c5656
+<     rdfs:label "permitsAndProhibitions"@en;
+---
+>     rdfs:label "permits and prohibitions"@en;
+5660c5660
+<     rdfs:label "permitsAndProhibitionsExtension"@en;
+---
+>     rdfs:label "permits and prohibitions extension"@en;
+5664c5664
+<     rdfs:label "pertinentLocation"@en;
+---
+>     rdfs:label "pertinent location"@en;
+5668c5668
+<     rdfs:label "photoUrl"@en;
+---
+>     rdfs:label "photo url"@en;
+5672c5672
+<     rdfs:label "pictogramCode"@en;
+---
+>     rdfs:label "pictogram code"@en;
+5676c5676
+<     rdfs:label "pictogramCodeListIdentifier"@en;
+---
+>     rdfs:label "pictogram code list identifier"@en;
+5680c5680
+<     rdfs:label "pictogramDescription"@en;
+---
+>     rdfs:label "pictogram description"@en;
+5684c5684
+<     rdfs:label "pictogramDisplayAreaIndex"@en;
+---
+>     rdfs:label "pictogram display area index"@en;
+5688c5688
+<     rdfs:label "pictogramDisplayAreaSettings"@en;
+---
+>     rdfs:label "pictogram display area settings"@en;
+5692c5692
+<     rdfs:label "pictogramDisplayAreaSettingsExtension"@en;
+---
+>     rdfs:label "pictogram display area settings extension"@en;
+5696c5696
+<     rdfs:label "pictogramDisplayHeight"@en;
+---
+>     rdfs:label "pictogram display height"@en;
+5700c5700
+<     rdfs:label "pictogramDisplayWidth"@en;
+---
+>     rdfs:label "pictogram display width"@en;
+5704c5704
+<     rdfs:label "pictogramFlashing"@en;
+---
+>     rdfs:label "pictogram flashing"@en;
+5708c5708
+<     rdfs:label "pictogramInInverseColour"@en;
+---
+>     rdfs:label "pictogram in inverse colour"@en;
+5712c5712
+<     rdfs:label "pictogramLanternsOn"@en;
+---
+>     rdfs:label "pictogram lanterns on"@en;
+5716c5716
+<     rdfs:label "pictogramLanternsPresent"@en;
+---
+>     rdfs:label "pictogram lanterns present"@en;
+5720c5720
+<     rdfs:label "pictogramLuminanceLevel"@en;
+---
+>     rdfs:label "pictogram luminance level"@en;
+5724c5724
+<     rdfs:label "pictogramLuminanceLevelName"@en;
+---
+>     rdfs:label "pictogram luminance level name"@en;
+5728c5728
+<     rdfs:label "pictogramLuminanceOverride"@en;
+---
+>     rdfs:label "pictogram luminance override"@en;
+5732c5732
+<     rdfs:label "pictogramNumberOfColours"@en;
+---
+>     rdfs:label "pictogram number of colours"@en;
+5736c5736
+<     rdfs:label "pictogramPixelsAcross"@en;
+---
+>     rdfs:label "pictogram pixels across"@en;
+5740c5740
+<     rdfs:label "pictogramPixelsDown"@en;
+---
+>     rdfs:label "pictogram pixels down"@en;
+5744c5744
+<     rdfs:label "pictogramPositionAbsolute"@en;
+---
+>     rdfs:label "pictogram position absolute"@en;
+5748c5748
+<     rdfs:label "pictogramPositionRelativeToText"@en;
+---
+>     rdfs:label "pictogram position relative to text"@en;
+5752c5752
+<     rdfs:label "pictogramPositionX"@en;
+---
+>     rdfs:label "pictogram position x"@en;
+5756c5756
+<     rdfs:label "pictogramPositionY"@en;
+---
+>     rdfs:label "pictogram position y"@en;
+5760c5760
+<     rdfs:label "pictogramSequencingCapable"@en;
+---
+>     rdfs:label "pictogram sequencing capable"@en;
+5764c5764
+<     rdfs:label "pictogramSequencingIndex"@en;
+---
+>     rdfs:label "pictogram sequencing index"@en;
+5768c5768
+<     rdfs:label "pictogramUrl"@en;
+---
+>     rdfs:label "pictogram url"@en;
+5772c5772
+<     rdfs:label "placesAtWhichApplicable"@en;
+---
+>     rdfs:label "places at which applicable"@en;
+5782c5782
+<     rdfs:label "pointAlongLinearElement"@en;
+---
+>     rdfs:label "point along linear element"@en;
+5786c5786
+<     rdfs:label "pointAlongLinearElementExtension"@en;
+---
+>     rdfs:label "point along linear element extension"@en;
+5790c5790
+<     rdfs:label "pointByCoordinates"@en;
+---
+>     rdfs:label "point by coordinates"@en;
+5794c5794
+<     rdfs:label "pointByCoordinatesExtension"@en;
+---
+>     rdfs:label "point by coordinates extension"@en;
+5798c5798
+<     rdfs:label "pointCoordinates"@en;
+---
+>     rdfs:label "point coordinates"@en;
+5802c5802
+<     rdfs:label "pointCoordinatesExtension"@en;
+---
+>     rdfs:label "point coordinates extension"@en;
+5806c5806
+<     rdfs:label "pointDestinationExtension"@en;
+---
+>     rdfs:label "point destination extension"@en;
+5810c5810
+<     rdfs:label "pointExtended"@en;
+---
+>     rdfs:label "point extended"@en;
+5814c5814
+<     rdfs:label "pointExtension"@en;
+---
+>     rdfs:label "point extension"@en;
+5818c5818
+<     rdfs:label "policeForceControlArea"@en;
+---
+>     rdfs:label "police force control area"@en;
+5822c5822
+<     rdfs:label "pollutantConcentration"@en;
+---
+>     rdfs:label "pollutant concentration"@en;
+5826c5826
+<     rdfs:label "pollutantType"@en;
+---
+>     rdfs:label "pollutant type"@en;
+5834c5834
+<     rdfs:label "pollutionExtension"@en;
+---
+>     rdfs:label "pollution extension"@en;
+5838c5838
+<     rdfs:label "pollutionInformationExtension"@en;
+---
+>     rdfs:label "pollution information extension"@en;
+5842c5842
+<     rdfs:label "polygonArea"@en;
+---
+>     rdfs:label "polygon area"@en;
+5846c5846
+<     rdfs:label "polygonAreaExtension"@en;
+---
+>     rdfs:label "polygon area extension"@en;
+5850c5850
+<     rdfs:label "poorEnvironmentConditionsExtension"@en;
+---
+>     rdfs:label "poor environment conditions extension"@en;
+5854c5854
+<     rdfs:label "poorEnvironmentType"@en;
+---
+>     rdfs:label "poor environment type"@en;
+5859c5859
+<     rdfs:label "precipitationDetail"@en;
+---
+>     rdfs:label "precipitation detail"@en;
+5863c5863
+<     rdfs:label "precipitationDetailExtension"@en;
+---
+>     rdfs:label "precipitation detail extension"@en;
+5867c5867
+<     rdfs:label "precipitationInformationExtension"@en;
+---
+>     rdfs:label "precipitation information extension"@en;
+5871c5871
+<     rdfs:label "precipitationIntensity"@en;
+---
+>     rdfs:label "precipitation intensity"@en;
+5875c5875
+<     rdfs:label "precipitationIntensityValueExtension"@en;
+---
+>     rdfs:label "precipitation intensity value extension"@en;
+5879c5879
+<     rdfs:label "precipitationType"@en;
+---
+>     rdfs:label "precipitation type"@en;
+5883c5883
+<     rdfs:label "predefinedItineraryExtension"@en;
+---
+>     rdfs:label "predefined itinerary extension"@en;
+5887c5887
+<     rdfs:label "predefinedItineraryName"@en;
+---
+>     rdfs:label "predefined itinerary name"@en;
+5892c5892
+<     rdfs:label "predefinedItineraryReference"@en;
+---
+>     rdfs:label "predefined itinerary reference"@en;
+5897c5897
+<     rdfs:label "predefinedLocation"@en;
+---
+>     rdfs:label "predefined location"@en;
+5901c5901
+<     rdfs:label "predefinedLocationContainer"@en;
+---
+>     rdfs:label "predefined location container"@en;
+5905c5905
+<     rdfs:label "predefinedLocationContainerExtension"@en;
+---
+>     rdfs:label "predefined location container extension"@en;
+5909c5909
+<     rdfs:label "predefinedLocationExtension"@en;
+---
+>     rdfs:label "predefined location extension"@en;
+5913c5913
+<     rdfs:label "predefinedLocationName"@en;
+---
+>     rdfs:label "predefined location name"@en;
+5918c5918
+<     rdfs:label "predefinedLocationReference"@en;
+---
+>     rdfs:label "predefined location reference"@en;
+5923c5923
+<     rdfs:label "predefinedLocationsPublicationExtension"@en;
+---
+>     rdfs:label "predefined locations publication extension"@en;
+5927c5927
+<     rdfs:label "predefinedNonOrderedLocationGroupExtension"@en;
+---
+>     rdfs:label "predefined non ordered location group extension"@en;
+5931c5931
+<     rdfs:label "predefinedNonOrderedLocationGroupName"@en;
+---
+>     rdfs:label "predefined non ordered location group name"@en;
+5936c5936
+<     rdfs:label "predefinedNonOrderedLocationGroupReference"@en;
+---
+>     rdfs:label "predefined non ordered location group reference"@en;
+5941c5941
+<     rdfs:label "presenceDurationTime"@en;
+---
+>     rdfs:label "presence duration time"@en;
+5946c5946
+<     rdfs:label "presenceOfRedTriangle"@en;
+---
+>     rdfs:label "presence of red triangle"@en;
+5950c5950
+<     rdfs:label "primaryRoad"@en;
+---
+>     rdfs:label "primary road"@en;
+5954c5954
+<     rdfs:label "primarySetting"@en;
+---
+>     rdfs:label "primary setting"@en;
+5958c5958
+<     rdfs:label "probabilityOfOccurrence"@en;
+---
+>     rdfs:label "probability of occurrence"@en;
+5962c5962
+<     rdfs:label "prohibitedParking"@en;
+---
+>     rdfs:label "prohibited parking"@en;
+5966c5966
+<     rdfs:label "protectionTemperature"@en;
+---
+>     rdfs:label "protection temperature"@en;
+5974c5974
+<     rdfs:label "publicEventExtension"@en;
+---
+>     rdfs:label "public event extension"@en;
+5978c5978
+<     rdfs:label "publicEventType"@en;
+---
+>     rdfs:label "public event type"@en;
+5983c5983
+<     rdfs:label "publicHoliday"@en;
+---
+>     rdfs:label "public holiday"@en;
+5987c5987
+<     rdfs:label "publicHolidayExtension"@en;
+---
+>     rdfs:label "public holiday extension"@en;
+5991c5991
+<     rdfs:label "publicHolidayName"@en;
+---
+>     rdfs:label "public holiday name"@en;
+5995c5995
+<     rdfs:label "publicHolidayType"@en;
+---
+>     rdfs:label "public holiday type"@en;
+5999c5999
+<     rdfs:label "publicationCreator"@en;
+---
+>     rdfs:label "publication creator"@en;
+6003c6003
+<     rdfs:label "publicationTime"@en;
+---
+>     rdfs:label "publication time"@en;
+6007c6007
+<     rdfs:label "publishingAgreement"@en;
+---
+>     rdfs:label "publishing agreement"@en;
+6012c6012
+<     rdfs:label "queueLength"@en;
+---
+>     rdfs:label "queue length"@en;
+6017c6017
+<     rdfs:label "queuingTime"@en;
+---
+>     rdfs:label "queuing time"@en;
+6027c6027
+<     rdfs:label "realSubsetOfGroup"@en;
+---
+>     rdfs:label "real subset of group"@en;
+6032c6032
+<     rdfs:label "reasonForDataError"@en;
+---
+>     rdfs:label "reason for data error"@en;
+6036c6036
+<     rdfs:label "reasonForSetting"@en;
+---
+>     rdfs:label "reason for setting"@en;
+6040c6040
+<     rdfs:label "recordSequenceNumber"@en;
+---
+>     rdfs:label "record sequence number"@en;
+6044c6044
+<     rdfs:label "recurringDayWeekMonthPeriod"@en;
+---
+>     rdfs:label "recurring day week month period"@en;
+6048c6048
+<     rdfs:label "recurringSpecialDay"@en;
+---
+>     rdfs:label "recurring special day"@en;
+6052c6052
+<     rdfs:label "recurringTimePeriodOfDay"@en;
+---
+>     rdfs:label "recurring time period of day"@en;
+6056c6056
+<     rdfs:label "referenceSettings"@en;
+---
+>     rdfs:label "reference settings"@en;
+6060c6060
+<     rdfs:label "referenceSettingsExtension"@en;
+---
+>     rdfs:label "reference settings extension"@en;
+6068c6068
+<     rdfs:label "referentDescription"@en;
+---
+>     rdfs:label "referent description"@en;
+6072c6072
+<     rdfs:label "referentExtension"@en;
+---
+>     rdfs:label "referent extension"@en;
+6076c6076
+<     rdfs:label "referentIdentifier"@en;
+---
+>     rdfs:label "referent identifier"@en;
+6080c6080
+<     rdfs:label "referentName"@en;
+---
+>     rdfs:label "referent name"@en;
+6084c6084
+<     rdfs:label "referentType"@en;
+---
+>     rdfs:label "referent type"@en;
+6096c6096
+<     rdfs:label "relatedSituation"@en;
+---
+>     rdfs:label "related situation"@en;
+6100c6100
+<     rdfs:label "relativeHumidity"@en;
+---
+>     rdfs:label "relative humidity"@en;
+6104c6104
+<     rdfs:label "relativePositionToPictogramArea"@en;
+---
+>     rdfs:label "relative position to pictogram area"@en;
+6108c6108
+<     rdfs:label "relativeTrafficFlow"@en;
+---
+>     rdfs:label "relative traffic flow"@en;
+6117c6117
+<     rdfs:label "requestType"@en;
+---
+>     rdfs:label "request type"@en;
+6121c6121
+<     rdfs:label "requestedBy"@en;
+---
+>     rdfs:label "requested by"@en;
+6125c6125
+<     rdfs:label "reroutingItineraryDescription"@en;
+---
+>     rdfs:label "rerouting itinerary description"@en;
+6130c6130
+<     rdfs:label "reroutingManagementExtension"@en;
+---
+>     rdfs:label "rerouting management extension"@en;
+6134c6134
+<     rdfs:label "reroutingManagementType"@en;
+---
+>     rdfs:label "rerouting management type"@en;
+6139c6139
+<     rdfs:label "reservationFee"@en;
+---
+>     rdfs:label "reservation fee"@en;
+6143c6143
+<     rdfs:label "reservationService"@en;
+---
+>     rdfs:label "reservation service"@en;
+6148c6148
+<     rdfs:label "residualRoadWidth"@en;
+---
+>     rdfs:label "residual road width"@en;
+6152c6152
+<     rdfs:label "responisbleAuthority"@en;
+---
+>     rdfs:label "responisble authority"@en;
+6160c6160
+<     rdfs:label "reversedFlow"@en;
+---
+>     rdfs:label "reversed flow"@en;
+6164c6164
+<     rdfs:label "rgbBlueValue"@en;
+---
+>     rdfs:label "rgb blue value"@en;
+6168c6168
+<     rdfs:label "rgbColour"@en;
+---
+>     rdfs:label "rgb colour"@en;
+6172c6172
+<     rdfs:label "rgbColourExtension"@en;
+---
+>     rdfs:label "rgb colour extension"@en;
+6176c6176
+<     rdfs:label "rgbGreenValue"@en;
+---
+>     rdfs:label "rgb green value"@en;
+6180c6180
+<     rdfs:label "rgbRedValue"@en;
+---
+>     rdfs:label "rgb red value"@en;
+6184c6184
+<     rdfs:label "roadConditionsExtension"@en;
+---
+>     rdfs:label "road conditions extension"@en;
+6188c6188
+<     rdfs:label "roadDestination"@en;
+---
+>     rdfs:label "road destination"@en;
+6192c6192
+<     rdfs:label "roadExtension"@en;
+---
+>     rdfs:label "road extension"@en;
+6196c6196
+<     rdfs:label "roadIdentifier"@en;
+---
+>     rdfs:label "road identifier"@en;
+6200c6200
+<     rdfs:label "roadMaintenanceType"@en;
+---
+>     rdfs:label "road maintenance type"@en;
+6205c6205
+<     rdfs:label "roadName"@en;
+---
+>     rdfs:label "road name"@en;
+6209c6209
+<     rdfs:label "roadNodeExtension"@en;
+---
+>     rdfs:label "road node extension"@en;
+6213c6213
+<     rdfs:label "roadNumber"@en;
+---
+>     rdfs:label "road number"@en;
+6217c6217
+<     rdfs:label "roadOperatorControlArea"@en;
+---
+>     rdfs:label "road operator control area"@en;
+6221c6221
+<     rdfs:label "roadOperatorServiceDisruptionExtension"@en;
+---
+>     rdfs:label "road operator service disruption extension"@en;
+6225c6225
+<     rdfs:label "roadOperatorServiceDisruptionType"@en;
+---
+>     rdfs:label "road operator service disruption type"@en;
+6230c6230
+<     rdfs:label "roadOrCarriagewayOrLaneManagementExtension"@en;
+---
+>     rdfs:label "road or carriageway or lane management extension"@en;
+6234c6234
+<     rdfs:label "roadOrCarriagewayOrLaneManagementType"@en;
+---
+>     rdfs:label "road or carriageway or lane management type"@en;
+6239c6239
+<     rdfs:label "roadOrJunctionNumber"@en;
+---
+>     rdfs:label "road or junction number"@en;
+6244c6244
+<     rdfs:label "roadOrigination"@en;
+---
+>     rdfs:label "road origination"@en;
+6248c6248
+<     rdfs:label "roadSurfaceConditionInformationExtension"@en;
+---
+>     rdfs:label "road surface condition information extension"@en;
+6252c6252
+<     rdfs:label "roadSurfaceConditionMeasurements"@en;
+---
+>     rdfs:label "road surface condition measurements"@en;
+6256c6256
+<     rdfs:label "roadSurfaceConditionMeasurementsExtension"@en;
+---
+>     rdfs:label "road surface condition measurements extension"@en;
+6260c6260
+<     rdfs:label "roadSurfaceTemperature"@en;
+---
+>     rdfs:label "road surface temperature"@en;
+6264c6264
+<     rdfs:label "roadsideAssistanceExtension"@en;
+---
+>     rdfs:label "roadside assistance extension"@en;
+6268c6268
+<     rdfs:label "roadsideAssistanceType"@en;
+---
+>     rdfs:label "roadside assistance type"@en;
+6273c6273
+<     rdfs:label "roadsideServiceDisruptionExtension"@en;
+---
+>     rdfs:label "roadside service disruption extension"@en;
+6277c6277
+<     rdfs:label "roadsideServiceDisruptionType"@en;
+---
+>     rdfs:label "roadside service disruption type"@en;
+6282c6282
+<     rdfs:label "roadworksDuration"@en;
+---
+>     rdfs:label "roadworks duration"@en;
+6287c6287
+<     rdfs:label "roadworksExtension"@en;
+---
+>     rdfs:label "roadworks extension"@en;
+6291c6291
+<     rdfs:label "roadworksScale"@en;
+---
+>     rdfs:label "roadworks scale"@en;
+6296c6296
+<     rdfs:label "routeDestination"@en;
+---
+>     rdfs:label "route destination"@en;
+6301c6301
+<     rdfs:label "safetyRelatedMessage"@en;
+---
+>     rdfs:label "safety related message"@en;
+6305c6305
+<     rdfs:label "scenarioAvailability"@en;
+---
+>     rdfs:label "scenario availability"@en;
+6309c6309
+<     rdfs:label "scenarioIndex"@en;
+---
+>     rdfs:label "scenario index"@en;
+6313c6313
+<     rdfs:label "scheduledDepartureTime"@en;
+---
+>     rdfs:label "scheduled departure time"@en;
+6318c6318
+<     rdfs:label "sectionName"@en;
+---
+>     rdfs:label "section name"@en;
+6322c6322
+<     rdfs:label "securityService"@en;
+---
+>     rdfs:label "security service"@en;
+6326c6326
+<     rdfs:label "sequentialRampNumber"@en;
+---
+>     rdfs:label "sequential ramp number"@en;
+6330c6330
+<     rdfs:label "serviceFacilityExtension"@en;
+---
+>     rdfs:label "service facility extension"@en;
+6334c6334
+<     rdfs:label "serviceFacilityOpeningStatus"@en;
+---
+>     rdfs:label "service facility opening status"@en;
+6338c6338
+<     rdfs:label "serviceFacilityType"@en;
+---
+>     rdfs:label "service facility type"@en;
+6343c6343
+<     rdfs:label "servicePartner"@en;
+---
+>     rdfs:label "service partner"@en;
+6347c6347
+<     rdfs:label "setBySystem"@en;
+---
+>     rdfs:label "set by system"@en;
+6355c6355
+<     rdfs:label "signSettingExtension"@en;
+---
+>     rdfs:label "sign setting extension"@en;
+6359c6359
+<     rdfs:label "signedRerouting"@en;
+---
+>     rdfs:label "signed rerouting"@en;
+6364c6364
+<     rdfs:label "siteMeasurements"@en;
+---
+>     rdfs:label "site measurements"@en;
+6368c6368
+<     rdfs:label "siteMeasurementsExtension"@en;
+---
+>     rdfs:label "site measurements extension"@en;
+6376c6376
+<     rdfs:label "situationExtension"@en;
+---
+>     rdfs:label "situation extension"@en;
+6380c6380
+<     rdfs:label "situationPublicationExtension"@en;
+---
+>     rdfs:label "situation publication extension"@en;
+6384c6384
+<     rdfs:label "situationRecord"@en;
+---
+>     rdfs:label "situation record"@en;
+6388c6388
+<     rdfs:label "situationRecordCreationReference"@en;
+---
+>     rdfs:label "situation record creation reference"@en;
+6392c6392
+<     rdfs:label "situationRecordCreationTime"@en;
+---
+>     rdfs:label "situation record creation time"@en;
+6396c6396
+<     rdfs:label "situationRecordExtendedApproved"@en;
+---
+>     rdfs:label "situation record extended approved"@en;
+6400c6400
+<     rdfs:label "situationRecordExtension"@en;
+---
+>     rdfs:label "situation record extension"@en;
+6404c6404
+<     rdfs:label "situationRecordFirstSupplierVersionTime"@en;
+---
+>     rdfs:label "situation record first supplier version time"@en;
+6408c6408
+<     rdfs:label "situationRecordObservationTime"@en;
+---
+>     rdfs:label "situation record observation time"@en;
+6412c6412
+<     rdfs:label "situationRecordToWhichMessageIsRelated"@en;
+---
+>     rdfs:label "situation record to which message is related"@en;
+6416c6416
+<     rdfs:label "situationRecordVersionTime"@en;
+---
+>     rdfs:label "situation record version time"@en;
+6420c6420
+<     rdfs:label "situationToWhichMessageIsRelated"@en;
+---
+>     rdfs:label "situation to which message is related"@en;
+6424c6424
+<     rdfs:label "situationVersionTime"@en;
+---
+>     rdfs:label "situation version time"@en;
+6428c6428
+<     rdfs:label "smoothingFactor"@en;
+---
+>     rdfs:label "smoothing factor"@en;
+6436c6436
+<     rdfs:label "sourceCountry"@en;
+---
+>     rdfs:label "source country"@en;
+6440c6440
+<     rdfs:label "sourceExtension"@en;
+---
+>     rdfs:label "source extension"@en;
+6444c6444
+<     rdfs:label "sourceIdentification"@en;
+---
+>     rdfs:label "source identification"@en;
+6448c6448
+<     rdfs:label "sourceName"@en;
+---
+>     rdfs:label "source name"@en;
+6452c6452
+<     rdfs:label "sourceType"@en;
+---
+>     rdfs:label "source type"@en;
+6456c6456
+<     rdfs:label "specialDayExtension"@en;
+---
+>     rdfs:label "special day extension"@en;
+6460c6460
+<     rdfs:label "specialDayName"@en;
+---
+>     rdfs:label "special day name"@en;
+6464c6464
+<     rdfs:label "specialDayType"@en;
+---
+>     rdfs:label "special day type"@en;
+6468c6468
+<     rdfs:label "specialLocationParkingSiteExtension"@en;
+---
+>     rdfs:label "special location parking site extension"@en;
+6472c6472
+<     rdfs:label "specificAxleWeight"@en;
+---
+>     rdfs:label "specific axle weight"@en;
+6476c6476
+<     rdfs:label "specificLane"@en;
+---
+>     rdfs:label "specific lane"@en;
+6480c6480
+<     rdfs:label "specificLocation"@en;
+---
+>     rdfs:label "specific location"@en;
+6484c6484
+<     rdfs:label "specificMeasurementValueType"@en;
+---
+>     rdfs:label "specific measurement value type"@en;
+6488c6488
+<     rdfs:label "specificVehicleCharacteristics"@en;
+---
+>     rdfs:label "specific vehicle characteristics"@en;
+6497c6497
+<     rdfs:label "speedAttribute"@en;
+---
+>     rdfs:label "speed attribute"@en;
+6501c6501
+<     rdfs:label "speedManagementExtension"@en;
+---
+>     rdfs:label "speed management extension"@en;
+6505c6505
+<     rdfs:label "speedManagementType"@en;
+---
+>     rdfs:label "speed management type"@en;
+6510c6510
+<     rdfs:label "speedPercentile"@en;
+---
+>     rdfs:label "speed percentile"@en;
+6514c6514
+<     rdfs:label "speedPercentileExtension"@en;
+---
+>     rdfs:label "speed percentile extension"@en;
+6518c6518
+<     rdfs:label "speedValueExtension"@en;
+---
+>     rdfs:label "speed value extension"@en;
+6522c6522
+<     rdfs:label "standardDeviation"@en;
+---
+>     rdfs:label "standard deviation"@en;
+6526c6526
+<     rdfs:label "startOfPeriod"@en;
+---
+>     rdfs:label "start of period"@en;
+6530c6530
+<     rdfs:label "startPointOfLinearElement"@en;
+---
+>     rdfs:label "start point of linear element"@en;
+6535c6535
+<     rdfs:label "startTimeOfPeriod"@en;
+---
+>     rdfs:label "start time of period"@en;
+6540c6540
+<     rdfs:label "subjectTypeOfWorks"@en;
+---
+>     rdfs:label "subject type of works"@en;
+6548c6548
+<     rdfs:label "subjectsExtension"@en;
+---
+>     rdfs:label "subjects extension"@en;
+6556c6556
+<     rdfs:label "subscriptionExtension"@en;
+---
+>     rdfs:label "subscription extension"@en;
+6560c6560
+<     rdfs:label "subscriptionReference"@en;
+---
+>     rdfs:label "subscription reference"@en;
+6564c6564
+<     rdfs:label "subscriptionStartTime"@en;
+---
+>     rdfs:label "subscription start time"@en;
+6568c6568
+<     rdfs:label "subscriptionState"@en;
+---
+>     rdfs:label "subscription state"@en;
+6572c6572
+<     rdfs:label "subscriptionStopTime"@en;
+---
+>     rdfs:label "subscription stop time"@en;
+6576c6576
+<     rdfs:label "supplementaryMessageDescription"@en;
+---
+>     rdfs:label "supplementary message description"@en;
+6580c6580
+<     rdfs:label "supplementaryPanelDisplayHeight"@en;
+---
+>     rdfs:label "supplementary panel display height"@en;
+6584c6584
+<     rdfs:label "supplementaryPanelDisplayWidth"@en;
+---
+>     rdfs:label "supplementary panel display width"@en;
+6588c6588
+<     rdfs:label "supplementaryPanelPixelsAcross"@en;
+---
+>     rdfs:label "supplementary panel pixels across"@en;
+6592c6592
+<     rdfs:label "supplementaryPanelPixelsDown"@en;
+---
+>     rdfs:label "supplementary panel pixels down"@en;
+6596c6596
+<     rdfs:label "supplementaryPanelPositionX"@en;
+---
+>     rdfs:label "supplementary panel position x"@en;
+6600c6600
+<     rdfs:label "supplementaryPanelPositionY"@en;
+---
+>     rdfs:label "supplementary panel position y"@en;
+6604c6604
+<     rdfs:label "supplementaryPictogramCode"@en;
+---
+>     rdfs:label "supplementary pictogram code"@en;
+6608c6608
+<     rdfs:label "supplementaryPictogramCodeListIdentifier"@en;
+---
+>     rdfs:label "supplementary pictogram code list identifier"@en;
+6612c6612
+<     rdfs:label "supplementaryPictogramDescription"@en;
+---
+>     rdfs:label "supplementary pictogram description"@en;
+6616c6616
+<     rdfs:label "supplementaryPictogramUrl"@en;
+---
+>     rdfs:label "supplementary pictogram url"@en;
+6620c6620
+<     rdfs:label "supplementaryPositionalDescription"@en;
+---
+>     rdfs:label "supplementary positional description"@en;
+6624c6624
+<     rdfs:label "supplementaryPositionalDescriptionExtension"@en;
+---
+>     rdfs:label "supplementary positional description extension"@en;
+6628c6628
+<     rdfs:label "supplierCalculatedDataQuality"@en;
+---
+>     rdfs:label "supplier calculated data quality"@en;
+6632c6632
+<     rdfs:label "supplierIdentification"@en;
+---
+>     rdfs:label "supplier identification"@en;
+6636c6636
+<     rdfs:label "synchronizedSequencingWithTextPages"@en;
+---
+>     rdfs:label "synchronized sequencing with text pages"@en;
+6644c6644
+<     rdfs:label "targetClass"@en;
+---
+>     rdfs:label "target class"@en;
+6648c6648
+<     rdfs:label "targetExtension"@en;
+---
+>     rdfs:label "target extension"@en;
+6652c6652
+<     rdfs:label "tariffsAndPayment"@en;
+---
+>     rdfs:label "tariffs and payment"@en;
+6656c6656
+<     rdfs:label "tariffsAndPaymentExtension"@en;
+---
+>     rdfs:label "tariffs and payment extension"@en;
+6665c6665
+<     rdfs:label "temperatureExtension"@en;
+---
+>     rdfs:label "temperature extension"@en;
+6669c6669
+<     rdfs:label "temperatureInformationExtension"@en;
+---
+>     rdfs:label "temperature information extension"@en;
+6673c6673
+<     rdfs:label "temperatureValueExtension"@en;
+---
+>     rdfs:label "temperature value extension"@en;
+6677c6677
+<     rdfs:label "temporaryParking"@en;
+---
+>     rdfs:label "temporary parking"@en;
+6682c6682
+<     rdfs:label "temporarySpeedLimit"@en;
+---
+>     rdfs:label "temporary speed limit"@en;
+6687c6687
+<     rdfs:label "textDisplayAreaSettings"@en;
+---
+>     rdfs:label "text display area settings"@en;
+6691c6691
+<     rdfs:label "textDisplayAreaSettingsExtension"@en;
+---
+>     rdfs:label "text display area settings extension"@en;
+6695c6695
+<     rdfs:label "textDisplayHeight"@en;
+---
+>     rdfs:label "text display height"@en;
+6699c6699
+<     rdfs:label "textDisplayWidth"@en;
+---
+>     rdfs:label "text display width"@en;
+6703c6703
+<     rdfs:label "textLanternsOn"@en;
+---
+>     rdfs:label "text lanterns on"@en;
+6707c6707
+<     rdfs:label "textLanternsPresent"@en;
+---
+>     rdfs:label "text lanterns present"@en;
+6711c6711
+<     rdfs:label "textLuminanceLevel"@en;
+---
+>     rdfs:label "text luminance level"@en;
+6715c6715
+<     rdfs:label "textLuminanceLevelName"@en;
+---
+>     rdfs:label "text luminance level name"@en;
+6719c6719
+<     rdfs:label "textLuminanceOverride"@en;
+---
+>     rdfs:label "text luminance override"@en;
+6723c6723
+<     rdfs:label "textPage"@en;
+---
+>     rdfs:label "text page"@en;
+6727c6727
+<     rdfs:label "textPageSequencingCapable"@en;
+---
+>     rdfs:label "text page sequencing capable"@en;
+6731c6731
+<     rdfs:label "textPictogramSequencingInterval"@en;
+---
+>     rdfs:label "text pictogram sequencing interval"@en;
+6735c6735
+<     rdfs:label "textPixelsAcross"@en;
+---
+>     rdfs:label "text pixels across"@en;
+6739c6739
+<     rdfs:label "textPixelsDown"@en;
+---
+>     rdfs:label "text pixels down"@en;
+6743c6743
+<     rdfs:label "textPositionAbsolute"@en;
+---
+>     rdfs:label "text position absolute"@en;
+6747c6747
+<     rdfs:label "textPositionX"@en;
+---
+>     rdfs:label "text position x"@en;
+6751c6751
+<     rdfs:label "textPositionY"@en;
+---
+>     rdfs:label "text position y"@en;
+6755c6755
+<     rdfs:label "timeDefault"@en;
+---
+>     rdfs:label "time default"@en;
+6760c6760
+<     rdfs:label "timeGap"@en;
+---
+>     rdfs:label "time gap"@en;
+6765c6765
+<     rdfs:label "timeHeadway"@en;
+---
+>     rdfs:label "time headway"@en;
+6770c6770
+<     rdfs:label "timeLastSet"@en;
+---
+>     rdfs:label "time last set"@en;
+6774c6774
+<     rdfs:label "timePeriodByHour"@en;
+---
+>     rdfs:label "time period by hour"@en;
+6778c6778
+<     rdfs:label "timePeriodByHourExtension"@en;
+---
+>     rdfs:label "time period by hour extension"@en;
+6782c6782
+<     rdfs:label "timePeriodOfDay"@en;
+---
+>     rdfs:label "time period of day"@en;
+6786c6786
+<     rdfs:label "timePeriodOfDayExtension"@en;
+---
+>     rdfs:label "time period of day extension"@en;
+6795c6795
+<     rdfs:label "toPoint"@en;
+---
+>     rdfs:label "to point"@en;
+6799c6799
+<     rdfs:label "totalCapacity"@en;
+---
+>     rdfs:label "total capacity"@en;
+6804c6804
+<     rdfs:label "totalNumberOfPeopleInvolved"@en;
+---
+>     rdfs:label "total number of people involved"@en;
+6809c6809
+<     rdfs:label "totalNumberOfVehiclesInvolved"@en;
+---
+>     rdfs:label "total number of vehicles involved"@en;
+6814c6814
+<     rdfs:label "towardsReferent"@en;
+---
+>     rdfs:label "towards referent"@en;
+6819c6819
+<     rdfs:label "tpegAreaDescriptorExtension"@en;
+---
+>     rdfs:label "tpeg area descriptor extension"@en;
+6823c6823
+<     rdfs:label "tpegAreaDescriptorType"@en;
+---
+>     rdfs:label "tpeg area descriptor type"@en;
+6828c6828
+<     rdfs:label "tpegAreaLocation"@en;
+---
+>     rdfs:label "tpeg area location"@en;
+6832c6832
+<     rdfs:label "tpegAreaLocationExtension"@en;
+---
+>     rdfs:label "tpeg area location extension"@en;
+6836c6836
+<     rdfs:label "tpegAreaLocationType"@en;
+---
+>     rdfs:label "tpeg area location type"@en;
+6840c6840
+<     rdfs:label "tpegDescriptorExtension"@en;
+---
+>     rdfs:label "tpeg descriptor extension"@en;
+6844c6844
+<     rdfs:label "tpegDirection"@en;
+---
+>     rdfs:label "tpeg direction"@en;
+6848c6848
+<     rdfs:label "tpegFramedPointExtension"@en;
+---
+>     rdfs:label "tpeg framed point extension"@en;
+6852c6852
+<     rdfs:label "tpegFramedPointLocationType"@en;
+---
+>     rdfs:label "tpeg framed point location type"@en;
+6857c6857
+<     rdfs:label "tpegGeometricAreaExtension"@en;
+---
+>     rdfs:label "tpeg geometric area extension"@en;
+6861c6861
+<     rdfs:label "tpegHeight"@en;
+---
+>     rdfs:label "tpeg height"@en;
+6865c6865
+<     rdfs:label "tpegHeightExtension"@en;
+---
+>     rdfs:label "tpeg height extension"@en;
+6869c6869
+<     rdfs:label "tpegIlcPointDescriptorExtension"@en;
+---
+>     rdfs:label "tpeg ilc point descriptor extension"@en;
+6873c6873
+<     rdfs:label "tpegIlcPointDescriptorType"@en;
+---
+>     rdfs:label "tpeg ilc point descriptor type"@en;
+6878c6878
+<     rdfs:label "tpegJunctionExtension"@en;
+---
+>     rdfs:label "tpeg junction extension"@en;
+6882c6882
+<     rdfs:label "tpegJunctionPointDescriptorExtension"@en;
+---
+>     rdfs:label "tpeg junction point descriptor extension"@en;
+6886c6886
+<     rdfs:label "tpegJunctionPointDescriptorType"@en;
+---
+>     rdfs:label "tpeg junction point descriptor type"@en;
+6891c6891
+<     rdfs:label "tpegLinearLocation"@en;
+---
+>     rdfs:label "tpeg linear location"@en;
+6895c6895
+<     rdfs:label "tpegLinearLocationExtension"@en;
+---
+>     rdfs:label "tpeg linear location extension"@en;
+6899c6899
+<     rdfs:label "tpegLinearLocationType"@en;
+---
+>     rdfs:label "tpeg linear location type"@en;
+6903c6903
+<     rdfs:label "tpegNamedOnlyAreaExtension"@en;
+---
+>     rdfs:label "tpeg named only area extension"@en;
+6907c6907
+<     rdfs:label "tpegNonJunctionPointExtension"@en;
+---
+>     rdfs:label "tpeg non junction point extension"@en;
+6911c6911
+<     rdfs:label "tpegOtherPointDescriptorExtension"@en;
+---
+>     rdfs:label "tpeg other point descriptor extension"@en;
+6915c6915
+<     rdfs:label "tpegOtherPointDescriptorType"@en;
+---
+>     rdfs:label "tpeg other point descriptor type"@en;
+6920c6920
+<     rdfs:label "tpegPointDescriptorExtension"@en;
+---
+>     rdfs:label "tpeg point descriptor extension"@en;
+6924c6924
+<     rdfs:label "tpegPointExtension"@en;
+---
+>     rdfs:label "tpeg point extension"@en;
+6928c6928
+<     rdfs:label "tpegPointLocation"@en;
+---
+>     rdfs:label "tpeg point location"@en;
+6932c6932
+<     rdfs:label "tpegPointLocationExtension"@en;
+---
+>     rdfs:label "tpeg point location extension"@en;
+6936c6936
+<     rdfs:label "tpegSimplePointExtension"@en;
+---
+>     rdfs:label "tpeg simple point extension"@en;
+6940c6940
+<     rdfs:label "tpegSimplePointLocationType"@en;
+---
+>     rdfs:label "tpeg simple point location type"@en;
+6945c6945
+<     rdfs:label "trafficConcentrationExtension"@en;
+---
+>     rdfs:label "traffic concentration extension"@en;
+6949c6949
+<     rdfs:label "trafficConstrictionType"@en;
+---
+>     rdfs:label "traffic constriction type"@en;
+6953c6953
+<     rdfs:label "trafficDataExtension"@en;
+---
+>     rdfs:label "traffic data extension"@en;
+6957c6957
+<     rdfs:label "trafficElement"@en;
+---
+>     rdfs:label "traffic element"@en;
+6961c6961
+<     rdfs:label "trafficElementExtension"@en;
+---
+>     rdfs:label "traffic element extension"@en;
+6965c6965
+<     rdfs:label "trafficFlowCharacteristics"@en;
+---
+>     rdfs:label "traffic flow characteristics"@en;
+6970c6970
+<     rdfs:label "trafficFlowExtension"@en;
+---
+>     rdfs:label "traffic flow extension"@en;
+6974c6974
+<     rdfs:label "trafficHeadwayExtension"@en;
+---
+>     rdfs:label "traffic headway extension"@en;
+6978c6978
+<     rdfs:label "trafficManuallyDirectedBy"@en;
+---
+>     rdfs:label "traffic manually directed by"@en;
+6983c6983
+<     rdfs:label "trafficSpeedExtension"@en;
+---
+>     rdfs:label "traffic speed extension"@en;
+6987c6987
+<     rdfs:label "trafficStatus"@en;
+---
+>     rdfs:label "traffic status"@en;
+6992c6992
+<     rdfs:label "trafficStatusDefault"@en;
+---
+>     rdfs:label "traffic status default"@en;
+6996c6996
+<     rdfs:label "trafficStatusExtension"@en;
+---
+>     rdfs:label "traffic status extension"@en;
+7000c7000
+<     rdfs:label "trafficStatusValue"@en;
+---
+>     rdfs:label "traffic status value"@en;
+7005c7005
+<     rdfs:label "trafficStatusValueExtension"@en;
+---
+>     rdfs:label "traffic status value extension"@en;
+7009c7009
+<     rdfs:label "trafficTrendType"@en;
+---
+>     rdfs:label "traffic trend type"@en;
+7014c7014
+<     rdfs:label "trafficView"@en;
+---
+>     rdfs:label "traffic view"@en;
+7018c7018
+<     rdfs:label "trafficViewExtension"@en;
+---
+>     rdfs:label "traffic view extension"@en;
+7022c7022
+<     rdfs:label "trafficViewPublicationExtension"@en;
+---
+>     rdfs:label "traffic view publication extension"@en;
+7026c7026
+<     rdfs:label "trafficViewRecord"@en;
+---
+>     rdfs:label "traffic view record"@en;
+7030c7030
+<     rdfs:label "trafficViewRecordExtension"@en;
+---
+>     rdfs:label "traffic view record extension"@en;
+7034c7034
+<     rdfs:label "trafficViewTime"@en;
+---
+>     rdfs:label "traffic view time"@en;
+7038c7038
+<     rdfs:label "transitInformationExtension"@en;
+---
+>     rdfs:label "transit information extension"@en;
+7042c7042
+<     rdfs:label "transitServiceInformation"@en;
+---
+>     rdfs:label "transit service information"@en;
+7047c7047
+<     rdfs:label "transitServiceType"@en;
+---
+>     rdfs:label "transit service type"@en;
+7052c7052
+<     rdfs:label "travelTime"@en;
+---
+>     rdfs:label "travel time"@en;
+7057c7057
+<     rdfs:label "travelTimeDataExtension"@en;
+---
+>     rdfs:label "travel time data extension"@en;
+7061c7061
+<     rdfs:label "travelTimeTrendType"@en;
+---
+>     rdfs:label "travel time trend type"@en;
+7066c7066
+<     rdfs:label "travelTimeType"@en;
+---
+>     rdfs:label "travel time type"@en;
+7071c7071
+<     rdfs:label "tremCardNumber"@en;
+---
+>     rdfs:label "trem card number"@en;
+7075c7075
+<     rdfs:label "truckParkingDynamicManagement"@en;
+---
+>     rdfs:label "truck parking dynamic management"@en;
+7079c7079
+<     rdfs:label "typeOfRoad"@en;
+---
+>     rdfs:label "type of road"@en;
+7083c7083
+<     rdfs:label "underTraffic"@en;
+---
+>     rdfs:label "under traffic"@en;
+7088c7088
+<     rdfs:label "undgNumber"@en;
+---
+>     rdfs:label "undg number"@en;
+7092c7092
+<     rdfs:label "updateMethod"@en;
+---
+>     rdfs:label "update method"@en;
+7096c7096
+<     rdfs:label "urbanParkingSiteExtension"@en;
+---
+>     rdfs:label "urban parking site extension"@en;
+7100c7100
+<     rdfs:label "urbanParkingSiteType"@en;
+---
+>     rdfs:label "urban parking site type"@en;
+7109c7109
+<     rdfs:label "urgentRoadworks"@en;
+---
+>     rdfs:label "urgent roadworks"@en;
+7114c7114
+<     rdfs:label "urlLink"@en;
+---
+>     rdfs:label "url link"@en;
+7118c7118
+<     rdfs:label "urlLinkAddress"@en;
+---
+>     rdfs:label "url link address"@en;
+7123c7123
+<     rdfs:label "urlLinkDescription"@en;
+---
+>     rdfs:label "url link description"@en;
+7127c7127
+<     rdfs:label "urlLinkExtension"@en;
+---
+>     rdfs:label "url link extension"@en;
+7131c7131
+<     rdfs:label "urlLinkType"@en;
+---
+>     rdfs:label "url link type"@en;
+7135c7135
+<     rdfs:label "usageScenarioOperationStatus"@en;
+---
+>     rdfs:label "usage scenario operation status"@en;
+7139c7139
+<     rdfs:label "usedMeansOfPayment"@en;
+---
+>     rdfs:label "used means of payment"@en;
+7143c7143
+<     rdfs:label "usedPaymentCard"@en;
+---
+>     rdfs:label "used payment card"@en;
+7147c7147
+<     rdfs:label "usedPaymentCardExtension"@en;
+---
+>     rdfs:label "used payment card extension"@en;
+7151c7151
+<     rdfs:label "vacantEquipmentOrServiceFacilitySubitems"@en;
+---
+>     rdfs:label "vacant equipment or service facility subitems"@en;
+7155c7155
+<     rdfs:label "validPeriod"@en;
+---
+>     rdfs:label "valid period"@en;
+7163c7163
+<     rdfs:label "validityExtension"@en;
+---
+>     rdfs:label "validity extension"@en;
+7167c7167
+<     rdfs:label "validityOfContact"@en;
+---
+>     rdfs:label "validity of contact"@en;
+7171c7171
+<     rdfs:label "validityStatus"@en;
+---
+>     rdfs:label "validity status"@en;
+7175c7175
+<     rdfs:label "validityTimeSpecification"@en;
+---
+>     rdfs:label "validity time specification"@en;
+7187c7187
+<     rdfs:label "valuesType"@en;
+---
+>     rdfs:label "values type"@en;
+7196c7196
+<     rdfs:label "vehicleCharacteristics"@en;
+---
+>     rdfs:label "vehicle characteristics"@en;
+7200c7200
+<     rdfs:label "vehicleCharacteristicsExtended"@en;
+---
+>     rdfs:label "vehicle characteristics extended"@en;
+7204c7204
+<     rdfs:label "vehicleCharacteristicsExtension"@en;
+---
+>     rdfs:label "vehicle characteristics extension"@en;
+7208c7208
+<     rdfs:label "vehicleColour"@en;
+---
+>     rdfs:label "vehicle colour"@en;
+7212c7212
+<     rdfs:label "vehicleCount"@en;
+---
+>     rdfs:label "vehicle count"@en;
+7217c7217
+<     rdfs:label "vehicleCountAndRate"@en;
+---
+>     rdfs:label "vehicle count and rate"@en;
+7221c7221
+<     rdfs:label "vehicleCountAndRateExtension"@en;
+---
+>     rdfs:label "vehicle count and rate extension"@en;
+7225c7225
+<     rdfs:label "vehicleCountValueExtension"@en;
+---
+>     rdfs:label "vehicle count value extension"@en;
+7229c7229
+<     rdfs:label "vehicleCountWithinInterval"@en;
+---
+>     rdfs:label "vehicle count within interval"@en;
+7233c7233
+<     rdfs:label "vehicleCountWithinIntervalExtension"@en;
+---
+>     rdfs:label "vehicle count within interval extension"@en;
+7237c7237
+<     rdfs:label "vehicleCountryOfOrigin"@en;
+---
+>     rdfs:label "vehicle country of origin"@en;
+7241c7241
+<     rdfs:label "vehicleEquipment"@en;
+---
+>     rdfs:label "vehicle equipment"@en;
+7245c7245
+<     rdfs:label "vehicleExtension"@en;
+---
+>     rdfs:label "vehicle extension"@en;
+7249c7249
+<     rdfs:label "vehicleFlow"@en;
+---
+>     rdfs:label "vehicle flow"@en;
+7254c7254
+<     rdfs:label "vehicleFlowRate"@en;
+---
+>     rdfs:label "vehicle flow rate"@en;
+7259c7259
+<     rdfs:label "vehicleFlowValueExtension"@en;
+---
+>     rdfs:label "vehicle flow value extension"@en;
+7263c7263
+<     rdfs:label "vehicleHeight"@en;
+---
+>     rdfs:label "vehicle height"@en;
+7267c7267
+<     rdfs:label "vehicleIdentifier"@en;
+---
+>     rdfs:label "vehicle identifier"@en;
+7271c7271
+<     rdfs:label "vehicleInvolved"@en;
+---
+>     rdfs:label "vehicle involved"@en;
+7276c7276
+<     rdfs:label "vehicleLength"@en;
+---
+>     rdfs:label "vehicle length"@en;
+7280c7280
+<     rdfs:label "vehicleManufacturer"@en;
+---
+>     rdfs:label "vehicle manufacturer"@en;
+7284c7284
+<     rdfs:label "vehicleModel"@en;
+---
+>     rdfs:label "vehicle model"@en;
+7288c7288
+<     rdfs:label "vehicleObstructionExtension"@en;
+---
+>     rdfs:label "vehicle obstruction extension"@en;
+7292c7292
+<     rdfs:label "vehicleObstructionType"@en;
+---
+>     rdfs:label "vehicle obstruction type"@en;
+7297c7297
+<     rdfs:label "vehiclePercentage"@en;
+---
+>     rdfs:label "vehicle percentage"@en;
+7301c7301
+<     rdfs:label "vehicleRate"@en;
+---
+>     rdfs:label "vehicle rate"@en;
+7305c7305
+<     rdfs:label "vehicleRateExtension"@en;
+---
+>     rdfs:label "vehicle rate extension"@en;
+7309c7309
+<     rdfs:label "vehicleRegistrationPlateIdentifier"@en;
+---
+>     rdfs:label "vehicle registration plate identifier"@en;
+7313c7313
+<     rdfs:label "vehicleStatus"@en;
+---
+>     rdfs:label "vehicle status"@en;
+7317c7317
+<     rdfs:label "vehicleType"@en;
+---
+>     rdfs:label "vehicle type"@en;
+7322c7322
+<     rdfs:label "vehicleType2"@en;
+---
+>     rdfs:label "vehicle type to"@en;
+7326c7326
+<     rdfs:label "vehicleUsage"@en;
+---
+>     rdfs:label "vehicle usage"@en;
+7330c7330
+<     rdfs:label "vehicleUsage2"@en;
+---
+>     rdfs:label "vehicle usage to"@en;
+7334c7334
+<     rdfs:label "vehicleWidth"@en;
+---
+>     rdfs:label "vehicle width"@en;
+7342c7342
+<     rdfs:label "viennaConventionCompliant"@en;
+---
+>     rdfs:label "vienna convention compliant"@en;
+7350c7350
+<     rdfs:label "visibilityExtension"@en;
+---
+>     rdfs:label "visibility extension"@en;
+7354c7354
+<     rdfs:label "visibilityInformationExtension"@en;
+---
+>     rdfs:label "visibility information extension"@en;
+7358c7358
+<     rdfs:label "vms"@en;
+---
+>     rdfs:label "VMS"@en;
+7362c7362
+<     rdfs:label "vmsDescription"@en;
+---
+>     rdfs:label "VMS description"@en;
+7366c7366
+<     rdfs:label "vmsDisplayHeight"@en;
+---
+>     rdfs:label "VMS display height"@en;
+7370c7370
+<     rdfs:label "vmsDisplayWidth"@en;
+---
+>     rdfs:label "VMS display width"@en;
+7374c7374
+<     rdfs:label "vmsDynamicCharacteristics"@en;
+---
+>     rdfs:label "VMS dynamic characteristics"@en;
+7378c7378
+<     rdfs:label "vmsDynamicCharacteristicsExtension"@en;
+---
+>     rdfs:label "VMS dynamic characteristics extension"@en;
+7382c7382
+<     rdfs:label "vmsExtension"@en;
+---
+>     rdfs:label "VMS extension"@en;
+7386c7386
+<     rdfs:label "vmsFault"@en;
+---
+>     rdfs:label "VMS fault"@en;
+7391c7391
+<     rdfs:label "vmsFaultExtension"@en;
+---
+>     rdfs:label "VMS fault extension"@en;
+7395c7395
+<     rdfs:label "vmsHeightAboveRoadway"@en;
+---
+>     rdfs:label "VMS height above roadway"@en;
+7399c7399
+<     rdfs:label "vmsIndex"@en;
+---
+>     rdfs:label "VMS index"@en;
+7403c7403
+<     rdfs:label "vmsLegendCode"@en;
+---
+>     rdfs:label "VMS legend code"@en;
+7407c7407
+<     rdfs:label "vmsLocation"@en;
+---
+>     rdfs:label "VMS location"@en;
+7411c7411
+<     rdfs:label "vmsLocationOverride"@en;
+---
+>     rdfs:label "VMS location override"@en;
+7415c7415
+<     rdfs:label "vmsManagedLogicalLocation"@en;
+---
+>     rdfs:label "VMS managed logical location"@en;
+7419c7419
+<     rdfs:label "vmsManagedLogicalLocationExtension"@en;
+---
+>     rdfs:label "VMS managed logical location extension"@en;
+7423c7423
+<     rdfs:label "vmsMessage"@en;
+---
+>     rdfs:label "VMS message"@en;
+7427c7427
+<     rdfs:label "vmsMessageExtension"@en;
+---
+>     rdfs:label "VMS message extension"@en;
+7431c7431
+<     rdfs:label "vmsMessageInformationType"@en;
+---
+>     rdfs:label "VMS message information type"@en;
+7435c7435
+<     rdfs:label "vmsMessageSequencingInterval"@en;
+---
+>     rdfs:label "VMS message sequencing interval"@en;
+7439c7439
+<     rdfs:label "vmsOperator"@en;
+---
+>     rdfs:label "VMS operator"@en;
+7443c7443
+<     rdfs:label "vmsOwner"@en;
+---
+>     rdfs:label "VMS owner"@en;
+7447c7447
+<     rdfs:label "vmsPhysicalMounting"@en;
+---
+>     rdfs:label "VMS physical mounting"@en;
+7451c7451
+<     rdfs:label "vmsPictogram"@en;
+---
+>     rdfs:label "VMS pictogram"@en;
+7455c7455
+<     rdfs:label "vmsPictogramDisplayArea"@en;
+---
+>     rdfs:label "VMS pictogram display area"@en;
+7459c7459
+<     rdfs:label "vmsPictogramDisplayAreaExtension"@en;
+---
+>     rdfs:label "VMS pictogram display area extension"@en;
+7463c7463
+<     rdfs:label "vmsPictogramDisplayCharacteristics"@en;
+---
+>     rdfs:label "VMS pictogram display characteristics"@en;
+7467c7467
+<     rdfs:label "vmsPictogramDisplayCharacteristicsExtension"@en;
+---
+>     rdfs:label "VMS pictogram display characteristics extension"@en;
+7471c7471
+<     rdfs:label "vmsPictogramExtension"@en;
+---
+>     rdfs:label "VMS pictogram extension"@en;
+7475c7475
+<     rdfs:label "vmsPublicationExtension"@en;
+---
+>     rdfs:label "VMS publication extension"@en;
+7479c7479
+<     rdfs:label "vmsRecord"@en;
+---
+>     rdfs:label "VMS record"@en;
+7483c7483
+<     rdfs:label "vmsRecordExtension"@en;
+---
+>     rdfs:label "VMS record extension"@en;
+7487c7487
+<     rdfs:label "vmsSetting"@en;
+---
+>     rdfs:label "VMS setting"@en;
+7491c7491
+<     rdfs:label "vmsSettingExtension"@en;
+---
+>     rdfs:label "VMS setting extension"@en;
+7495c7495
+<     rdfs:label "vmsSupplementaryPanel"@en;
+---
+>     rdfs:label "VMS supplementary panel"@en;
+7499c7499
+<     rdfs:label "vmsSupplementaryPanelCharacteristics"@en;
+---
+>     rdfs:label "VMS supplementary panel characteristics"@en;
+7503c7503
+<     rdfs:label "vmsSupplementaryPanelCharacteristicsExtension"@en;
+---
+>     rdfs:label "VMS supplementary panel characteristics extension"@en;
+7507c7507
+<     rdfs:label "vmsSupplementaryPanelExtension"@en;
+---
+>     rdfs:label "VMS supplementary panel extension"@en;
+7511c7511
+<     rdfs:label "vmsSupplementaryPictogram"@en;
+---
+>     rdfs:label "VMS supplementary pictogram"@en;
+7515c7515
+<     rdfs:label "vmsSupplementaryPictogramExtension"@en;
+---
+>     rdfs:label "VMS supplementary pictogram extension"@en;
+7519c7519
+<     rdfs:label "vmsSupplementaryText"@en;
+---
+>     rdfs:label "VMS supplementary text"@en;
+7523c7523
+<     rdfs:label "vmsTablePublicationExtension"@en;
+---
+>     rdfs:label "VMS table publication extension"@en;
+7527c7527
+<     rdfs:label "vmsText"@en;
+---
+>     rdfs:label "VMS text"@en;
+7531c7531
+<     rdfs:label "vmsTextDisplayCharacteristics"@en;
+---
+>     rdfs:label "VMS text display characteristics"@en;
+7535c7535
+<     rdfs:label "vmsTextDisplayCharacteristicsExtension"@en;
+---
+>     rdfs:label "VMS text display characteristics extension"@en;
+7539c7539
+<     rdfs:label "vmsTextExtension"@en;
+---
+>     rdfs:label "VMS text extension"@en;
+7543c7543
+<     rdfs:label "vmsTextImageUrl"@en;
+---
+>     rdfs:label "VMS text image url"@en;
+7547c7547
+<     rdfs:label "vmsTextLine"@en;
+---
+>     rdfs:label "VMS text line"@en;
+7551c7551
+<     rdfs:label "vmsTextLineColour"@en;
+---
+>     rdfs:label "VMS text line colour"@en;
+7555c7555
+<     rdfs:label "vmsTextLineExtension"@en;
+---
+>     rdfs:label "VMS text line extension"@en;
+7559c7559
+<     rdfs:label "vmsTextLineFlashing"@en;
+---
+>     rdfs:label "VMS text line flashing"@en;
+7563c7563
+<     rdfs:label "vmsTextLineHtml"@en;
+---
+>     rdfs:label "VMS text line html"@en;
+7567c7567
+<     rdfs:label "vmsTextLineLanguage"@en;
+---
+>     rdfs:label "VMS text line language"@en;
+7571c7571
+<     rdfs:label "vmsType"@en;
+---
+>     rdfs:label "VMS type"@en;
+7575c7575
+<     rdfs:label "vmsTypeCode"@en;
+---
+>     rdfs:label "VMS type code"@en;
+7579c7579
+<     rdfs:label "vmsUnit"@en;
+---
+>     rdfs:label "VMS unit"@en;
+7583c7583
+<     rdfs:label "vmsUnitElectronicAddress"@en;
+---
+>     rdfs:label "VMS unit electronic address"@en;
+7587c7587
+<     rdfs:label "vmsUnitExtension"@en;
+---
+>     rdfs:label "VMS unit extension"@en;
+7591c7591
+<     rdfs:label "vmsUnitFault"@en;
+---
+>     rdfs:label "VMS unit fault"@en;
+7596c7596
+<     rdfs:label "vmsUnitFaultExtension"@en;
+---
+>     rdfs:label "VMS unit fault extension"@en;
+7600c7600
+<     rdfs:label "vmsUnitIPAddress"@en;
+---
+>     rdfs:label "VMS unit ip address"@en;
+7604c7604
+<     rdfs:label "vmsUnitIdentifier"@en;
+---
+>     rdfs:label "VMS unit identifier"@en;
+7608c7608
+<     rdfs:label "vmsUnitRecord"@en;
+---
+>     rdfs:label "VMS unit record"@en;
+7612c7612
+<     rdfs:label "vmsUnitRecordExtension"@en;
+---
+>     rdfs:label "VMS unit record extension"@en;
+7616c7616
+<     rdfs:label "vmsUnitReference"@en;
+---
+>     rdfs:label "VMS unit reference"@en;
+7621c7621
+<     rdfs:label "vmsUnitTable"@en;
+---
+>     rdfs:label "VMS unit table"@en;
+7625c7625
+<     rdfs:label "vmsUnitTableExtension"@en;
+---
+>     rdfs:label "VMS unit table extension"@en;
+7629c7629
+<     rdfs:label "vmsUnitTableIdentification"@en;
+---
+>     rdfs:label "VMS unit table identification"@en;
+7633c7633
+<     rdfs:label "vmsUnitTableReference"@en;
+---
+>     rdfs:label "VMS unit table reference"@en;
+7638c7638
+<     rdfs:label "vmsUnitUsedToManageParking"@en;
+---
+>     rdfs:label "VMS unit used to manage parking"@en;
+7642c7642
+<     rdfs:label "vmsWorking"@en;
+---
+>     rdfs:label "VMS working"@en;
+7650c7650
+<     rdfs:label "volumeOfDangerousGoods"@en;
+---
+>     rdfs:label "volume of dangerous goods"@en;
+7654c7654
+<     rdfs:label "waterFilmThickness"@en;
+---
+>     rdfs:label "water film thickness"@en;
+7658c7658
+<     rdfs:label "weatherDataExtension"@en;
+---
+>     rdfs:label "weather data extension"@en;
+7662c7662
+<     rdfs:label "weatherRelatedRoadConditionType"@en;
+---
+>     rdfs:label "weather related road condition type"@en;
+7667c7667
+<     rdfs:label "weatherRelatedRoadConditionsExtension"@en;
+---
+>     rdfs:label "weather related road conditions extension"@en;
+7671c7671
+<     rdfs:label "weightAttribute"@en;
+---
+>     rdfs:label "weight attribute"@en;
+7675c7675
+<     rdfs:label "weightOfDangerousGoods"@en;
+---
+>     rdfs:label "weight of dangerous goods"@en;
+7679c7679
+<     rdfs:label "weightPerAxleAttribute"@en;
+---
+>     rdfs:label "weight per axle attribute"@en;
+7683c7683
+<     rdfs:label "widthAttribute"@en;
+---
+>     rdfs:label "width attribute"@en;
+7687c7687
+<     rdfs:label "widthCharacteristic"@en;
+---
+>     rdfs:label "width characteristic"@en;
+7691c7691
+<     rdfs:label "widthCharacteristicExtension"@en;
+---
+>     rdfs:label "width characteristic extension"@en;
+7699c7699
+<     rdfs:label "windDirectionBearing"@en;
+---
+>     rdfs:label "wind direction bearing"@en;
+7703c7703
+<     rdfs:label "windDirectionCompass"@en;
+---
+>     rdfs:label "wind direction compass"@en;
+7707c7707
+<     rdfs:label "windExtension"@en;
+---
+>     rdfs:label "wind extension"@en;
+7711c7711
+<     rdfs:label "windInformationExtension"@en;
+---
+>     rdfs:label "wind information extension"@en;
+7715c7715
+<     rdfs:label "windMeasurementHeight"@en;
+---
+>     rdfs:label "wind measurement height"@en;
+7719c7719
+<     rdfs:label "windSpeed"@en;
+---
+>     rdfs:label "wind speed"@en;
+7723c7723
+<     rdfs:label "winterDrivingManagementExtension"@en;
+---
+>     rdfs:label "winter driving management extension"@en;
+7727c7727
+<     rdfs:label "winterEquipmentManagementType"@en;
+---
+>     rdfs:label "winter equipment management type"@en;
+7732c7732
+<     rdfs:label "withReservation"@en;
+---
+>     rdfs:label "with reservation"@en;
