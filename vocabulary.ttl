@@ -30,7 +30,6 @@ datex:Ontology
                 <https://people.epfl.ch/prodromos.kolyvakis> ;
     vann:preferredNamespacePrefix "datex" ;
     vann:preferredNamespaceUri "http://vocab.datex.org/terms#" ;
-    a owl:Ontology ;
     rdfs:label "Linked Datex II"@en ;
     rdfs:seeAlso <http://datex2.eu/schema/2/2_0> .
 
