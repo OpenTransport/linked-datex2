@@ -17,7 +17,7 @@
     dct:hasFormat <https://raw.githubusercontent.com/OpenTransport/linked-datex2/master/vocabulary.ttl> ;
     dct:issued "2016-05-23"^^xsd:date ;
     dct:modified "2016-06-13"^^xsd:date ;
-    dct:rights "Copyright 2016 - Open Transport contributors" ;
+    dct:rights "Copyright 2016, 2017 - Open Transport contributors" ;
     a foaf:Document ;
     foaf:primaryTopic datex:Ontology .
 
@@ -26,7 +26,7 @@ datex:Ontology
     a owl:Ontology ;
     rdfs:comment "A mapping of Datex2 to a Linked Data vocabulary"@en ;
     dct:description "This document gives URIs to all terms used within Datex II"@en ;
-    dct:creator <http://pieter.pm/#me>,
+    dct:creator <https://pietercolpaert.be/#me>,
                 <https://people.epfl.ch/prodromos.kolyvakis> ;
     vann:preferredNamespacePrefix "datex" ;
     vann:preferredNamespaceUri "http://vocab.datex.org/terms#" ;
@@ -37,7 +37,7 @@ datex:Ontology
 <https://people.epfl.ch/prodromos.kolyvakis>
     foaf:name "Prodromos Kolyvakis" .
 
-<http://pieter.pm/#me>
+<https://pietercolpaert.be/#me>
     foaf:name "Pieter Colpaert" ;
     owl:sameAs <http://google.com/+PieterColpaert> .
 
